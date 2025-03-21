@@ -1,0 +1,8302 @@
+0      - Asuna Yuuki
+1      - Lumine
+2      - Aether
+3      - Denji
+4      - Paimon
+5      - Kyouko Otonashi
+6      - Yuusaku Godai
+7      - Roxy Migurdia
+8      - Rudeus Greyrat
+9      - Amber
+10     - Kaeya
+11     - Barbara
+12     - Lisa
+13     - Jean
+14     - Guts
+15     - Diluc
+16     - Griffith
+17     - Makima
+18     - Casca
+19     - Aki Hayakawa
+20     - Schierke
+21     - Power
+22     - Puck
+23     - Hatsune Miku
+24     - Shinji Ikari
+25     - Asuka Langley Soryu
+26     - Shouko Komi
+27     - Rei Ayanami
+28     - Shuuko Komi
+29     - Kaworu Nagisa
+30     - Misato Katsuragi
+31     - Ryouji Kaji
+32     - Gilles de Rais
+33     - Venti
+34     - Bennett
+35     - Fischl
+36     - Waver Velvet
+37     - Bazett Fraga McRemitz
+38     - Klee
+39     - Sucrose
+40     - Noelle
+41     - Razor
+42     - Mona
+43     - Ishtar
+44     - Eris Boreas Greyrat
+45     - Shirou Emiya
+46     - Rin Tohsaka
+47     - Gilgamesh
+48     - Sakura Matou
+49     - Shinji Matou
+50     - Medea
+51     - Shiraori
+52     - Feirune
+53     - Ariel
+54     - Kumoko
+55     - Sophia Keren
+56     - Wrath
+57     - Karnatia Seri Anabald
+58     - Schlain Zagan Analeit
+59     - Suelecia Zagan Analeit
+60     - Filimos Harrifenas
+61     - Potimas Harrifenas
+62     - Artoria Pendragon
+63     - Artoria Alter
+64     - Artoria Lancer
+65     - Megumin
+66     - Artoria Lancer Alter
+67     - Emiya
+68     - Thorfinn
+69     - Askeladd
+70     - Hild
+71     - Luviagelita Edelfelt
+72     - Astraea
+73     - Gray
+74     - Reines El-Melloi Archisorte
+75     - Mordred
+76     - Lancelot
+77     - Gareth
+78     - Bedivere
+79     - Gawain
+80     - Agravain
+81     - Ylva
+82     - Tristan
+83     - Albedo
+84     - Xiangling
+85     - Keqing
+86     - Qiqi
+87     - Chongyun
+88     - Beidou
+89     - Xingqiu
+90     - Ningguang
+91     - Zhongli
+92     - Ganyu
+93     - Red
+94     - Blue
+95     - Misty
+96     - Sabrina
+97     - Leaf
+98     - Dawn
+99     - Lyra
+100    - May
+101    - Hilda
+102    - Rosa
+103    - Serena
+104    - Gloria
+105    - Juliana
+106    - Gakupo Kamui
+107    - Kirei Kotomine
+108    - Illyasviel von Einzbern
+109    - Irisviel von Einzbern
+110    - Chloe von Einzbern
+111    - Miyu Edelfelt
+112    - Kiritsugu Emiya
+113    - Cu Chulainn
+114    - Sylphiette
+115    - Aisha Greyrat
+116    - Lilya Greyrat
+117    - Norn Greyrat
+118    - Zenith Greyrat
+119    - Ruijerd Superdia
+120    - Kishirika Kishirisu
+121    - Orsted
+122    - Ghislaine Dedoldia
+123    - Paul Greyrat
+124    - Rin Shima
+125    - Nadeshiko Kagamihara
+126    - Aoi Inuyama
+127    - Chiaki Oogaki
+128    - Ena Saitou
+129    - Alucard
+130    - Seras Victoria
+131    - Integra Fairbrook Wingates Hellsing
+132    - Alexander Anderson
+133    - Schrodinger
+134    - Rip Van Winkle
+135    - Angelica Ainsworth
+136    - Ereshkigal
+137    - Neco Arc
+138    - Arcueid Brunestud
+139    - Shiki Tohno
+140    - Ciel
+141    - Kohaku
+142    - Hisui
+143    - Akiha Tohno
+144    - Sieg
+145    - Astolfo
+146    - Jeanne D'arc
+147    - Siegfried
+148    - Karna
+149    - Atalanta
+150    - Amakusa Shirou Tokisada
+151    - Semiramis
+152    - Frankenstein
+153    - Jack the Ripper
+154    - Achilles
+155    - William Shakespeare
+156    - Vlad III
+157    - Chiron
+158    - Spartacus
+159    - Avicebron
+160    - Morgan Le Fay
+161    - Kairi Shishigou
+162    - Angra Mainyu
+163    - Childe
+164    - Mash Kyrielight
+165    - Oono Akira
+166    - Hidaka Koharu
+167    - Yaguchi Haruo
+168    - Yelan
+169    - Eula
+170    - Kazuto Kirigaya
+171    - Alice Zuberg
+172    - Zero Two
+173    - Nrvnqsr Chaos
+174    - Farnese de Vandimion
+175    - Skull Knight
+176    - Josee
+177    - Tsuneo Suzukawa
+178    - Marin Kitagawa
+179    - Gojou Wakana
+180    - Makoto Naegi
+181    - Kyouko Kirigiri
+182    - Byakuya Togami
+183    - Touko Fukawa
+184    - Aoi Asahina
+185    - Yasuhiro Hagakure
+186    - Sayaka Maizono
+187    - Leon Kuwata
+188    - Eugeo
+189    - Mikako Nagamine
+190    - Noboru Terao
+191    - Sumika Fujimiya
+192    - Satoru Gojo
+193    - Yuuji Itadori
+194    - Megumi Fushiguro
+195    - Nobara Kugisaki
+196    - Sukuna Ryomen
+197    - Kento Nanami
+198    - Toge Inumaki
+199    - Maki Zen'in
+200    - Aoi Todo
+201    - Suguru Geto
+202    - Mahito
+203    - Kasumi Miwa
+204    - Choso
+205    - Junpei Yoshino
+206    - Utahime Iori
+207    - Mai Zen'in
+208    - Mei Mei
+209    - Shoko Ieiri
+210    - Panda
+211    - Xiao
+212    - Toji Fushiguro
+213    - Hu Tao
+214    - Xinyan
+215    - Yanfei
+216    - Shenhe
+217    - Rosaria
+218    - Kaedehara Kazuha
+219    - Thoma
+220    - Raiden Shogun
+221    - Kujou Sara
+222    - Yoimiya
+223    - Sayu
+224    - Yun Jin
+225    - Kamisato Ayaka
+226    - Kamisato Ayato
+227    - Sangonomiya Kokomi
+228    - Kuki Shinobu
+229    - Shikanoin Heizou
+230    - Arataki Itto
+231    - Yae Miko
+232    - Collei
+233    - Tighnari
+234    - Dori
+235    - Cyno
+236    - Nilou
+237    - Candace
+238    - Nahida
+239    - Layla
+240    - Yuta Okkotsu
+241    - Miyamoto Musashi
+242    - Shino Asada
+243    - Ayano Keiko
+244    - Rika Shinozaki
+245    - Ryoutarou Tsuboi
+246    - Suguha Kirigaya
+247    - Yui
+248    - Yuuki Konno
+249    - YoRHa 2-gou B-gata
+250    - Chihiro Fujisaki
+251    - YoRHa A-gata 2-gou
+252    - Mondo Oowada
+253    - Kiyotaka Ishimaru
+254    - Hifumi Yamada
+255    - YoRHa 9-gou S-gata
+256    - Celestia Ludenberg
+257    - Sakura Oogami
+258    - Junko Enoshima
+259    - Kaine
+260    - Monokuma
+261    - Devola
+262    - Popola
+263    - Gawr Gura
+264    - Luna Himemori
+265    - Kanata Amane
+266    - Akai Haato
+267    - Takane Lui
+268    - Chloe Sakamata
+269    - Iroha Kazama
+270    - Koyori Hakui
+271    - La+ Darknesss
+272    - AZKi
+273    - Yuzuki Choco
+274    - Yukihana Lamy
+275    - Yozora Mel
+276    - Usada Pekora
+277    - Uruha Rushia
+278    - Tsunomaki Watame
+279    - Mabel Rayveil
+280    - Tokoyami Towa
+281    - Tokino Sora
+282    - Shishiro Botan
+283    - Shirogane Noel
+284    - Shiranui Flare
+285    - Shirakami Fubuki
+286    - Mukuro Ikusaba
+287    - Sakura Miko
+288    - Aki Rosenthal
+289    - Roboco
+290    - Oozora Subaru
+291    - Ookami Mio
+292    - Omaru Polka
+293    - Ninomae Ina'nis
+294    - Nekomata Okayu
+295    - BB
+296    - Natsuiro Matsuri
+297    - Meltryllis
+298    - Passionlip
+299    - Nakiri Ayame
+300    - Kingprotea
+301    - Murasaki Shion
+302    - Momosuzu Nene
+303    - Ushiwakamaru
+304    - Minato Aqua
+305    - Kiryu Coco
+306    - Inugami Korone
+307    - Houshou Marine
+308    - Hoshimachi Suisei
+309    - Monkey D. Luffy
+310    - Ceres Fauna
+311    - Roronoa Zoro
+312    - Nero Claudius
+313    - Sanji
+314    - Nico Robin
+315    - Tony Tony Chopper
+316    - Nami
+317    - Usopp
+318    - Brook
+319    - Franky
+320    - Jinbe
+321    - Boa Hancock
+322    - Trafalgar Law
+323    - Sabo
+324    - Portgas D. Ace
+325    - Edward Newgate
+326    - Sakura Kinomoto
+327    - Kaidou
+328    - Eustass Kid
+329    - Naruto Uzumaki
+330    - Sasuke Uchiha
+331    - Kakashi Hatake
+332    - Sakura Haruno
+333    - Mai Sakurajima
+334    - Hinata Hyuga
+335    - Shino Aburame
+336    - Choji Akimichi
+337    - Deidara
+338    - Gaara
+339    - Haku
+340    - Kisame Hoshigaki
+341    - Hanabi Hyuga
+342    - Kiba Inuzuka
+343    - Jiraiya
+344    - Kankuro
+345    - Kurama
+346    - Rock Lee
+347    - Might Guy
+348    - Zabuza Momochi
+349    - Minato Namikaze
+350    - Shikamaru Nara
+351    - Orochimaru
+352    - Konohamaru Sarutobi
+353    - Hashirama Senju
+354    - Tobirama Senju
+355    - Temari
+356    - Tenten
+357    - Tsunade
+358    - Itachi Uchiha
+359    - Kabuto Yakushi
+360    - Ino Yamanaka
+361    - Madara Uchiha
+362    - Rin Nohara
+363    - Obito Uchiha
+364    - Neji Hyuga
+365    - Karen Kohiruimaki
+366    - Lum
+367    - Ataru Moroboshi
+368    - Shinobu Miyake
+369    - Shuutarou Mendou
+370    - Benten
+371    - Sakura
+372    - Sakuranbou
+373    - Honoka Kousaka
+374    - Ran
+375    - Kitsune
+376    - Satoshi
+377    - Eli Ayase
+378    - Reze
+379    - Kobeni Higashiyama
+380    - Pochita
+381    - Angel Devil
+382    - Himeno
+383    - Quanxi
+384    - Kotori Minami
+385    - Umi Sonoda
+386    - Rin Hoshizora
+387    - Maki Nishikino
+388    - Nozomi Toujou
+389    - Hanayo Koizumi
+390    - Nico Yazawa
+391    - Chika Takami
+392    - Riko Sakurauchi
+393    - Kanan Matsuura
+394    - Dia Kurosawa
+395    - You Watanabe
+396    - Yoshiko Tsushima
+397    - Hanamaru Kunikida
+398    - Mari Ohara
+399    - Ruby Kurosawa
+400    - Lanzhu Zhong
+401    - Manjiro Sano
+402    - Ken Ryuguji
+403    - Takemichi Hanagaki
+404    - Chifuyu Matsuno
+405    - Keisuke Baji
+406    - Takashi Mitsuya
+407    - Kazutora Hanemiya
+408    - Hinata Tachibana
+409    - Mami Sakura
+410    - Lucifer
+411    - Beelzebub
+412    - Mammon
+413    - Leviathan
+414    - Satan
+415    - Asmodeus
+416    - Belphegor
+417    - Diavolo
+418    - Simeon
+419    - Barbatos
+420    - Luke
+421    - Shouyou Hinata
+422    - Tobio Kageyama
+423    - Tooru Oikawa
+424    - Yuu Nishinoya
+425    - Kenma Kozume
+426    - Kei Tsukishima
+427    - Tetsurou Kuroo
+428    - Koushi Sugawara
+429    - Ryuunosuke Tanaka
+430    - Tadashi Yamaguchi
+431    - Asahi Azumane
+432    - Daichi Sawamura
+433    - Kiyoko Shimizu
+434    - Hitoka Yachi
+435    - Koutarou Bokuto
+436    - Keiji Akaashi
+437    - Xerxes Break
+438    - Gilbert Nightray
+439    - Alice
+440    - Oz Vessalius
+441    - Sharon Rainsworth
+442    - Elliot Nightray
+443    - Jack Vessalius
+444    - Vincent Nightray
+445    - Will of the Abyss
+446    - Shinoa Hiiragi
+447    - Mikaela Hyakuya
+448    - Guren Ichinose
+449    - Yuuichirou Hyakuya
+450    - Yoichi Saotome
+451    - Shihou Kimizuki
+452    - Mitsuba Sanguu
+453    - Krul Tepes
+454    - Shinya Hiiragi
+455    - Asta
+456    - Noelle Silva
+457    - Yuno
+458    - Yami Sukehiro
+459    - Mereoleona Vermillion
+460    - Luck Voltia
+461    - Julius Novachrono
+462    - Nero
+463    - Charmy Papittson
+464    - Zora Ideale
+465    - Mimosa Vermillion
+466    - Finral Roulacase
+467    - Vanessa Enoteca
+468    - Magna Swing
+469    - Gordon Agrippa
+470    - Grey
+471    - Gauche Adlai
+472    - Henry Legolant
+473    - Hirotaka Nifuji
+474    - Narumi Momose
+475    - Hanako Koyanagi
+476    - Tarou Kabakura
+477    - Meguru Bachira
+478    - Yoichi Isagi
+479    - Hyouma Chigiri
+480    - Rensuke Kunigami
+481    - Ayumu Uehara
+482    - Kasumi Nakasu
+483    - Shizuku Ousaka
+484    - Karin Asaka
+485    - Ai Miyashita
+486    - Setsuna Yuki
+487    - Emma Verde
+488    - Rina Tennoji
+489    - Kanata Konoe
+490    - Yuu Takasaki
+491    - Mifune Shioriko
+492    - Mia Taylor
+493    - Barghest
+494    - Melusine
+495    - Baobhan Sith
+496    - Son Goku
+497    - Vegeta
+498    - Bulma
+499    - Son Gohan
+500    - Piccolo
+501    - Krillin
+502    - Anya Forger
+503    - Yor Forger
+504    - Loid Forger
+505    - Shibuya Kanon
+506    - Keke Tang
+507    - Sumire Heanna
+508    - Chisato Arashi
+509    - Ren Hazuki
+510    - Haruka Kiritani
+511    - Minori Hanasato
+512    - Airi Momoi
+513    - Shizuku Hinomori
+514    - Ichika Hoshino
+515    - Saki Tenma
+516    - Honami Mochizuki
+517    - Shiho Hinomori
+518    - Mafuyu Asahina
+519    - Kanade Yoisaki
+520    - Mizuki Akiyama
+521    - Ena Shinonome
+522    - Tsukasa Tenma
+523    - Emu Otori
+524    - Akito Shinonome
+525    - Nene Kusanagi
+526    - Rui Kamishiro
+527    - Kohane Azusawa
+528    - Toya Aoyagi
+529    - An Shiraishi
+530    - Micchon Shikimori
+531    - Yuu Izumi
+532    - Izumi Miyamura
+533    - Hori Kyouko
+534    - Bell Cranel
+535    - Hestia
+536    - Ais Wallenstein
+537    - Vladilena Milize
+538    - Shinei Nouzen
+539    - Anju Emma
+540    - Theoto Rikka
+541    - Kurena Kukumila
+542    - Raiden Shuga
+543    - Caren Hortensia
+544    - Ren Amamiya
+545    - Makoto Niijima
+546    - Ryuji Sakamoto
+547    - Yuusuke Kitagawa
+548    - Ann Takamaki
+549    - Morgana
+550    - Gorou Akechi
+551    - Futaba Sakura
+552    - Haru Okumura
+553    - Kasumi Yoshizawa
+554    - Rem
+555    - Emilia
+556    - Subaru Natsuki
+557    - Ram
+558    - Echidna
+559    - Jin-Woo Sung
+560    - Hae-In Cha
+561    - Kaguya Shinomiya
+562    - Miyuki Shirogane
+563    - Yuu Ishigami
+564    - Ai Hayasaka
+565    - Chika Fujiwara
+566    - Kei Shirogane
+567    - Solomon
+568    - Akihito Kanbara
+569    - Mirai Kuriyama
+570    - Hiroomi Nase
+571    - Mitsuki Nase
+572    - Hachiman Hikigaya
+573    - Yui Yuigahama
+574    - Yukino Yukinoshita
+575    - Eru Chitanda
+576    - Satoshi Fukube
+577    - Mayaka Ibara
+578    - Houtarou Oreki
+579    - Ryuunosuke Akasaka
+580    - Nanami Aoyama
+581    - Misaki Kamiigusa
+582    - Sorata Kanda
+583    - Jin Mitaka
+584    - Mashiro Shiina
+585    - Taiga Aisaka
+586    - Ami Kawashima
+587    - Yuusaku Kitamura
+588    - Minori Kushieda
+589    - Ryuuji Takasu
+590    - Willem Kmetsch
+591    - Ithea Myse Valgulious
+592    - Chtholly Nota Seniorious
+593    - Nephren Ruq Insania
+594    - Komaru Naegi
+595    - Monomi
+596    - Chichi
+597    - Trunks
+598    - Future Trunks
+599    - Frieza
+600    - Cell
+601    - Majin Buu
+602    - Android 17
+603    - Android 18
+604    - Broly
+605    - Edward Elric
+606    - Alphonse Elric
+607    - Roy Mustang
+608    - Maes Hughes
+609    - Alex Louis Armstrong
+610    - Olivier Mira Armstrong
+611    - King Bradley
+612    - Winry Rockbell
+613    - Ling Yao
+614    - Scar
+615    - Solf J. Kimblee
+616    - Mei Chang
+617    - Rintarou Okabe
+618    - Kurisu Makise
+619    - Mayuri Shiina
+620    - Itaru Hashida
+621    - Suzuha Amane
+622    - Ruka Urushibara
+623    - Rumiho Akiha
+624    - Moeka Kiryuu
+625    - Kiyotaka Ayanokouji
+626    - Suzune Horikita
+627    - Kei Karuizawa
+628    - Sakura Airi
+629    - Arisu Sakayanagi
+630    - Kikyou Kushida
+631    - Honami Ichinose
+632    - Stephanie Dola
+633    - Shiro
+634    - Sora
+635    - Izuna Hatsuse
+636    - Jibril
+637    - Manabu Horikita
+638    - Mio Ibuki
+639    - Kakeru Ryuuen
+640    - Maya Satou
+641    - Ichika Amasawa
+642    - Sae Chabashira
+643    - Yato
+644    - Yukine
+645    - Hiyori Iki
+646    - Bishamon
+647    - Kofuku
+648    - Chizuru Mizuhara
+649    - Kazuya Kinoshita
+650    - Mami Nanami
+651    - Sumi Sakurasawa
+652    - Ruka Sarashina
+653    - Senku
+654    - Gen Asagiri
+655    - Chrome
+656    - Kohaku
+657    - Taiju Ooki
+658    - Yuzuriha Ogawa
+659    - Tsukasa Shishio
+660    - Suika
+661    - Carla
+662    - Natsu Dragneel
+663    - Gray Fullbuster
+664    - Happy
+665    - Lucy Heartfilia
+666    - Wendy Marvell
+667    - Erza Scarlet
+668    - Acnologia
+669    - Cana Alberona
+670    - Aquarius
+671    - Aries
+672    - Rogue Cheney
+673    - Gildarts Clive
+674    - Cobra
+675    - Flare Corona
+676    - Laxus Dreyar
+677    - Makarov Dreyar
+678    - Sting Eucliffe
+679    - Jellal Fernandes
+680    - Frosch
+681    - Freed Justine
+682    - Juvia Lockser
+683    - Lector
+684    - Loki
+685    - Levy McGarden
+686    - Meredy
+687    - Kagura Mikazuchi
+688    - Ultear Milkovich
+689    - Millianna
+690    - Minerva Orland
+691    - Pantherlily
+692    - Plue
+693    - Gajeel Redfox
+694    - Elfman Strauss
+695    - Lisanna Strauss
+696    - Mirajane Strauss
+697    - Ichiya Vandalay Kotobuki
+698    - Lyon Vastia
+699    - Mavis Vermillion
+700    - Virgo
+701    - Zeref
+702    - Yukino Aguria
+703    - Hideki Hinata
+704    - Yuri Nakamura
+705    - Yuzuru Otonashi
+706    - Kanade Tachibana
+707    - Ken Kaneki
+708    - Touka Kirishima
+709    - Koutarou Amon
+710    - Kishou Arima
+711    - Eto
+712    - Hinami Fueguchi
+713    - Rize Kamishiro
+714    - Ayato Kirishima
+715    - Hideyoshi Nagachika
+716    - Nishiki Nishio
+717    - Juuzou Suzuya
+718    - Seidou Takizawa
+719    - Shuu Tsukiyama
+720    - Uta
+721    - Mikasa Ackerman
+722    - Armin Arlert
+723    - Eren Yeager
+724    - Sasha Blouse
+725    - Jean Kirstein
+726    - Connie Springer
+727    - Reiner Braun
+728    - Bertolt Hoover
+729    - Krista Lenz
+730    - Ymir
+731    - Annie Leonhart
+732    - Levi
+733    - Erwin Smith
+734    - Hange Zoe
+735    - Hannes
+736    - Hitch Dreyse
+737    - Marco Bott
+738    - Moblit Berner
+739    - Zenitsu Agatsuma
+740    - Inosuke Hashibira
+741    - Nezuko Kamado
+742    - Tanjiro Kamado
+743    - Gyomei Himejima
+744    - Obanai Iguro
+745    - Mitsuri Kanroji
+746    - Muzan Kibutsuji
+747    - Enmu
+748    - Rui
+749    - Susamaru
+750    - Hotaru Haganezuka
+751    - Aoi Kanzaki
+752    - Kanae Kocho
+753    - Shinobu Kocho
+754    - Kanao Tsuyuri
+755    - Makomo
+756    - Sabito
+757    - Kyoujurou Rengoku
+758    - Genya Shinazugawa
+759    - Sanemi Shinazugawa
+760    - Tamayo
+761    - Muichiro Tokito
+762    - Giyuu Tomioka
+763    - Kagaya Ubuyashiki
+764    - Sakonji Urokodaki
+765    - Tengen Uzui
+766    - Yushiro
+767    - Rias Gremory
+768    - Akeno Himejima
+769    - Vanitas
+770    - Issei Hyoudou
+771    - Koneko Toujou
+772    - Asia Argento
+773    - Ravel Phenex
+774    - Raynare
+775    - Miku Nakano
+776    - Itsuki Nakano
+777    - Nino Nakano
+778    - Yotsuba Nakano
+779    - Ichika Nakano
+780    - Fuutarou Uesugi
+781    - Lelouch Lamperouge
+782    - C.C.
+783    - Kallen Stadtfeld
+784    - Suzaku Kururugi
+785    - Shirley Fenette
+786    - Cornelia li Britannia
+787    - Euphemia li Britannia
+788    - Nunnally Lamperouge
+789    - Jeremiah Gottwald
+790    - Gon Freecss
+791    - Killua Zoldyck
+792    - Kurapika
+793    - Leorio Paladiknight
+794    - Hisoka Morow
+795    - Chrollo Lucilfer
+796    - Isaac Netero
+797    - Feitan Pohtoh
+798    - Kite
+799    - Illumi Zoldyck
+800    - Ging Freecss
+801    - Machi Komachine
+802    - Shizuku Murasaki
+803    - Zeno Zoldyck
+804    - Neferpitou
+805    - Shaiapouf
+806    - Meruem
+807    - David Martinez
+808    - Lucy
+809    - Rebecca
+810    - Maine
+811    - Adam Smasher
+812    - Faraday
+813    - Gloria Martinez
+814    - Akame
+815    - Kurome
+816    - Esdeath
+817    - Tatsumi
+818    - Leone
+819    - Mine
+820    - Sheele
+821    - Bulat
+822    - Lubbock
+823    - Chelsea
+824    - Jonathan Joestar
+825    - Joseph Joestar
+826    - Jotaro Kujo
+827    - Josuke Higashikata
+828    - Giorno Giovanna
+829    - Jolyne Kujo
+830    - Johnny Joestar
+831    - Dio Brando
+832    - Yoshikage Kira
+833    - Diavolo
+834    - Enrico Pucci
+835    - Funny Valentine
+836    - Noriaki Kakyoin
+837    - Jean-Pierre Polnareff
+838    - Mohammed Avdol
+839    - Hol Horse
+840    - Iggy
+841    - Caesar Anthonio Zeppeli
+842    - Lisa Lisa
+843    - Gintoki Sakata
+844    - Kagura
+845    - Shinpachi Shimura
+846    - Elizabeth
+847    - Taizo Hasegawa
+848    - Toushirou Hijikata
+849    - Kotarou Katsura
+850    - Kamui
+851    - Isao Kondou
+852    - Okita Sougo
+853    - Tatsuma Sakamoto
+854    - Shinsuke Takasugi
+855    - Jin Kirigiri
+856    - Puck
+857    - Priscilla Barielle
+858    - Felix Argyle
+859    - Frederica Baumann
+860    - Garfiel Tinsel
+861    - Beatrice
+862    - Felt
+863    - Elsa Granhiert
+864    - Anastasia Hoshin
+865    - Crusch Karsten
+866    - Roswaal L. Mathers
+867    - Mimi Pearlbaton
+868    - Petelgeuse Romanee-Conti
+869    - Satella
+870    - Reinhard van Astrea
+871    - Wilhelm van Astrea
+872    - Len Kagamine
+873    - Rin Kagamine
+874    - Kaito
+875    - Luka Megurine
+876    - Meiko
+877    - Sajuna Inui
+878    - Shinju Inui
+879    - Sakuta Azusagawa
+880    - Rio Futaba
+881    - Kaede Azusagawa
+882    - Tomoe Koga
+883    - Shouko Makinohara
+884    - Nodoka Toyohama
+885    - Yuuma Kunimi
+886    - Ichigo
+887    - Hiro
+888    - Yuki Yoshikawa
+889    - Kyousuke Hori
+890    - Honoka Sawada
+891    - Tooru Ishikawa
+892    - Akane Yanagi
+893    - Remi Ayasaki
+894    - Sakura Kouno
+895    - Kakeru Sengoku
+896    - Goro
+897    - Kokoro
+898    - Miku
+899    - Komugi
+900    - Biscuit Krueger
+901    - Mitsuru
+902    - Zorome
+903    - Ikuno
+904    - Futoshi
+905    - Chess Belle
+906    - Ashuramaru
+907    - Senju Kawaragi
+908    - Shuji Hanma
+909    - Izana Kurokawa
+910    - Nahoya Kawata
+911    - Seishu Inui
+912    - Souya Kawata
+913    - Hajime Kokonoi
+914    - Ran Haitani
+915    - Kisaki Tetta
+916    - Rindo Haitani
+917    - Hakkai Shiba
+918    - Yuzuha Shiba
+919    - Taiju Shiba
+920    - Emma
+921    - Alluka Zoldyck
+922    - Steven Stone
+923    - N
+924    - Lillie
+925    - Cynthia
+926    - Jessie
+927    - James
+928    - Selene
+929    - Marnie
+930    - Bea
+931    - Iris
+932    - Kazuma Satou
+933    - Aqua
+934    - Lalatina Dustiness Ford
+935    - Wiz
+936    - Eris
+937    - Chris
+938    - Luna
+939    - Yunyun
+940    - Erio Touwa
+941    - Ryuuko Mifune
+942    - Yashiro Hoshimiya
+943    - Meme Touwa
+944    - Makoto Niwa
+945    - Maekawa
+946    - Syaoran Li
+947    - Tomoyo Daidouji
+948    - Kerberos
+949    - Yue
+950    - Knuckle Bine
+951    - Meiling Li
+952    - Yukito Tsukishiro
+953    - Canary
+954    - Pariston Hill
+955    - Ikalgo
+956    - Phinks Magkav
+957    - Iroha Isshiki
+958    - Morel McCarnathy
+959    - Pakunoda
+960    - Shalnark Ryuseih
+961    - Palm Siberia
+962    - Shizuka Hiratsuka
+963    - Saika Totsuka
+964    - Komachi Hikigaya
+965    - Haruno Yukinoshita
+966    - Tet
+967    - Fiel Nirvalen
+968    - Chlammy Zell
+969    - Lev Haiba
+970    - Korai Hoshiumi
+971    - Atsumu Miya
+972    - Osamu Miya
+973    - Aran Ojiro
+974    - Rintaro Suna
+975    - Satori Tendou
+976    - Saeko Tanaka
+977    - Keishin Ukai
+978    - Wakatoshi Ushijima
+979    - Mr Satan
+980    - Mr Popo
+981    - Master Roshi
+982    - Pan
+983    - Son Goten
+984    - Tien
+985    - Videl
+986    - Whis
+987    - Yajirobe
+988    - Yamcha
+989    - Zamasu
+990    - Beerus
+991    - Cabba
+992    - Caulifla
+993    - Champa
+994    - Ginyu
+995    - Goku Black
+996    - Gotenks
+997    - Hit
+998    - Jiren
+999    - Kale
+1000   - Kefla
+1001   - Gogeta
+1002   - Vegito
+1003   - Subaru Akehoshi
+1004   - Hokuto Hidaka
+1005   - Mao Isara
+1006   - Ichigo Kurosaki
+1007   - Rukia Kuchiki
+1008   - Orihime Inoue
+1009   - Shinra Kusakabe
+1010   - Ban
+1011   - Diane
+1012   - Tamaki Kotatsu
+1013   - Gilthunder
+1014   - Hawk
+1015   - King
+1016   - Touma Kamijou
+1017   - Elizabeth Liones
+1018   - Meliodas
+1019   - Elaine
+1020   - Gowther
+1021   - Index Librorum Prohibitorum
+1022   - Escanor
+1023   - Merlin
+1024   - Arthur Pendragon
+1025   - Howzer
+1026   - Hendrickson
+1027   - Helbram
+1028   - Hawk Mama
+1029   - Guila
+1030   - Jericho
+1031   - Liliruca Arde
+1032   - Aisha Belka
+1033   - Welf Crozzo
+1034   - Freya
+1035   - Tiona Hiryute
+1036   - Tione Hiryute
+1037   - Ryuu Lion
+1038   - Haruhime Sanjouno
+1039   - Wiene
+1040   - Kamiya
+1041   - Yui Hachimitsu
+1042   - Shuu Inuzuka
+1043   - Kyou Nekozaki
+1044   - Yuu Narukami
+1045   - Naoto Shirogane
+1046   - Chie Satonaka
+1047   - Yousuke Hanamura
+1048   - Rise Kujikawa
+1049   - Yukiko Amagi
+1050   - Kurumi Tokisaki
+1051   - Tohka Yatogami
+1052   - Origami Tobiichi
+1053   - Kotori Itsuka
+1054   - Shidou Itsuka
+1055   - Yoshino
+1056   - Mana Takamiya
+1057   - Yuzuru Yamai
+1058   - Kaguya Yamai
+1059   - Natsumi
+1060   - Miku Izayoi
+1061   - Mukuro Hoshimiya
+1062   - Osamu Dazai
+1063   - Atsushi Nakajima
+1064   - Ryuunosuke Akutagawa
+1065   - Ranpo Edogawa
+1066   - Kyouka Izumi
+1067   - Doppo Kunikida
+1068   - Lucy Maud Montgomery
+1069   - Chuuya Nakahara
+1070   - Akiko Yosano
+1071   - Junichiro Tanizaki
+1072   - Ogai Mori
+1073   - Kenji Miyazawa
+1074   - Ichiyo Higuchi
+1075   - Yukichi Fukuzawa
+1076   - Francis Scott Key Fitzgerald
+1077   - Gin
+1078   - Michizo Tachihara
+1079   - Naomi Tanizaki
+1080   - Maka Albarn
+1081   - BlackStar
+1082   - Death the Kid
+1083   - Soul Eater Evans
+1084   - Tsubaki Nakatsukasa
+1085   - Elizabeth Thompson
+1086   - Patricia Thompson
+1087   - Spirit Albarn
+1088   - Asura
+1089   - Blair
+1090   - Crona
+1091   - Excalibur
+1092   - Eruka Frog
+1093   - Arachne Gorgon
+1094   - Medusa Gorgon
+1095   - Justin Law
+1096   - Mifune
+1097   - Shinigami
+1098   - Franken Stein
+1099   - Marie Mjolnir
+1100   - Misaki Ayuzawa
+1101   - Takumi Usui
+1102   - Suzuna Ayuzawa
+1103   - Sakura Hanazono
+1104   - Aoi Hyoudou
+1105   - Satsuki Hyoudou
+1106   - Tora Igarashi
+1107   - Soutarou Kanou
+1108   - Hinata Shintani
+1109   - Naoya Shirokawa
+1110   - Shouichirou Yukimura
+1111   - Homura Akemi
+1112   - Madoka Kaname
+1113   - Sayaka Miki
+1114   - Kyoko Sakura
+1115   - Mami Tomoe
+1116   - Kyubey
+1117   - Charlotte
+1118   - Junko Kaname
+1119   - Mio Akiyama
+1120   - Yui Hirasawa
+1121   - Tsumugi Kotobuki
+1122   - Azusa Nakano
+1123   - Ritsu Tainaka
+1124   - Ui Hirasawa
+1125   - Nodoka Manabe
+1126   - Jun Suzuki
+1127   - Sawako Yamanaka
+1128   - Noe Archiviste
+1129   - Roland Fortis
+1130   - Astolfo Granatum
+1131   - Jeanne
+1132   - Chloe d'Apchier
+1133   - Dominique de Sade
+1134   - Louis de Sade
+1135   - Panty Anarchy
+1136   - Stocking Anarchy
+1137   - Garterbelt
+1138   - Briefers Rock
+1139   - Kneesocks Demon
+1140   - Scanty Demon
+1141   - Natsuki
+1142   - Sayori
+1143   - Monika
+1144   - Yuri
+1145   - Super Sonico
+1146   - Suzu Fujimi
+1147   - Fuuri Watanuki
+1148   - Aguero Agnes Khun
+1149   - Twenty-Fifth Baam
+1150   - Rak Wraithraiser
+1151   - Rachel
+1152   - Hatz
+1153   - Hwa Ryun
+1154   - Anak Zahard
+1155   - Androssi Zahard
+1156   - Ha Yuri Zahard
+1157   - Lero-Ro
+1158   - Urek Mazino
+1159   - Laure Phonsekal
+1160   - Shibisu
+1161   - Han Sung Yu
+1162   - Yumeko Jabami
+1163   - Mary Saotome
+1164   - Ryouta Suzui
+1165   - Sayaka Igarashi
+1166   - Midari Ikishima
+1167   - Kaede Manyuda
+1168   - Kirari Momobami
+1169   - Ririka Momobami
+1170   - Itsuki Sumeragi
+1171   - Runa Yomozuki
+1172   - Yumemi Yumemite
+1173   - Albedo
+1174   - Momonga
+1175   - Yuri Alpha
+1176   - Lupusregina Beta
+1177   - Shalltear Bloodfallen
+1178   - Shizu Delta
+1179   - Clementine
+1180   - Cocytus
+1181   - Demiurge
+1182   - Solution Epsilon
+1183   - Aura Bella Fiora
+1184   - Mare Bello Fiore
+1185   - Narberal Gamma
+1186   - Pandora's Actor
+1187   - Sebas Tian
+1188   - Entoma Vasilissa Zeta
+1189   - Violet Evergarden
+1190   - Charlotte Abelfreyja Drossel
+1191   - Cattleya Baudelaire
+1192   - Benedict Blue
+1193   - Gilbert Bougainvillea
+1194   - Claudia Hodgins
+1195   - Luculia Marlborough
+1196   - Leon Stephanotis
+1197   - Iris Cannary
+1198   - Hajime Hinata
+1199   - Nagito Komaeda
+1200   - Chiaki Nanami
+1201   - Teruteru Hanamura
+1202   - Izuru Kamukura
+1203   - Mahiru Koizumi
+1204   - Fuyuhiko Kuzuryuu
+1205   - Ibuki Mioda
+1206   - Sonia Nevermind
+1207   - Nekomaru Nidai
+1208   - Akane Owari
+1209   - Peko Pekoyama
+1210   - Hiyoko Saionji
+1211   - Kazuichi Souda
+1212   - Gundham Tanaka
+1213   - Mikan Tsumiki
+1214   - Chisa Yukizome
+1215   - Ruruka Andou
+1216   - Sounosuke Izayoi
+1217   - Seiko Kimura
+1218   - Kouichi Kizakura
+1219   - Yasuke Matsuda
+1220   - Ryouta Mitarai
+1221   - Kyousuke Munakata
+1222   - Juuzou Sakakura
+1223   - Miaya Gekkogahara
+1224   - Monaca Towa
+1225   - Kotoko Utsugi
+1226   - Kaede Akamatsu
+1227   - Maki Harukawa
+1228   - Kaito Momota
+1229   - Kokichi Ouma
+1230   - Shuichi Saihara
+1231   - Rantarou Amami
+1232   - Tenko Chabashira
+1233   - Gonta Gokuhara
+1234   - Miu Iruma
+1235   - Kiibo
+1236   - Korekiyo Shinguji
+1237   - Tsumugi Shirogane
+1238   - Kirumi Tojo
+1239   - Angie Yonaga
+1240   - Himiko Yumeno
+1241   - Jataro Kemuri
+1242   - Masaru Daimon
+1243   - Ryouko Otonashi
+1244   - Nagisa Shingetsu
+1245   - Kanna Kamui
+1246   - Tohru
+1247   - Kobayashi
+1248   - Quetzalcoatl
+1249   - Elma
+1250   - Fafnir
+1251   - Riko Saikawa
+1252   - Shouta Magatsuchi
+1253   - Ilulu
+1254   - Shigeo Kageyama
+1255   - Arataka Reigen
+1256   - Ritsu Kageyama
+1257   - Teruki Hanazawa
+1258   - William James Moriarty
+1259   - Sherlock Holmes
+1260   - Louis James Moriarty
+1261   - Albert James Moriarty
+1262   - John H. Watson
+1263   - Sebastian Moran
+1264   - Mycroft Holmes
+1265   - Taiga Kagami
+1266   - Tetsuya Kuroko
+1267   - Seijuurou Akashi
+1268   - Daiki Aomine
+1269   - Ryouta Kise
+1270   - Shintarou Midorima
+1271   - Atsushi Murasakibara
+1272   - Riko Aida
+1273   - Junpei Hyuuga
+1274   - Shoichi Imayoshi
+1275   - Shun Izuki
+1276   - Yukio Kasamatsu
+1277   - Teppei Kiyoshi
+1278   - Shinji Koganei
+1279   - Rinnosuke Mitobe
+1280   - Satsuki Momoi
+1281   - Kazunari Takao
+1282   - Shirayuki
+1283   - Zen Wistalia
+1284   - Obi
+1285   - Mitsuhide Rouen
+1286   - Kiki Seiran
+1287   - Ryu
+1288   - Raji Shenazard
+1289   - Izana Wistalia
+1290   - Krulcifer Einfolk
+1291   - Lux Arcadia
+1292   - Lisesharte Atismata
+1293   - Philphie Aingram
+1294   - Yoruka Kirihime
+1295   - Celistia Ralgris
+1296   - Airi Arcadia
+1297   - Yuno Gasai
+1298   - Yukiteru Amano
+1299   - Aru Akise
+1300   - Deus Ex Machina
+1301   - Reisuke Houjou
+1302   - Tsubaki Kasugano
+1303   - Keigo Kurusu
+1304   - Mur Mur
+1305   - Minene Uryu
+1306   - Mao Nonosaka
+1307   - Masumi Nishijima
+1308   - Marco Ikusaba
+1309   - Yomotsu Hirasaka
+1310   - Saitama
+1311   - Genos
+1312   - Bang
+1313   - Fubuki
+1314   - Garou
+1315   - King
+1316   - Metal Bat
+1317   - Mumen Rider
+1318   - Puripuri Prisoner
+1319   - Speed-o-Sound Sonic
+1320   - Tatsumaki
+1321   - Watchdog-man
+1322   - Takina Inoue
+1323   - Chisato Nishikigi
+1324   - Kurumi
+1325   - Ekubo
+1326   - Izuku Midoriya
+1327   - Katsuki Bakugou
+1328   - All Might
+1329   - Ochako Uraraka
+1330   - Tenya Iida
+1331   - Shouto Todoroki
+1332   - Shouta Aizawa
+1333   - Eijirou Kirishima
+1334   - Tsuyu Asui
+1335   - Mina Ashido
+1336   - Denki Kaminari
+1337   - Minoru Mineta
+1338   - Mashirao Ojiro
+1339   - Hanta Sero
+1340   - Kyouka Jirou
+1341   - Fumikage Tokoyami
+1342   - Momo Yaoyorozu
+1343   - Yuga Aoyama
+1344   - Itsuka Kendo
+1345   - Koji Koda
+1346   - Hitoshi Shinso
+1347   - Tomura Shigaraki
+1348   - Dabi
+1349   - Himiko Toga
+1350   - All For One
+1351   - Gran Torino
+1352   - Present Mic
+1353   - Enji Todoroki
+1354   - Midnight
+1355   - Hawks
+1356   - Mt. Lady
+1357   - Mirio Togata
+1358   - Nejire Hado
+1359   - Tamaki Amajiki
+1360   - Mei Hatsume
+1361   - Rimuru Tempest
+1362   - Eri
+1363   - Diablo
+1364   - Milim Nava
+1365   - Shuna
+1366   - Shion
+1367   - Tooru Hagakure
+1368   - Benimaru
+1369   - Veldora Tempest
+1370   - Shizue Izawa
+1371   - Ranga
+1372   - Souei
+1373   - Gabiru
+1374   - Gobta
+1375   - Rigurd
+1376   - Hakurou
+1377   - Souka
+1378   - Treyni
+1379   - Frey
+1380   - Ramiris
+1381   - Hinata Sakaguchi
+1382   - Luminous Valentine
+1383   - Guy Crimson
+1384   - Velzard
+1385   - Leon Cromwell
+1386   - Mikoto Misaka
+1387   - Sol Badguy
+1388   - Dizzy
+1389   - Millia Rage
+1390   - Testament
+1391   - Bridget
+1392   - May
+1393   - Jack-O' Valentine
+1394   - Ramlethal Valentine
+1395   - Elphelt Valentine
+1396   - Ky Kiske
+1397   - Rin Okumura
+1398   - Yukio Okumura
+1399   - Mephisto Pheles
+1400   - Kuro
+1401   - Shura Kirigakure
+1402   - Shiemi Moriyama
+1403   - Ryuuji Suguro
+1404   - Zouken Matou
+1405   - Raku Ichijou
+1406   - Chitoge Kirisaki
+1407   - Kosaki Onodera
+1408   - Shuu Maiko
+1409   - Ruri Miyamoto
+1410   - Marika Tachibana
+1411   - Seishirou Tsugumi
+1412   - Karma Akabane
+1413   - Koro-sensei
+1414   - Nagisa Shiota
+1415   - Kaede Kayano
+1416   - Tadaomi Karasuma
+1417   - Irina Jelavic
+1418   - Itona Horibe
+1419   - Yuuma Isogai
+1420   - Rio Nakamura
+1421   - Ritsu
+1422   - Hiroto Maehara
+1423   - Gakushuu Asano
+1424   - Gakuhou Asano
+1425   - Ryuunosuke Chiba
+1426   - Rinka Hayami
+1427   - Hinano Kurahashi
+1428   - Filo
+1429   - Naofumi Iwatani
+1430   - Raphtalia
+1431   - Melty Q Melromarc
+1432   - Malty Melromarc
+1433   - Mirelia Q Melromarc
+1434   - Rishia Ivyred
+1435   - Glass
+1436   - Fitoria
+1437   - Elhart
+1438   - Ren Amaki
+1439   - Itsuki Kawasumi
+1440   - Motoyasu Kitamura
+1441   - Hanako-kun
+1442   - Kou Minamoto
+1443   - Nene Yashiro
+1444   - Akane Aoi
+1445   - Teru Minamoto
+1446   - Sousuke Mitsuba
+1447   - Sakura Nanamine
+1448   - Mei Shijima
+1449   - Tsuchigomori
+1450   - Tsukasa Yugi
+1451   - Natsuhiko Hyuuga
+1452   - Aoi Akane
+1453   - Sumire Akane
+1454   - Yako
+1455   - Arthur Boyle
+1456   - Takehisa Hinawa
+1457   - Iris
+1458   - Akitaru Oubi
+1459   - Maki Oze
+1460   - Arrow
+1461   - Hibana
+1462   - Joker
+1463   - Shou Kusakabe
+1464   - Benimaru Shinmon
+1465   - Leonardo Burns
+1466   - Charon
+1467   - Haumea
+1468   - Viktor Licht
+1469   - Reg
+1470   - Riko
+1471   - Bondrewd
+1472   - Jiruo
+1473   - Lyza
+1474   - Marulk
+1475   - Mitty
+1476   - Nanachi
+1477   - Nat
+1478   - Ozen
+1479   - Shiggy
+1480   - Kiyui
+1481   - Shouya Ishida
+1482   - Shouko Nishimiya
+1483   - Tomohiro Nagatsuka
+1484   - Yuzuru Nishimiya
+1485   - Naoka Ueno
+1486   - Miyoko Sahara
+1487   - Yaeko Nishimiya
+1488   - Satoshi Mashiba
+1489   - Miki Kawai
+1490   - Miyako Ishida
+1491   - Maria Ishida
+1492   - Kousei Arima
+1493   - Kaori Miyazono
+1494   - Tsubaki Sawabe
+1495   - Ryouta Watari
+1496   - Emi Igawa
+1497   - Koharu Seto
+1498   - Hiroko Seto
+1499   - Nao Kashiwagi
+1500   - Nagi Aiza
+1501   - Takeshi Aiza
+1502   - Lio Fotia
+1503   - Galo Thymos
+1504   - Aina Ardebit
+1505   - Lucia Fex
+1506   - Langa Hasegawa
+1507   - Reki Kyan
+1508   - Miya Chinen
+1509   - Kojirou Nanjou
+1510   - Kaoru Sakurayashiki
+1511   - Ainosuke Shindou
+1512   - Shadow
+1513   - Tadashi Kikuchi
+1514   - Eijun Sawamura
+1515   - Kazuya Miyuki
+1516   - Satoru Furuya
+1517   - Haruichi Kominato
+1518   - Ryousuke Kominato
+1519   - Youichi Kuramochi
+1520   - Mei Narumiya
+1521   - Shunpei Sanada
+1522   - Chris Yuu Takigawa
+1523   - Raichi Todoroki
+1524   - Yatora Yaguchi
+1525   - Ryuuji Ayukawa
+1526   - Haruka Hashida
+1527   - Maki Kuwana
+1528   - Maru Mori
+1529   - Masako Saeki
+1530   - Yotasuke Takahashi
+1531   - Mayu Ooba
+1532   - Kinemi Miki
+1533   - Shuka Karino
+1534   - Rein Kashiwagi
+1535   - Kaname Sudou
+1536   - Souta
+1537   - Sui
+1538   - Saeko Busujima
+1539   - Kouta Hirano
+1540   - Takashi Komuro
+1541   - Shizuka Marikawa
+1542   - Alice Maresato
+1543   - Rei Miyamoto
+1544   - Saya Takagi
+1545   - Rika Minami
+1546   - Yuriko Takagi
+1547   - Lilith
+1548   - Yuuri
+1549   - Fujisaki
+1550   - Haruki Shiga
+1551   - Sakura Yamauchi
+1552   - Accelerator
+1553   - Kaori Kanzaki
+1554   - Kuroko Shirai
+1555   - Stiyl Magnus
+1556   - Motoharu Tsuchimikado
+1557   - Destiny
+1558   - Tsukasa Gojouin
+1559   - Natsume Nakashima
+1560   - Thomas Andre
+1561   - Antares
+1562   - Yoon-Ho Baek
+1563   - Beru
+1564   - Jong-In Choi
+1565   - Gun-Hee Go
+1566   - Igris
+1567   - Ju-Hee Lee
+1568   - Esil Radiru
+1569   - Il-Hwan Sung
+1570   - Tusk
+1571   - Jin-Chul Woo
+1572   - Jin-Ho Yoo
+1573   - Hina Amano
+1574   - Natsumi Suga
+1575   - Hodaka Morishima
+1576   - Nagi Amano
+1577   - Ayane Hanazawa
+1578   - Prushka
+1579   - Inchou
+1580   - Itsuwa
+1581   - Naoto Tachibana
+1582   - Eita Semi
+1583   - Kenjiro Shirabu
+1584   - Hajime Iwaizumi
+1585   - Kyoutani Kentarou
+1586   - Kiyoomi Sakusa
+1587   - Shinsuke Kita
+1588   - Sachirou Hirugami
+1589   - Tsutomu Goshiki
+1590   - Akira Kunimi
+1591   - Ittetsu Takeda
+1592   - Yuuji Terushima
+1593   - Yui Michimiya
+1594   - Kanji Koganegawa
+1595   - Aone Takanobu
+1596   - Kenji Futakuchi
+1597   - Morisuke Yaku
+1598   - Taketora Yamamoto
+1599   - Akane Yamamoto
+1600   - Alisa Haiba
+1601   - Yuutarou Kindaichi
+1602   - Shouhei Fukunaga
+1603   - Konoha Akinori
+1604   - Chikara Ennoshita
+1605   - Hisashi Kinoshita
+1606   - Takahiro Hanamaki
+1607   - Issei Matsukawa
+1608   - Akiteru Tsukishima
+1609   - Erina Nakiri
+1610   - Megumi Tadokoro
+1611   - Souma Yukihira
+1612   - Isami Aldini
+1613   - Takumi Aldini
+1614   - Hisako Arato
+1615   - Akira Hayama
+1616   - Shun Ibusaki
+1617   - Hinako Inui
+1618   - Satoshi Isshiki
+1619   - Ryou Kurokiba
+1620   - Ikumi Mito
+1621   - Alice Nakiri
+1622   - Nao Sadatsuka
+1623   - Ryouko Sakaki
+1624   - Kojirou Shinomiya
+1625   - Jun Shiomi
+1626   - Yuuki Yoshino
+1627   - Jouichirou Yukihira
+1628   - Rei Batsubami
+1629   - Miroslava Honebami
+1630   - Erimi Mushibami
+1631   - Yuriko Nishinotouin
+1632   - Ibara Obami
+1633   - Rin Obami
+1634   - Phosphophyllite
+1635   - Antarcticite
+1636   - Diamond
+1637   - Cinnabar
+1638   - Padparadscha
+1639   - Bort
+1640   - Yellow Diamond
+1641   - Rutile
+1642   - Alexandrite
+1643   - Euclase
+1644   - Jade
+1645   - Amethyst
+1646   - Ventricosus
+1647   - Zircon
+1648   - Morganite
+1649   - Red Beryl
+1650   - Ray
+1651   - Norman
+1652   - Emma
+1653   - Phil
+1654   - Isabella
+1655   - Sister Krone
+1656   - Gilda
+1657   - Don
+1658   - Conny
+1659   - Anna
+1660   - Leslie
+1661   - Nat
+1662   - Thoma
+1663   - Lannion
+1664   - Rossi
+1665   - Yvette
+1666   - Mujika
+1667   - Sonju
+1668   - Conan Edogawa
+1669   - Shuichi Akai
+1670   - Kaito Kuroba
+1671   - Ai Haibara
+1672   - Heiji Hattori
+1673   - Ran Mouri
+1674   - Tooru Amuro
+1675   - Kogoro Mouri
+1676   - Subaru Okiya
+1677   - Juzo Megure
+1678   - Sonoko Suzuki
+1679   - Beam
+1680   - Leonardo Watch
+1681   - Klaus von Reinherz
+1682   - Zapp Renfro
+1683   - Chain Sumeragi
+1684   - Mary Macbeth
+1685   - William Macbeth
+1686   - Renji Abarai
+1687   - Uryuu Ishida
+1688   - Sado Yasutora
+1689   - Sousuke Aizen
+1690   - Yumichika Ayasegawa
+1691   - Ulquiorra Cifer
+1692   - Nnoitra Gilga
+1693   - Tier Harribel
+1694   - Shinji Hirako
+1695   - Toushirou Hitsugaya
+1696   - Gin Ichimaru
+1697   - Grimmjow Jaegerjaquez
+1698   - Izuru Kira
+1699   - Sajin Komamura
+1700   - Kon
+1701   - Byakuya Kuchiki
+1702   - Mayuri Kurotsuchi
+1703   - Yachiru Kusajishi
+1704   - Shunsui Kyouraku
+1705   - Ikkaku Madarame
+1706   - Rangiku Matsumoto
+1707   - Hiyori Sarugaki
+1708   - Kukaku Shiba
+1709   - Yoruichi Shihouin
+1710   - Soi Fon
+1711   - Coyote Starrk
+1712   - Nelliel Tu Oderschvank
+1713   - Juushirou Ukitake
+1714   - Retsu Unohana
+1715   - Kisuke Urahara
+1716   - Shigekuni Yamamoto-Genryusai
+1717   - Zangetsu
+1718   - Zaraki Kenpachi
+1719   - Shuuhei Hisagi
+1720   - Shuukurou Tsukishima
+1721   - Kaname Tousen
+1722   - Kugo Ginjo
+1723   - Riruka Dokugamine
+1724   - Yhwach
+1725   - Mori Calliope
+1726   - Amelia Watson
+1727   - Hakos Baelz
+1728   - Isshin Kurosaki
+1729   - Nanashi Mumei
+1730   - Tsukumo Sana
+1731   - Ouro Kronii
+1732   - Romio Inuzuka
+1733   - Hasuki Komai
+1734   - Juliet Persia
+1735   - Kochou Wang
+1736   - Teria Wang
+1737   - Chartreux Westia
+1738   - Makoto Yuuki
+1739   - Sophie Hatter
+1740   - Howl
+1741   - Calcifer
+1742   - Heen
+1743   - Markl
+1744   - Suliman
+1745   - Turnip Head
+1746   - Witch of the Waste
+1747   - Kyon
+1748   - Yuki Nagato
+1749   - Mikuru Asahina
+1750   - Ryouko Asakura
+1751   - Itsuki Koizumi
+1752   - Haruhi Suzumiya
+1753   - Neito Monoma
+1754   - Twice
+1755   - Mezo Shoji
+1756   - Rikido Sato
+1757   - Overhaul
+1758   - Nana Shimura
+1759   - Ragdoll
+1760   - Tiger
+1761   - Mandalay
+1762   - Pixie-Bob
+1763   - Tetsutetsu Tetsutetsu
+1764   - Pony Tsunotori
+1765   - Ibara Shiozaki
+1766   - Juzo Honenuki
+1767   - Camie Utsushimi
+1768   - Mirko
+1769   - Ms. Joke
+1770   - Fatgum
+1771   - Sir Nighteye
+1772   - Ryuko Tatsuma
+1773   - Kurogiri
+1774   - Best Jeanist
+1775   - Gang Orca
+1776   - Inasa Yoarashi
+1777   - Bubble Girl
+1778   - Kinoko Komori
+1779   - Stain
+1780   - Gigantomachia
+1781   - Eichi Tenshouin
+1782   - Botan
+1783   - Hiei
+1784   - Kurama
+1785   - Kazuma Kuwabara
+1786   - Yuusuke Urameshi
+1787   - Keiko Yukimura
+1788   - Genkai
+1789   - Jin
+1790   - Koenma
+1791   - Koto
+1792   - Shizuru Kuwabara
+1793   - Puu
+1794   - Suzaku
+1795   - Wataru Hibiki
+1796   - Tori Himemiya
+1797   - Yuzuru Fushimi
+1798   - Takt Asahina
+1799   - Titan
+1800   - Isla
+1801   - Anna Schneider
+1802   - Tsukasa Mizugaki
+1803   - Michiru Kinushima
+1804   - Zack
+1805   - Yasutaka Hanada
+1806   - Kazuki Kuwanomi
+1807   - Natsume Sakasaki
+1808   - Sherry
+1809   - Enju Aihara
+1810   - Rentarou Satomi
+1811   - Tina Sprout
+1812   - Kisara Tendou
+1813   - Kagetane Hiruko
+1814   - Midori Fuse
+1815   - Kohina Hiruko
+1816   - Sumire Muroto
+1817   - Kayo Senju
+1818   - Seitenshi
+1819   - Uta
+1820   - Yamato
+1821   - Sora Harukawa
+1822   - Chiaki Morisawa
+1823   - Issei Miyata
+1824   - Kyouko Takimoto
+1825   - Kanata Shinkai
+1826   - Rei Sakuma
+1827   - Kaoru Hakaze
+1828   - Koga Oogami
+1829   - Adonis Otogari
+1830   - Maki Shijou
+1831   - Rikka Takanashi
+1832   - Sanae Dekomori
+1833   - Shinka Nibutani
+1834   - Yuuta Togashi
+1835   - Kumin Tsuyuri
+1836   - Touka Takanashi
+1837   - Tsukasa Suou
+1838   - Leo Tsukinaga
+1839   - Arsene Lupin III
+1840   - Daisuke Jigen
+1841   - Goemon Ishikawa XIII
+1842   - Fujiko Mine
+1843   - Kouichi Zenigata
+1844   - Holo
+1845   - Kraft Lawrence
+1846   - Tomo Aizawa
+1847   - Junichirou Kubota
+1848   - Misuzu Gundou
+1849   - Carol Olston
+1850   - Kousuke Misaki
+1851   - Tatsumi Tanabe
+1852   - Ryuuko Matoi
+1853   - Satsuki Kiryuuin
+1854   - Mako Mankanshoku
+1855   - Senketsu
+1856   - Ira Gamagoori
+1857   - Uzu Sanageyama
+1858   - Houka Inumuta
+1859   - Nonon Jakuzure
+1860   - Nui Harime
+1861   - Ragyou Kiryuuin
+1862   - Mugen
+1863   - Jin
+1864   - Fuu Kasumi
+1865   - Umaru Doma
+1866   - Taihei Doma
+1867   - Nana Ebina
+1868   - Kirie Motoba
+1869   - Sylphinford Tachibana
+1870   - Takagi
+1871   - Nishikata
+1872   - Urushi Yaotome
+1873   - Ayumu Tanaka
+1874   - Rin Kagawa
+1875   - Sakurako Mikage
+1876   - Maki
+1877   - Koyomi Araragi
+1878   - Shinobu Oshino
+1879   - Hitagi Senjougahara
+1880   - Karen Araragi
+1881   - Tsukihi Araragi
+1882   - Tsubasa Hanekawa
+1883   - Suruga Kanbaru
+1884   - Mayoi Hachikuji
+1885   - Nadeko Sengoku
+1886   - Meme Oshino
+1887   - Deishuu Kaiki
+1888   - Yozuru Kagenui
+1889   - Yotsugi Ononoki
+1890   - Rouka Numachi
+1891   - Izuko Gaen
+1892   - Ougi Oshino
+1893   - Sodachi Oikura
+1894   - Izumi Sena
+1895   - Ritsu Sakuma
+1896   - Arashi Narukami
+1897   - Kuro
+1898   - Licht Jekylland Todoroki
+1899   - Hyde
+1900   - Sakuya Watanuki
+1901   - Mahiru Shirota
+1902   - Mikuni Arisuin
+1903   - Misono Arisuin
+1904   - Belkia
+1905   - Tsurugi Kamiya
+1906   - Snow Lily
+1907   - Tsubaki
+1908   - Kou Mabuchi
+1909   - Futaba Yoshioka
+1910   - Touma Kikuchi
+1911   - Aya Kominato
+1912   - Yuuri Makita
+1913   - Shuuko Murao
+1914   - Youichi Tanaka
+1915   - Blake Belladonna
+1916   - Ruby Rose
+1917   - Weiss Schnee
+1918   - Yang Xiao Long
+1919   - Jaune Arc
+1920   - Pyrrha Nikos
+1921   - Penny Polendina
+1922   - Nora Valkyrie
+1923   - Roman Torchwick
+1924   - Ozpin
+1925   - Lie Ren
+1926   - Adam Taurus
+1927   - Winter Schnee
+1928   - Koharu Hondoumachi
+1929   - Funetarou Momoki
+1930   - Akihito Narihisago
+1931   - Tamotsu Fukuda
+1932   - Kaeru
+1933   - Moka Akashiya
+1934   - Tsukune Aono
+1935   - Kurumu Kurono
+1936   - Yukari Sendou
+1937   - Mizore Shirayuki
+1938   - Ginei Morioka
+1939   - Shizuka Nekonome
+1940   - Ruby Toujou
+1941   - Kokoa Shuzen
+1942   - Yashiro Isana
+1943   - Reishi Munakata
+1944   - Mikoto Suou
+1945   - Kurou Yatogami
+1946   - Neko
+1947   - Seri Awashima
+1948   - Saruhiko Fushimi
+1949   - Izumo Kusanagi
+1950   - Anna Kushina
+1951   - Tatara Totsuka
+1952   - Adolf K. Weismann
+1953   - Misaki Yata
+1954   - Sukuna Gojou
+1955   - Nagare Hisui
+1956   - Yukari Mishakuji
+1957   - Satou Matsuzaka
+1958   - Shio Koube
+1959   - Asahi Koube
+1960   - Shouko Hida
+1961   - Chika Amatori
+1962   - Yuuichi Jin
+1963   - Yuuma Kuga
+1964   - Osamu Mikumo
+1965   - Jun Arashiyama
+1966   - Hyuse
+1967   - Kyousuke Karasuma
+1968   - Souya Kazama
+1969   - Kirie Konami
+1970   - Ikki Kurogane
+1971   - Stella Vermillion
+1972   - Shizuku Kurogane
+1973   - Nagi Arisuin
+1974   - Ayase Ayatsuji
+1975   - Sara Bloodlily
+1976   - Touka Toudou
+1977   - Aoba Suzukaze
+1978   - Kou Yagami
+1979   - Rin Tooyama
+1980   - Hifumi Takimoto
+1981   - Umiko Ahagon
+1982   - Yun Iijima
+1983   - Hajime Shinoda
+1984   - Shizuku Hazuki
+1985   - Nene Sakura
+1986   - Neopolitan
+1987   - Hiiro Amagi
+1988   - Satone Shichimiya
+1989   - Diablo
+1990   - Rem Galleu
+1991   - Shera L. Greenwood
+1992   - Celestine Baudelaire
+1993   - Emile Bichelberger
+1994   - Alicia Cristela
+1995   - Hitori Gotou
+1996   - Nijika Ijichi
+1997   - Ryo Yamada
+1998   - Ikuyo Kita
+1999   - Kikuri Hiroi
+2000   - Shiki Ryougi
+2001   - Mikiya Kokutou
+2002   - Azaka Kokutou
+2003   - Touko Aozaki
+2004   - Fujino Asagami
+2005   - Edelgard
+2006   - Chester Ray Galford
+2007   - Krebskulm
+2008   - Medios
+2009   - Sylvie
+2010   - Aira Shiratori
+2011   - Mayoi Ayase
+2012   - Tatsumi Kazehaya
+2013   - Ginko
+2014   - Laffey
+2015   - Z23
+2016   - Javelin
+2017   - Ayanami
+2018   - Akagi
+2019   - Atago
+2020   - Takao
+2021   - Amagi
+2022   - Kaga
+2023   - Taihou
+2024   - Cooler
+2025   - Goblin Slayer
+2026   - Onna Shinkan
+2027   - Elf
+2028   - Nagato
+2029   - Shinano
+2030   - Prinz Eugen
+2031   - Bismarck
+2032   - Prinz Heinrich
+2033   - Graf Spee
+2034   - Friedrich der Grosse
+2035   - Deutschland
+2036   - Alabama
+2037   - Enterprise
+2038   - St. Louis
+2039   - Hana Uzaki
+2040   - Shinichi Sakurai
+2041   - Tsuki Uzaki
+2042   - Yanagi Uzaki
+2043   - M4A1
+2044   - M16A1
+2045   - M4 SOPMOD II
+2046   - ST AR-15
+2047   - Kar98k
+2048   - WA2000
+2049   - Negev
+2050   - MDR
+2051   - Honey Badger
+2052   - Ryou Asuka
+2053   - Akira Fudou
+2054   - Devilman
+2055   - Miki Makimura
+2056   - Naruko Anjou
+2057   - Tetsudou Hisakawa
+2058   - Meiko Honma
+2059   - Atsumu Matsuyuki
+2060   - Chiriko Tsurumi
+2061   - Jinta Yadomi
+2062   - Yona
+2063   - Hak Son
+2064   - Shin-ah
+2065   - Jae-ha
+2066   - Ki-ja
+2067   - Yun
+2068   - Su-won
+2069   - Zeno
+2070   - Staz Charlie Blood
+2071   - Bell Hydra
+2072   - Wolf
+2073   - Fuyumi Yanagi
+2074   - Braz D. Blood
+2075   - Liz T. Blood
+2076   - Berros
+2077   - Mumei
+2078   - Ikoma
+2079   - Kajika
+2080   - Ayame Yomogawa
+2081   - Yukina
+2082   - Kurusu
+2083   - Biba Amatori
+2084   - Bremerton
+2085   - Baltimore
+2086   - Unicorn
+2087   - Sebastian Michaelis
+2088   - Ciel Phantomhive
+2089   - Fred Abberline
+2090   - Agni
+2091   - Soma Asman Kadar
+2092   - Baldroy
+2093   - Rapi
+2094   - Anis
+2095   - Neon
+2096   - Snow White
+2097   - Exia
+2098   - Delta
+2099   - Ether
+2100   - Diesel
+2101   - Rupee
+2102   - N102
+2103   - Yuni
+2104   - Mihara
+2105   - Alice
+2106   - Harran
+2107   - Drake
+2108   - Ludmilla
+2109   - Mitsuha Miyamizu
+2110   - Taki Tachibana
+2111   - Miki Okudera
+2112   - Kyou Souma
+2113   - Tooru Honda
+2114   - Yuki Souma
+2115   - Hatsuharu Souma
+2116   - Saki Hanajima
+2117   - Minato Kiyomizu
+2118   - Jou Joujima
+2119   - Chinu Kawakubo
+2120   - Takekazu Ejiri
+2121   - Mai Kawakami
+2122   - Reina Izumi
+2123   - Koito Minase
+2124   - Haruhiko Ichijou
+2125   - Kurumi Kumamakura
+2126   - Ruru
+2127   - Chisa Kotegawa
+2128   - Iori Kitahara
+2129   - Kouhei Imamura
+2130   - Aina Yoshiwara
+2131   - Azusa Hamaoka
+2132   - Nanaka Kotegawa
+2133   - Illustrious
+2134   - Belfast
+2135   - Sirius
+2136   - Quinella
+2137   - Dido
+2138   - Roon
+2139   - Lucy
+2140   - Revy
+2141   - Rokurou Okajima
+2142   - Dutch
+2143   - Benny
+2144   - Balalaika
+2145   - Kouta
+2146   - Mayu
+2147   - Nana
+2148   - Yuka
+2149   - Mariko
+2150   - Bai Ji-Shin Chang
+2151   - Eda
+2152   - Roberta
+2153   - Shenhua
+2154   - Satanichia Kurumizawa McDowell
+2155   - Raphiel Shiraha Ainsworth
+2156   - Gabriel Tenma White
+2157   - Vignette Tsukinose April
+2158   - Machiko
+2159   - Tapris Sugarbell Chisaki
+2160   - Zeruel Tenma White
+2161   - Aguri
+2162   - Keita Amano
+2163   - Chiaki Hoshinomori
+2164   - Karen Tendou
+2165   - Tasuku Uehara
+2166   - Konoha Hoshinomori
+2167   - Nina Oiso
+2168   - Katsuhira Agata
+2169   - Yoshiharu Hisomu
+2170   - Honoka Maki
+2171   - Niko Niiyama
+2172   - Noriko Sonozaki
+2173   - Chidori Takashiro
+2174   - Hajime Tenga
+2175   - Tsuguhito Yuta
+2176   - Kazunao Yamada
+2177   - Diana Cavendish
+2178   - Lotte Jansson
+2179   - Atsuko Kagari
+2180   - Sucy Manbavaran
+2181   - Constanze Amalie von Braunschbank-Albrechtsberger
+2182   - Jasminka Antonenko
+2183   - Ursula Callistis
+2184   - Amanda O'Neill
+2185   - Chariot du Nord
+2186   - Maquia
+2187   - Ariel
+2188   - Leilia
+2189   - Blanc
+2190   - Neptune
+2191   - Noire
+2192   - Vert
+2193   - Compa
+2194   - Histoire
+2195   - IF
+2196   - Nepgear
+2197   - Pururut
+2198   - Ram
+2199   - Rom
+2200   - Uni
+2201   - Peashy
+2202   - 5pb
+2203   - Minako Aino
+2204   - Mamoru Chiba
+2205   - Rei Hino
+2206   - Makoto Kino
+2207   - Ami Mizuno
+2208   - Usagi Tsukino
+2209   - Queen Serenity
+2210   - Black Lady
+2211   - Luna
+2212   - Artemis
+2213   - Hotaru Tomoe
+2214   - Haruka Tenou
+2215   - Michirou Kaiou
+2216   - Setsuna Meiou
+2217   - Chibiusa
+2218   - Zoisite
+2219   - Shuumei Sasaki
+2220   - Yoshikazu Miyano
+2221   - Masato Hanzawa
+2222   - Taiga Hirano
+2223   - Akira Kagiura
+2224   - Tasuku Kuresawa
+2225   - Jirou Ogasawara
+2226   - Gonzaburou Tashiro
+2227   - Tatsu
+2228   - Miku
+2229   - Masa
+2230   - Neiru Aonuma
+2231   - Rika Kawai
+2232   - Ai Ooto
+2233   - Momoe Sawaki
+2234   - Frill
+2235   - Kaoru Kurita
+2236   - Gorou
+2237   - Cecilia Alcott
+2238   - Laura Bodewig
+2239   - Charlotte Dunois
+2240   - Lingyin Huang
+2241   - Ichika Orimura
+2242   - Houki Shinonono
+2243   - Honne Nohotoke
+2244   - Chifuyu Orimura
+2245   - Tatenashi Sarashiki
+2246   - Kanzashi Sarashiki
+2247   - Kagome Higurashi
+2248   - Inuyasha
+2249   - Miroku
+2250   - Sango
+2251   - Shippo
+2252   - Jaken
+2253   - Kagura
+2254   - Kanna
+2255   - Kikyou
+2256   - Naraku
+2257   - Rin
+2258   - Sesshoumaru
+2259   - Hirofumi Yoshida
+2260   - Formidable
+2261   - Cheshire
+2262   - Perseus
+2263   - Mei Misaki
+2264   - Kouichi Sakakibara
+2265   - Izumi Akazawa
+2266   - Aya Ayano
+2267   - Misaki Fujioka
+2268   - Tomohiko Kazami
+2269   - Sanae Mizuno
+2270   - Yuuya Mochizuki
+2271   - Yukari Sakuragi
+2272   - Naoya Teshigawara
+2273   - Angela Blanc
+2274   - Drocell Cainz
+2275   - Aleister Chamber
+2276   - Angelina Durless
+2277   - Undertaker
+2278   - Grell Sutcliff
+2279   - William T. Spears
+2280   - Elizabeth Midford
+2281   - Finnian
+2282   - Ash Landers
+2283   - Lau
+2284   - Mey-Rin
+2285   - Pluto
+2286   - Ran-Mao
+2287   - Tanaka
+2288   - Kaho Hinata
+2289   - Mafuyu Hoshikawa
+2290   - Maika Sakuranomiya
+2291   - Miu Amano
+2292   - Hideri Kanzaki
+2293   - Kouyou Akizuki
+2294   - Dino
+2295   - Satoru Fujinuma
+2296   - Kayo Hinazuki
+2297   - Sachiko Fujinuma
+2298   - Akemi Hinazuki
+2299   - Airi Katagiri
+2300   - Kenya Kobayashi
+2301   - Jun Shiratori
+2302   - Hiromi Sugita
+2303   - Gaku Yashiro
+2304   - Souma Azemichi
+2305   - Shinji Date
+2306   - Kei Iura
+2307   - Kyouhei Misumi
+2308   - Masato Oujou
+2309   - Tatsuya Yoigoshi
+2310   - Nana Komatsu
+2311   - Nana Osaki
+2312   - Ren Honjou
+2313   - Takumi Ichinose
+2314   - Shinichi Okazaki
+2315   - Junko Saotome
+2316   - Layla Serizawa
+2317   - Miu Shinoda
+2318   - Yasushi Takagi
+2319   - Nobuo Terashima
+2320   - New Jersey
+2321   - Yamashiro
+2322   - Hood
+2323   - Zara
+2324   - L Lawliet
+2325   - Light Yagami
+2326   - Misa Amane
+2327   - Ryuk
+2328   - Nate River
+2329   - Mihael Keehl
+2330   - Mail Jeevas
+2331   - Aegir
+2332   - August von Parseval
+2333   - Indomitable
+2334   - Honolulu
+2335   - Takashi Natsume
+2336   - Madara
+2337   - Reiko Natsume
+2338   - Kaname Tanuma
+2339   - Shuuichi Natori
+2340   - Kogitsune
+2341   - Kishibe
+2342   - Akane Sawatari
+2343   - Asa Mitaka
+2344   - Scaramouche
+2345   - Lilith Asami
+2346   - Akio Fudou
+2347   - Arin Kannazuki
+2348   - Arata Kasuga
+2349   - Levi Kazama
+2350   - Yui Kurata
+2351   - Lieselotte Sherlock
+2352   - Mira Yamana
+2353   - Biblia Gakuenchou
+2354   - Hijiri Kasuga
+2355   - Sora
+2356   - Vivy
+2357   - Matsumoto
+2358   - Elizabeth
+2359   - Estella
+2360   - Grace
+2361   - Ophelia
+2362   - Rindou Fuke
+2363   - Masaki Hinaoka
+2364   - Kousuke Iwana
+2365   - Naoya Kido
+2366   - Yuuta Matsukaze
+2367   - Souichirou William Mori
+2368   - Nalu Tanaka
+2369   - Shou Akitsuki
+2370   - Admi
+2371   - Dolla
+2372   - Emma
+2373   - Eunhwa
+2374   - Helm
+2375   - Laplace
+2376   - Maiden
+2377   - Neve
+2378   - Novel
+2379   - Pepper
+2380   - Privaty
+2381   - Sugar
+2382   - Vesti
+2383   - Yulha
+2384   - Kokichi Muta
+2385   - Kiyotaka Ijichi
+2386   - Noritoshi Kamo
+2387   - Momo Nishimiya
+2388   - Yuki Tsukumo
+2389   - Emden
+2390   - Queen Elizabeth
+2391   - Tosa
+2392   - Shimakaze
+2393   - Le Malin
+2394   - Isaac Foster
+2395   - Rachel Gardner
+2396   - Amiya
+2397   - Aak
+2398   - Angelina
+2399   - Archetto
+2400   - Bagpipe
+2401   - Blaze
+2402   - Blemishine
+2403   - Carnelian
+2404   - Ceobe
+2405   - Ch'en
+2406   - Dusk
+2407   - Eunectes
+2408   - Exusiai
+2409   - Eyjafjalla
+2410   - Fartooth
+2411   - Fiammetta
+2412   - Flametail
+2413   - Gladiia
+2414   - Gnosis
+2415   - Goldenglow
+2416   - Hellagur
+2417   - Horn
+2418   - Hoshiguma
+2419   - Ifrit
+2420   - Irene
+2421   - Kal'tsit
+2422   - Lee
+2423   - Ling
+2424   - Lumen
+2425   - Magallan
+2426   - Mizuki
+2427   - Mostima
+2428   - Mountain
+2429   - Mudrock
+2430   - Nian
+2431   - Nightingale
+2432   - Pallas
+2433   - Passenger
+2434   - Phantom
+2435   - Rosa
+2436   - Rosmontis
+2437   - Saga
+2438   - Saileach
+2439   - Saria
+2440   - Schwarz
+2441   - Shining
+2442   - Siege
+2443   - SilverAsh
+2444   - Skadi
+2445   - Surtr
+2446   - Suzuran
+2447   - Thorns
+2448   - W
+2449   - Weedy
+2450   - Naoto Hachiouji
+2451   - Hayase Nagatoro
+2452   - Maki Gamou
+2453   - Sakura
+2454   - Sana Sunomiya
+2455   - Yoshi
+2456   - Fumino Furuhashi
+2457   - Mafuyu Kirisu
+2458   - Asumi Kominami
+2459   - Rizu Ogata
+2460   - Uruka Takemoto
+2461   - Nariyuki Yuiga
+2462   - Sawako Sekijou
+2463   - Nanami Momozono
+2464   - Tomoe
+2465   - Akuraou
+2466   - Shinjirou Kurama
+2467   - Mikage
+2468   - Mizuki
+2469   - Kirihito Mouri
+2470   - Numa no Himemiko
+2471   - Fushi
+2472   - Rynn Cropp
+2473   - Tonari Dalton
+2474   - Gugu
+2475   - Hayase
+2476   - Joan
+2477   - March
+2478   - Parona
+2479   - Pyoran
+2480   - Dae-Wi Han
+2481   - Mo-Ri Jin
+2482   - Mi-Ra Yu
+2483   - Taek Jegal
+2484   - Il-Pyo Park
+2485   - Mu-Jin Park
+2486   - Nagisa Hazuki
+2487   - Rin Matsuoka
+2488   - Haruka Nanase
+2489   - Rei Ryuugazaki
+2490   - Makoto Tachibana
+2491   - Gou Matsuoka
+2492   - Seijuurou Mikoshiba
+2493   - Aiichirou Nitori
+2494   - Gorou Sasabe
+2495   - Miho Amakata
+2496   - Yuuri Katsuki
+2497   - Victor Nikiforov
+2498   - Yuri Plisetsky
+2499   - Otabek Altin
+2500   - Phichit Chulanont
+2501   - Christophe Giacometti
+2502   - Guang-Hong Ji
+2503   - Seung-Gil Lee
+2504   - Jean-Jacques Leroy
+2505   - Kenjirou Minami
+2506   - Asagi Aiba
+2507   - Kojou Akatsuki
+2508   - Yukina Himeragi
+2509   - Nagisa Akatsuki
+2510   - Astarte
+2511   - Kanon Kanase
+2512   - Sayaka Kirasaka
+2513   - Natsuki Minamiya
+2514   - La Folia Rihavein
+2515   - Ganta Igarashi
+2516   - Shiro
+2517   - Genkaku Azuma
+2518   - Hibana Daida
+2519   - Nagi Kengamine
+2520   - Karako Koshio
+2521   - Kiwano Flugel Makina
+2522   - Bundo Rokuro
+2523   - Toto Sakigami
+2524   - Kiyomasa Senji
+2525   - Minatsuki Takami
+2526   - Yo Takami
+2527   - Lala Satalin Deviluke
+2528   - Haruna Sairenji
+2529   - Rito Yuuki
+2530   - Konjiki no Yami
+2531   - Yui Kotegawa
+2532   - Ryouko Mikado
+2533   - Run Elsie Jewelria
+2534   - Momo Belia Deviluke
+2535   - Nana Astar Deviluke
+2536   - Mikan Yuuki
+2537   - Mea Kurosaki
+2538   - Lugh Tuatha De
+2539   - Dia Viekone
+2540   - Maha
+2541   - Tarte
+2542   - Esri
+2543   - Moritaka Mashiro
+2544   - Akito Takagi
+2545   - Miho Azuki
+2546   - Eiji Niizuma
+2547   - Kaya Miyoshi
+2548   - Shinta Fukuda
+2549   - Yuriko Aoki
+2550   - Kazuya Hiramaru
+2551   - Akira Hattori
+2552   - Kouji Yoshida
+2553   - Hanako Honda
+2554   - Kasumi Nomura
+2555   - Olivia
+2556   - Hana
+2557   - Ookami
+2558   - Yuki
+2559   - Ame
+2560   - Kashou Minazuki
+2561   - Chocola
+2562   - Vanilla
+2563   - Azuki
+2564   - Cacao
+2565   - Cinnamon
+2566   - Coconut
+2567   - Maple
+2568   - Rin
+2569   - Senko
+2570   - Kuroto Nakano
+2571   - Yasuko Kouenji
+2572   - Shiro
+2573   - Sora
+2574   - Haruko Haruhara
+2575   - Naota Nandaba
+2576   - Mamimi Samejima
+2577   - Eri Ninamori
+2578   - Canti
+2579   - Hotaru Ichijou
+2580   - Komari Koshigaya
+2581   - Natsumi Koshigaya
+2582   - Renge Miyauchi
+2583   - Kaede Kagayama
+2584   - Yuri Honjou
+2585   - Mayuko Nise
+2586   - Sniper Kamen
+2587   - Kuon Shinzaki
+2588   - Rika Honjou
+2589   - Bojji
+2590   - Haru
+2591   - Legoshi
+2592   - Louis
+2593   - Bill
+2594   - Gouhin
+2595   - Jack
+2596   - Juno
+2597   - Haruhi Fujioka
+2598   - Mitsukuni Haninozuka
+2599   - Hikaru Hitachiin
+2600   - Kaoru Hitachiin
+2601   - Takashi Morinozuka
+2602   - Kyouya Ootori
+2603   - Tamaki Suou
+2604   - Aslan Jade Callenreese
+2605   - Eiji Okumura
+2606   - Blanca
+2607   - Yut-Lung Lee
+2608   - Max Lobo
+2609   - Su Rin Sing
+2610   - Shorter Wong
+2611   - Jessica Randy
+2612   - Lily Hoshikawa
+2613   - Junko Konno
+2614   - Sakura Minamoto
+2615   - Ai Mizuno
+2616   - Saki Nikaidou
+2617   - Koutarou Tatsumi
+2618   - Tae Yamada
+2619   - Yuugiri
+2620   - Akari Kawamoto
+2621   - Hinata Kawamoto
+2622   - Momo Kawamoto
+2623   - Rei Kiriyama
+2624   - Kyouko Kouda
+2625   - Harunobu Nikaidou
+2626   - Kai Shimada
+2627   - Touji Souya
+2628   - Kyou Fujibayashi
+2629   - Nagisa Furukawa
+2630   - Fuuko Ibuki
+2631   - Kotomi Ichinose
+2632   - Tomoya Okazaki
+2633   - Tomoyo Sakagami
+2634   - Youhei Sunohara
+2635   - Ryou Fujibayashi
+2636   - Misae Sagara
+2637   - Yukine Miyazawa
+2638   - Mei Sunohara
+2639   - Akio Furukawa
+2640   - Sanae Furukawa
+2641   - Wangji Lan
+2642   - Wuxian Wei
+2643   - Wanyin Jiang
+2644   - Ling Jin
+2645   - Guangyao Jin
+2646   - Xichen Lan
+2647   - Sizhui Lan
+2648   - Huaisang Nie
+2649   - Ning Wen
+2650   - Kazuma Mikura
+2651   - Itsuki Minami
+2652   - Ringo Noyamano
+2653   - Onigiri
+2654   - Issha Mihotoke
+2655   - Mikan Noyamano
+2656   - Rika Noyamano
+2657   - Shiraume Noyamano
+2658   - Simca
+2659   - Agito Wanijima
+2660   - Rong Sun
+2661   - Ling Wang
+2662   - Mei Kusakabe
+2663   - Satsuki Kusakabe
+2664   - Totoro
+2665   - Nekobasu
+2666   - Guang Lu
+2667   - Xiaoshi Cheng
+2668   - Ling Qiao
+2669   - Shuutarou Kurusu
+2670   - Yoshinobu Maeda
+2671   - Suwa
+2672   - Takeuchi
+2673   - Hitomi Uzaki
+2674   - Yuuya Nomoto
+2675   - Ui Inaba
+2676   - Eruza Nakanishi
+2677   - Dandy
+2678   - Honey
+2679   - Meow
+2680   - QT
+2681   - Adelie
+2682   - Mafuyu Satou
+2683   - Akihiko Kaji
+2684   - Haruki Nakayama
+2685   - Ritsuka Uenoyama
+2686   - Hiiragi Kashima
+2687   - Ugetsu Murata
+2688   - Yuki Yoshida
+2689   - Kabane Kusaka
+2690   - Akira
+2691   - Shiki Tademaru
+2692   - Kohachi Inugami
+2693   - Kon
+2694   - Mihai Florescu
+2695   - Nobimaru
+2696   - Decim
+2697   - Kurokami no Onna
+2698   - Nona
+2699   - Clavis
+2700   - Ginti
+2701   - Mayu Arita
+2702   - Quin
+2703   - Castra
+2704   - Saya Kisaragi
+2705   - Fumito Nanahara
+2706   - Tadayoshi Kisaragi
+2707   - Mana Hiiragi
+2708   - Yuuka Amino
+2709   - Nene Motoe
+2710   - Nono Motoe
+2711   - Shinichirou Tokizane
+2712   - Rachnera Arachnera
+2713   - Kimihito Kurusu
+2714   - Lala
+2715   - Meroune Lorelei
+2716   - Miia
+2717   - Papi
+2718   - Centorea Shianus
+2719   - Suu
+2720   - Doppel
+2721   - Kii
+2722   - Manako
+2723   - Kuroko Smith
+2724   - Tionishia
+2725   - Zombina
+2726   - Draco
+2727   - Lilith
+2728   - Yuuko Aioi
+2729   - Mai Minakami
+2730   - Mio Naganohara
+2731   - Sakamoto
+2732   - Hakase Shinonome
+2733   - Nano Shinonome
+2734   - Haruna Annaka
+2735   - Kana Nakamura
+2736   - Izumi Sakurai
+2737   - Koujirou Sasahara
+2738   - Misato Tachibana
+2739   - Manabu Takasaki
+2740   - Yoshino Naganohara
+2741   - Guo Chen
+2742   - Mucheng Su
+2743   - Rou Tang
+2744   - Xiu Ye
+2745   - Rongxing Bao
+2746   - Shaotian Huang
+2747   - Yifan Qiao
+2748   - Jiexi Wang
+2749   - Wenzhou Yu
+2750   - Lucia
+2751   - Liv
+2752   - Lee
+2753   - Alpha
+2754   - Nanami
+2755   - Karenina
+2756   - Ayla
+2757   - Vera
+2758   - Luna
+2759   - Bianca
+2760   - Selena
+2761   - Changyu
+2762   - Chrome
+2763   - Kamui
+2764   - Qu
+2765   - Roland
+2766   - Wanshi
+2767   - No.21
+2768   - Rosetta
+2769   - Camu
+2770   - Bambinata
+2771   - Liter
+2772   - Volume
+2773   - Scarlet
+2774   - Brid
+2775   - Isabel
+2776   - Modernia
+2777   - Noah
+2778   - Centi
+2779   - Rapunzel
+2780   - Anne
+2781   - Frima
+2782   - Julia
+2783   - Maxwell
+2784   - Poli
+2785   - Noise
+2786   - Belorta
+2787   - Folkwang
+2788   - Mary
+2789   - Mica
+2790   - Signal
+2791   - Guillotine
+2792   - Miranda
+2793   - Yan
+2794   - Soline
+2795   - Milk
+2796   - Epinel
+2797   - Crow
+2798   - Aria
+2799   - Hiling
+2800   - Daida
+2801   - Kage
+2802   - Makoto Edamura
+2803   - Pazu
+2804   - Sheeta
+2805   - Clair Aoki
+2806   - Shuuichi Kagaya
+2807   - Alien
+2808   - Elena Aoki
+2809   - Subaru
+2810   - Tadanori Sanbe
+2811   - Chihiro Yoshioka
+2812   - Kiki
+2813   - Jiji
+2814   - Tombo Kopoli
+2815   - Osono
+2816   - Ursula
+2817   - Ponyo
+2818   - Sousuke
+2819   - Fujimoto
+2820   - Granmammare
+2821   - Risa
+2822   - Shinya Kougami
+2823   - Shougo Makishima
+2824   - Akane Tsunemori
+2825   - Risa Aoyanagi
+2826   - Nobuchika Ginoza
+2827   - Shuusei Kagari
+2828   - Shion Karanomori
+2829   - Yayoi Kunizuka
+2830   - Tomomi Masaoka
+2831   - Mika Shimotsuki
+2832   - Kirito Kamui
+2833   - Sakuya Tougane
+2834   - Shou Hinakawa
+2835   - Arata Shindou
+2836   - Kei Mikhail Ignatov
+2837   - Reimu Hakurei
+2838   - Sakuya Izayoi
+2839   - Remilia Scarlet
+2840   - Flandre Scarlet
+2841   - Aya Shameimaru
+2842   - Yukari Yakumo
+2843   - Patchouli Knowledge
+2844   - Marisa Kirisame
+2845   - Rin Kaenbyou
+2846   - Reisen Udongein Inaba
+2847   - Momiji Inubashiri
+2848   - Koishi Komeiji
+2849   - Satori Komeiji
+2850   - Ran Yakumo
+2851   - Cirno
+2852   - Keine Kamishirasawa
+2853   - Clownpiece
+2854   - Nitori Kawashiro
+2855   - Fujiwara no Mokou
+2856   - Nue Houjuu
+2857   - Meiling Hong
+2858   - Kaguya Houraisan
+2859   - Suika Ibuki
+2860   - Youmu Konpaku
+2861   - Alice Margatroid
+2862   - Yuyuko Saigyouji
+2863   - Hata no Kokoro
+2864   - Utsuho Reiuji
+2865   - Aladdin
+2866   - Morgiana
+2867   - Alibaba Saluja
+2868   - Sharrkan Amun-Ra
+2869   - Ja'far
+2870   - Judar
+2871   - Masrur
+2872   - Hakuei Ren
+2873   - Hakuryuu Ren
+2874   - Kouen Ren
+2875   - Kougyoku Ren
+2876   - Kouha Ren
+2877   - Sinbad
+2878   - Yamraiha
+2879   - Yunan
+2880   - Abigail Jones
+2881   - Cynthia Moore
+2882   - Laurent Thierry
+2883   - Anderson
+2884   - Eddie Cassano
+2885   - Dorothy
+2886   - Sam Ibrahim
+2887   - Clark Ibrahim
+2888   - Kudou
+2889   - Isabelle Muller
+2890   - Mizuki Himeji
+2891   - Hideyoshi Kinoshita
+2892   - Shouko Kirishima
+2893   - Yuuji Sakamoto
+2894   - Minami Shimada
+2895   - Kouta Tsuchiya
+2896   - Akihisa Yoshii
+2897   - Yuuko Kinoshita
+2898   - Aiko Kudou
+2899   - Hazuki Shimada
+2900   - Miharu Shimizu
+2901   - Akira Yoshii
+2902   - Michiru Kagemori
+2903   - Shirou Ogami
+2904   - Nazuna Hiwatashi
+2905   - Marie Itami
+2906   - Alice Asmodeus
+2907   - Amelie Azazel
+2908   - Kalego Naberius
+2909   - Iruma Suzuki
+2910   - Clara Valac
+2911   - Picero Agares
+2912   - Schneider Allocer
+2913   - Kirio Ami
+2914   - Shichirou Balam
+2915   - Bachiko Barbatos
+2916   - Kerori Crocell
+2917   - Goemon Gaap
+2918   - Elizabetta Ix
+2919   - Jazz M. Andro
+2920   - Opera
+2921   - Lomiere Ronove
+2922   - Reed Shax
+2923   - Sullivan
+2924   - Chrome Dokuro
+2925   - Hayato Gokudera
+2926   - Kyouya Hibari
+2927   - Lambo
+2928   - Reborn
+2929   - Mukuro Rokudo
+2930   - Ryouhei Sasagawa
+2931   - Tsunayoshi Sawada
+2932   - Takeshi Yamamoto
+2933   - Bianchi
+2934   - Byakuran
+2935   - Dino Cavallone
+2936   - Giotto
+2937   - I-Pin
+2938   - Lal Mirch
+2939   - Haru Miura
+2940   - Kyouko Sasagawa
+2941   - Louise Francoise le Blanc de la Valliere
+2942   - Ayano Kannagi
+2943   - Ren Kannagi
+2944   - Kazuma Yagami
+2945   - Katherine Mcdonald
+2946   - Meryl Stryfe
+2947   - Milly Thompson
+2948   - Vash the Stampede
+2949   - Nicholas D. Wolfwood
+2950   - Ranma Saotome
+2951   - Akane Tendou
+2952   - Happosai
+2953   - Ryouga Hibiki
+2954   - Kodachi Kuno
+2955   - Tatewaki Kuno
+2956   - Ukyo Kuonji
+2957   - Mousse
+2958   - Genma Saotome
+2959   - Shampoo
+2960   - Kasumi Tendou
+2961   - Nabiki Tendou
+2962   - Kenshin Himura
+2963   - Kaoru Kamiya
+2964   - Yahiko Myoujin
+2965   - Sanosuke Sagara
+2966   - Rohan Kishibe
+2967   - Yuuto Kiba
+2968   - Grayfia Lucifuge
+2969   - Xenovia Quarta
+2970   - Irina Shidou
+2971   - Gasper Vladi
+2972   - Venelana Gremory
+2973   - Kuroka
+2974   - Serafall Leviathan
+2975   - Rossweisse
+2976   - Yasaka
+2977   - Maria Naruse
+2978   - Mio Naruse
+2979   - Yuki Nonaka
+2980   - Basara Toujou
+2981   - Chisato Hasegawa
+2982   - Kurumi Nonaka
+2983   - Zest
+2984   - Nasa Yuzaki
+2985   - Tsukasa Yuzaki
+2986   - Kaname Arisugawa
+2987   - Kamina
+2988   - Yoko Littner
+2989   - Simon
+2990   - Nia Teppelin
+2991   - Kittan Bachika
+2992   - Leeron Littner
+2993   - Viral
+2994   - Licht Bach
+2995   - Hina
+2996   - Lyne Mei
+2997   - Jail Murdoch
+2998   - Shumerman Bach
+2999   - Pele Poporo
+3000   - Nana
+3001   - Dororo
+3002   - Hyakkimaru
+3003   - Mio
+3004   - Tahomaru
+3005   - Hibiki Sakura
+3006   - Akemi Souryuuin
+3007   - Gina Boyd
+3008   - Ayaka Uehara
+3009   - Satomi Tachibana
+3010   - Naruzou Machio
+3011   - Eiko Tsukimi
+3012   - Kongming Zhuge
+3013   - Nanami Kuon
+3014   - Kabe Taijin
+3015   - Shuu Ouma
+3016   - Gai Tsutsugami
+3017   - Inori Yuzuriha
+3018   - Kenji Kido
+3019   - Hare Menjou
+3020   - Mana Ouma
+3021   - Makoto Waltz Segai
+3022   - Ayase Shinomiya
+3023   - Tsugumi
+3024   - Daryl Yan
+3025   - Rory Mercury
+3026   - Tuka Luna Marceau
+3027   - Lelei la Lalena
+3028   - Youji Itami
+3029   - Pina Co Lada
+3030   - Yao Ha Ducy
+3031   - Mari Kurokawa
+3032   - Dante
+3033   - Lady
+3034   - Trish
+3035   - Vergil
+3036   - Nero
+3037   - Lust
+3038   - Riza Hawkeye
+3039   - Jackal
+3040   - Quency
+3041   - Guilty
+3042   - Sin
+3043   - Takanashi Kiara
+3044   - Nessa
+3045   - Ash Ketchum
+3046   - Bianca
+3047   - Skyla
+3048   - Elesa
+3049   - Viper
+3050   - Seishirou Nagi
+3051   - Reo Mikage
+3052   - Rin Itoshi
+3053   - Shouei Barou
+3054   - Lusamine
+3055   - Mallow
+3056   - Miko Iino
+3057   - Suzu Naitou
+3058   - Misaki Shokuhou
+3059   - Gyro Zeppeli
+3060   - Leo
+3061   - Cheshire Cat
+3062   - Jeanne Alter
+3063   - Jet Black
+3064   - Spike Spiegel
+3065   - Faye Valentine
+3066   - Vincent Volaju
+3067   - Ein
+3068   - Judy
+3069   - Julia
+3070   - Mad Pierrot
+3071   - Vicious
+3072   - Andy Von de Oniyate
+3073   - Electra Ovilo
+3074   - Edward Wong Hau Pepelu Tivrusky IV
+3075   - Cocoa
+3076   - Soda
+3077   - Mahiru Shiina
+3078   - Brandish
+3079   - Dimaria Yesta
+3080   - Scathach
+3081   - Marth
+3082   - Ike
+3083   - Male Byleth
+3084   - Female Byleth
+3085   - Male Robin
+3086   - Female Robin
+3087   - Male Corrin
+3088   - Female Corrin
+3089   - Ritsuko Akizuki
+3090   - Haruka Amami
+3091   - Ami Futami
+3092   - Mami Futami
+3093   - Hibiki Ganaha
+3094   - Yukiho Hagiwara
+3095   - Miki Hoshii
+3096   - Makoto Kikuchi
+3097   - Chihaya Kisaragi
+3098   - Iori Minase
+3099   - Azusa Miura
+3100   - Producer
+3101   - Takane Shijou
+3102   - Yayoi Takatsuki
+3103   - Miria Akagi
+3104   - Anastasia
+3105   - Anzu Futaba
+3106   - Mio Honda
+3107   - Rika Jougasaki
+3108   - Ranko Kanzaki
+3109   - Miku Maekawa
+3110   - Kanako Mimura
+3111   - Kirari Moroboshi
+3112   - Minami Nitta
+3113   - Chieri Ogata
+3114   - Rin Shibuya
+3115   - Uzuki Shimamura
+3116   - Riina Tada
+3117   - Nana Abe
+3118   - Shouko Hoshi
+3119   - Karen Hojo
+3120   - Mika Jougasaki
+3121   - Nao Kamiya
+3122   - Sachiko Koshimizu
+3123   - Asuka Ninomiya
+3124   - Yui Ootsuki
+3125   - Mayu Sakuma
+3126   - Koume Shirasaka
+3127   - Airi Totoki
+3128   - Fuyuko Mayuzumi
+3129   - Kaede Takagaki
+3130   - Fumika Sagisawa
+3131   - Shiki Ichinose
+3132   - Aiko Takamori
+3133   - Kanade Hayami
+3134   - Shin Satou
+3135   - Riamu Yumemi
+3136   - Miho Kohinata
+3137   - Nono Morikubo
+3138   - Frederica Miyamoto
+3139   - Shuuko Shiomi
+3140   - Okuyasu Nijimura
+3141   - Yukako Yamagishi
+3142   - Mikitaka Hazekura
+3143   - Bruno Bucciarati
+3144   - Guido Mista
+3145   - Leone Abbacchio
+3146   - Pannacotta Fugo
+3147   - Narancia Ghirga
+3148   - Trish Una
+3149   - Risotto Nero
+3150   - Ghiaccio
+3151   - Kouichi Hirose
+3152   - Rebecca Bluegarden
+3153   - E.M. Pino
+3154   - Shiki Granbell
+3155   - Happy
+3156   - Homura Kougetsu
+3157   - Weisz Steiner
+3158   - Labilia Christy
+3159   - Sister Ivry
+3160   - Bond Forger
+3161   - Yaoyao
+3162   - Yuri Briar
+3163   - Sasori
+3164   - Sai
+3165   - Cid Kagenou
+3166   - Alpha
+3167   - Beta
+3168   - Claire Kagenou
+3169   - Delta
+3170   - Epsilon
+3171   - Gamma
+3172   - Eta
+3173   - Alexia Midgar
+3174   - Iris Midgar
+3175   - Rose Oriana
+3176   - 18-kin
+3177   - Albertina II
+3178   - Hime Arikawa
+3179   - Unko
+3180   - Kaguya Arikawa
+3181   - Mitsunaga Oda
+3182   - Hiro Toyotomi
+3183   - Sooyoung Han
+3184   - Dokja Kim
+3185   - Joonghyuk Yoo
+3186   - Bihyung
+3187   - Heewon Jung
+3188   - Gilyoung Lee
+3189   - Jihye Lee
+3190   - Persephone
+3191   - Uriel
+3192   - Kasumi Toyama
+3193   - Tae Hanazono
+3194   - Rimi Ushigome
+3195   - Saaya Yamabuki
+3196   - Arisa Ichigaya
+3197   - Ran Mitake
+3198   - Moca Aoba
+3199   - Himari Uehara
+3200   - Tomoe Udagawa
+3201   - Tsugumi Hazawa
+3202   - Kokoro Tsurumaki
+3203   - Kaoru Seta
+3204   - Hagumi Kitazawa
+3205   - Kanon Matsubara
+3206   - Misaki Okusawa
+3207   - Aya Maruyama
+3208   - Hina Hikawa
+3209   - Chisato Shirasagi
+3210   - Maya Yamato
+3211   - Eve Wakamiya
+3212   - Yukina Minato
+3213   - Sayo Hikawa
+3214   - Lisa Imai
+3215   - Ako Udagawa
+3216   - Rinko Shirokane
+3217   - Rokka Asahi
+3218   - Reona Nyubara
+3219   - Masuki Satou
+3220   - Chiyu Tamade
+3221   - Rei Wakana
+3222   - Mashiro Kurata
+3223   - Touko Kirigaya
+3224   - Nanami Hiromachi
+3225   - Tsukushi Futaba
+3226   - Rui Yashio
+3227   - Hazuki Katou
+3228   - Sapphire Kawashima
+3229   - Reina Kousaka
+3230   - Kumiko Oumae
+3231   - Asuka Tanaka
+3232   - Nozomi Kasaki
+3233   - Natsuki Nakagawa
+3234   - Kaori Nakaseko
+3235   - Haruka Ogasawara
+3236   - Noboru Taki
+3237   - Shuuichi Tsukamoto
+3238   - Mizore Yoroizuka
+3239   - Yuuko Yoshikawa
+3240   - Ushikai Musume
+3241   - Karyl
+3242   - Kokkoro
+3243   - Pecorine
+3244   - Yuuki
+3245   - Eriko
+3246   - Ameth
+3247   - Shizuru
+3248   - Hatsune
+3249   - Rino
+3250   - Saren
+3251   - Christina
+3252   - Aoi
+3253   - Labyrista
+3254   - Shiori
+3255   - Miyako
+3256   - Yui
+3257   - Rikka Takarada
+3258   - Akane Shinjou
+3259   - Yuuta Hibiki
+3260   - Gridman
+3261   - Anti
+3262   - Yomogi Asanaka
+3263   - Chise Asukagawa
+3264   - Gauma
+3265   - Yume Minami
+3266   - Koyomi Yamanaka
+3267   - Mujina
+3268   - Shoutarou Kaneda
+3269   - Kei
+3270   - Shikishima
+3271   - Tetsuo Shima
+3272   - Akira
+3273   - Batou
+3274   - Motoko Kusanagi
+3275   - Togusa
+3276   - Daisuke Aramaki
+3277   - Ishikawa
+3278   - Ginji
+3279   - Oodanna
+3280   - Aoi Tsubaki
+3281   - Josuke Higashikata
+3282   - Yasuho Hirose
+3283   - Joshu Higashikata
+3284   - Diego Brando
+3285   - Kars
+3286   - Wamuu
+3287   - Esidisi
+3288   - Santana
+3289   - Sora Kasugano
+3290   - Haruka Kasugano
+3291   - Eucliwood Hellscythe
+3292   - Echo
+3293   - Lacie Baskerville
+3294   - Ada Vessalius
+3295   - Charlotte Baskerville
+3296   - Rufus Barma
+3297   - Oswald Baskerville
+3298   - Zero One
+3299   - Kallen Kaslana
+3300   - Kiana Kaslana
+3301   - Raiden Mei
+3302   - Bronya Zaychik
+3303   - Himeko Murata
+3304   - Theresa Apocalypse
+3305   - Rita Rossweisse
+3306   - Durandal
+3307   - Rozaliya Olenyeva
+3308   - Liliya Olenyeva
+3309   - Seele Vollerei
+3310   - Yae Sakura
+3311   - Fu Hua
+3312   - Otto Apocalypse
+3313   - Elysia
+3314   - Mobius
+3315   - Aponia
+3316   - Pardofelis
+3317   - Eden
+3318   - Vill-V
+3319   - Raven
+3320   - Griseo
+3321   - Carole Pepper
+3322   - Li Sushang
+3323   - Timido Cute
+3324   - Kevin Kaslana
+3325   - Su
+3326   - Kosma
+3327   - Ai
+3328   - Kirino Kousaka
+3329   - Ayase Aragaki
+3330   - Hakkekkyuu U-1146
+3331   - Sekkekkyuu AE3803
+3332   - Killer T Saibou
+3333   - Kesshouban
+3334   - Macrophage
+3335   - Kousankyuu
+3336   - Hakkekkyuu U-1196
+3337   - Asirpa
+3338   - Saichi Sugimoto
+3339   - Hyakunosuke Ogata
+3340   - Genjirou Tanigaki
+3341   - Tokushirou Tsurumi
+3342   - Yoshitake Shiraishi
+3343   - Inkarmat
+3344   - Fusataro Oosawa
+3345   - Azusa
+3346   - Falfa
+3347   - Halkara
+3348   - Laika
+3349   - Shalsha
+3350   - Beelzebub
+3351   - Flatorte
+3352   - Pecora
+3353   - Hua Cheng
+3354   - Xie Lian
+3355   - Shi Qingxuan
+3356   - Nao Tomori
+3357   - Yuu Otosaka
+3358   - Ayumi Otosaka
+3359   - Joujirou Takajou
+3360   - Yusa Kurobane
+3361   - Shunsuke Otosaka
+3362   - Misa Kurobane
+3363   - Sara Shane
+3364   - Akagi
+3365   - Fubuki
+3366   - Kaga
+3367   - Kongou
+3368   - Mutsuki
+3369   - Yuudachi
+3370   - Akatsuki
+3371   - Atago
+3372   - Haruna
+3373   - Hibiki
+3374   - Ikazuchi
+3375   - Inazuma
+3376   - Kirishima
+3377   - Mutsu
+3378   - Nagato
+3379   - Sendai
+3380   - Shigure
+3381   - Shimakaze
+3382   - Shoukaku
+3383   - Yamato
+3384   - Zuikaku
+3385   - Ruri Gokou
+3386   - Kyousuke Kousaka
+3387   - Wein Salema Arbalest
+3388   - Lowellmina Earthwold
+3389   - Ninym Ralei
+3390   - Zeta
+3391   - Aurora
+3392   - Tsukasa Ayatsuji
+3393   - Haruka Morishima
+3394   - Sae Nakata
+3395   - Ai Nanasaki
+3396   - Rihoko Sakurai
+3397   - Junichi Tachibana
+3398   - Kaoru Tanamachi
+3399   - Risa Kamizaki
+3400   - Miya Tachibana
+3401   - Hibiki Tsukahara
+3402   - Masayoshi Umehara
+3403   - Tamamo no Mae
+3404   - Merlin
+3405   - Enkidu
+3406   - Francis Drake
+3407   - Arjuna
+3408   - Anastasia Romanova
+3409   - Iskandar
+3410   - Edmond Dantes
+3411   - Oberon Vortigern
+3412   - Ozymandias
+3413   - Marie Antoinette
+3414   - Yan Qing
+3415   - Lady Avalon
+3416   - Edgar Allan Poe
+3417   - Fyodor Dostoevsky
+3418   - Nikolai Gogol
+3419   - Sigma
+3420   - Tetcho Suehiro
+3421   - Gumi
+3422   - IA
+3423   - Ryouma Takebayashi
+3424   - Eliaria Jamil
+3425   - Reina Aharen
+3426   - Matsuboshi Raidou
+3427   - Mano Aloe
+3428   - Keima Katsuragi
+3429   - Ayumi Takahara
+3430   - Shiori Shiomiya
+3431   - Elucia de Lute Ima
+3432   - Chihiro Kosaka
+3433   - Yuri Nikaidou
+3434   - Kanon Nakagawa
+3435   - Tenri Ayukawa
+3436   - Haqua du Lot Herminium
+3437   - Mari Katsuragi
+3438   - Apollo
+3439   - Minerva
+3440   - Mio Aoyama
+3441   - Diana
+3442   - Sumire Uemoto
+3443   - Vulcanus
+3444   - Yui Goidou
+3445   - Jun Nagase
+3446   - Kusonoki Kasuga
+3447   - Tsukiyo Kujou
+3448   - Diarmuid Ua Duibhne
+3449   - Elaina
+3450   - Saya
+3451   - Sheila
+3452   - Amnesia
+3453   - Robert E O Speedwagon
+3454   - Rudol von Stroheim
+3455   - Oingo
+3456   - Boingo
+3457   - Daniel D'Arby
+3458   - Terence D'Arby
+3459   - Vanilla Ice
+3460   - Kouki Akune
+3461   - Zenkichi Hitoyoshi
+3462   - Mogana Kikaijima
+3463   - Medaka Kurokami
+3464   - Hansode Shiranui
+3465   - Nekomi Nabeshima
+3466   - Myouri Unzen
+3467   - Misogi Kumagawa
+3468   - Lucina
+3469   - Ikaros
+3470   - Sohara Mitsuki
+3471   - Nymph
+3472   - Tomoki Sakurai
+3473   - Mikako Satsukitane
+3474   - Eishirou Sugata
+3475   - Chiyo
+3476   - Yuu Hasunuma
+3477   - Hanasaki Miyabi
+3478   - Kagami Kira
+3479   - Kanade Izuru
+3480   - Arurandeisu
+3481   - Rikka
+3482   - Astel Leda
+3483   - Kishido Temma
+3484   - Yukoku Roberu
+3485   - Kageyama Shien
+3486   - Aragami Oga
+3487   - Daidou Shinove
+3488   - Tsukishita Kaoru
+3489   - Yatogami Fuma
+3490   - Utsugi Uyu
+3491   - Hizaki Gamma
+3492   - Minase Rio
+3493   - Regis Altare
+3494   - Magni Dezmond
+3495   - Axel Syrios
+3496   - Noir Vesper
+3497   - Gavis Bettel
+3498   - Machina X Flayon
+3499   - Banzoin Hakka
+3500   - Josuiji Shinri
+3501   - Reimi Sugimoto
+3502   - Akira Otoishi
+3503   - Foo Fighters
+3504   - Weather Report
+3505   - Narciso Anasui
+3506   - Emporio Alnino
+3507   - Ermes Costello
+3508   - Blackmore
+3509   - Ringo Roadagain
+3510   - Jobin Higashikata
+3511   - Megumi Katou
+3512   - Utaha Kasumigaoka
+3513   - Eriri Spencer Sawamura
+3514   - Tomoya Aki
+3515   - Michiru Hyoudou
+3516   - Izumi Hashima
+3517   - Yeo-Woon Cheon
+3518   - Larisha
+3519   - Yuuichi Katagiri
+3520   - Yutori Kokorogi
+3521   - Tenji Mikasa
+3522   - Shiho Sawaragi
+3523   - Makoto Shibe
+3524   - Manabu-kun
+3525   - Maria Mizuse
+3526   - Kei Shinomiya
+3527   - Tewi Inaba
+3528   - Texas
+3529   - Lappland
+3530   - Gin Gagamaru
+3531   - Sakunosuke Oda
+3532   - Yihwa Yeon
+3533   - Zahard
+3534   - Wangnan Ja
+3535   - Jinsung Ha
+3536   - White
+3537   - Lo Po Bia Elaine
+3538   - Kallavan
+3539   - Baylord Yama
+3540   - Evankhell
+3541   - Karaka
+3542   - Rinne Amagi
+3543   - Niki Shiina
+3544   - HiMERU
+3545   - Kohaku Oukawa
+3546   - Yuuji Sakai
+3547   - Shana
+3548   - Kazumi Yoshida
+3549   - Wilhelmina Carmel
+3550   - Margery Daw
+3551   - Hecate
+3552   - Rika Furude
+3553   - Satoko Houjou
+3554   - Keiichi Maebara
+3555   - Rena Ryuuguu
+3556   - Mion Sonozaki
+3557   - Shion Sonozaki
+3558   - Mamoru Akasaka
+3559   - Satoshi Houjou
+3560   - Kyousuke Irie
+3561   - Kuraudo Ooishi
+3562   - Miyo Takano
+3563   - Jirou Tomitake
+3564   - Hanyuu
+3565   - Yukari Akiyama
+3566   - Hana Isuzu
+3567   - Miho Nishizumi
+3568   - Mako Reizei
+3569   - Saori Takebe
+3570   - Chiyomi Anzai
+3571   - Darjeeling
+3572   - Katyusha
+3573   - Riko Matsumoto
+3574   - Saki Morimi
+3575   - Akira Takizawa
+3576   - Kazuomi Hirasawa
+3577   - Yutaka Itazu
+3578   - Mikuru Katsuhara
+3579   - Kuroha Shiratori
+3580   - Liscia Elfrieden
+3581   - Kazuya Souma
+3582   - Roroa Amidonia
+3583   - Juna Doma
+3584   - Tomoe Inui
+3585   - Hakuya Kwonmin
+3586   - Aisha Udgard
+3587   - Carla Vargas
+3588   - Excel Walter
+3589   - Maria Euphoria
+3590   - Albert Elfrieden
+3591   - Eishi Tsukasa
+3592   - Shu Itsuki
+3593   - Mika Kagehira
+3594   - Finana Ryugu
+3595   - Elira Pendora
+3596   - Pomu Rainpuff
+3597   - Kureiji Ollie
+3598   - Ayunda Risu
+3599   - Moona Hoshinova
+3600   - IRyS
+3601   - Kobo Kanaeru
+3602   - Kaela Kovalskia
+3603   - Vestia Zeta
+3604   - Airani Iofifteen
+3605   - Pavolia Reine
+3606   - Anya Melfissa
+3607   - Ebenholz
+3608   - Oliver Evans
+3609   - Tio Clarence
+3610   - Shea Haulia
+3611   - Hajime Nagumo
+3612   - Kaori Shirasaki
+3613   - Yue
+3614   - Aiko Hatayama
+3615   - Liliana S. B. Heilig
+3616   - Myu
+3617   - Yuka Sonobe
+3618   - Shizuku Yaegashi
+3619   - Remia
+3620   - Nicol Ascart
+3621   - Sophia Ascart
+3622   - Maria Campbell
+3623   - Katarina Claes
+3624   - Keith Claes
+3625   - Mary Hunt
+3626   - Alan Stuart
+3627   - Gerald Stuart
+3628   - Sirius Dieke
+3629   - Anne Shelley
+3630   - Suzana Randall
+3631   - Millidiana Claes
+3632   - Mio
+3633   - Makoto Misumi
+3634   - Tomoe
+3635   - Sofia Bulga
+3636   - Ema
+3637   - Eris
+3638   - Erina Pendleton
+3639   - Will Anthonio Zeppeli
+3640   - Bruford
+3641   - Smokey Brown
+3642   - Suzie Q
+3643   - Forever
+3644   - Steely Dan
+3645   - Mariah
+3646   - Pet Shop
+3647   - Shigekiyo Yangu
+3648   - Tonio Trussardi
+3649   - Luca
+3650   - Wekapipo
+3651   - Hot Pants
+3652   - Lucy Steel
+3653   - Tooru
+3654   - Josefumi Kujo
+3655   - Yoshikage Kira
+3656   - Kazuya Kagami
+3657   - Kiriha
+3658   - Kukuri
+3659   - Komachi Onozuka
+3660   - Hu Bong
+3661   - Ko Wang-Hur
+3662   - Baek Gi
+3663   - Chae Tak-Im
+3664   - Huan Yi
+3665   - Seob Meng
+3666   - Marakyum
+3667   - Mun Ku
+3668   - Aizawa Miyabi
+3669   - Azusa Fuyutsuki
+3670   - Urumi Kanzaki
+3671   - Yoshito Kikuchi
+3672   - Kunio Murai
+3673   - Tomoko Nomura
+3674   - Eikichi Onizuka
+3675   - Hiroshi Uchiyamada
+3676   - Noboru Yoshikawa
+3677   - Arona
+3678   - Kakudate Karin
+3679   - Ichinose Asuna
+3680   - Aru Rikuhachima
+3681   - Ajitani Hifumi
+3682   - Hayase Yuuka
+3683   - Kasuga Tsubaki
+3684   - Shiromi Iori
+3685   - Sunaookami Shiroko
+3686   - Sunohara Shun
+3687   - Takanashi Hoshino
+3688   - Kurodate Haruna
+3689   - Tendou Arisu
+3690   - Saiba Midori
+3691   - Saiba Momoi
+3692   - Kosaka Wakamo
+3693   - Asagi Mutsuki
+3694   - Kuda Izuna
+3695   - Natsume Iroha
+3696   - Renkawa Cherino
+3697   - Misono Mika
+3698   - Joumae Saori
+3699   - Onikata Kayoko
+3700   - Shirasu Azusa
+3701   - Sorasaki Hina
+3702   - Igusa Haruka
+3703   - Ushio Noa
+3704   - Kyouyama Kazusa
+3705   - Hanekawa Hasumi
+3706   - Amau Ako
+3707   - Yotsuha Miyamizu
+3708   - Natsuo Fujii
+3709   - Hina Tachibana
+3710   - Rui Tachibana
+3711   - Momo Kashiwabara
+3712   - Miu Ashihara
+3713   - Mei Aihara
+3714   - Yuzu Aihara
+3715   - Matsuri Mizusawa
+3716   - Harumi Taniguchi
+3717   - Miyuki Shiba
+3718   - Tatsuya Shiba
+3719   - Mayumi Saegusa
+3720   - Erika Chiba
+3721   - Shizuku Kitayama
+3722   - Mizuki Shibata
+3723   - Masaki Ichijo
+3724   - Ozaki Koyo
+3725   - Julius Euclius
+3726   - Khun Maschenny Zahard
+3727   - Eugene Lionheart
+3728   - Sienna Merdein
+3729   - Molon Ruhr
+3730   - Vermouth Lionheart
+3731   - Ciel Lionheart
+3732   - Cyan Lionheart
+3733   - Anise Slywood
+3734   - Carmen Lionheart
+3735   - Mer Merdein
+3736   - Kristina Rogeris
+3737   - Lovellian Sophis
+3738   - Balzac Ludbeth
+3739   - Melkith El-Hayah
+3740   - Pieck Finger
+3741   - 707
+3742   - Unknown
+3743   - Jumin Han
+3744   - Yoosung
+3745   - Zen
+3746   - V
+3747   - Jaehee Kang
+3748   - Selen Tatsuki
+3749   - Latifa Fleuranza
+3750   - Seiya Kanie
+3751   - Isuzu Sento
+3752   - Moffle
+3753   - Muse
+3754   - Salama
+3755   - Sylphy
+3756   - Holy Kujo
+3757   - Yuya Fungami
+3758   - Hayato Kawajiri
+3759   - Keicho Nijimura
+3760   - Shinobu Kawajiri
+3761   - Vinegar Doppio
+3762   - Pesci
+3763   - Prosciutto
+3764   - Cioccolata
+3765   - Secco
+3766   - Evileye
+3767   - Zesshi Zetsumei
+3768   - Velvet Scarlatina
+3769   - Bao
+3770   - Shylily
+3771   - Shxtou
+3772   - Kizuna Ai
+3773   - Vienna
+3774   - Foxplushy
+3775   - Akuma Nihmune
+3776   - Amano Pikamee
+3777   - Shigure Ui
+3778   - Amano Nene
+3779   - Nia Honjou
+3780   - Reine Murasame
+3781   - Mio Takamiya
+3782   - Hiyori Shiina
+3783   - Ninon
+3784   - Mamako Oosuki
+3785   - Masato Oosuki
+3786   - Amante
+3787   - Medhi
+3788   - Porta
+3789   - Wise
+3790   - Keiki Kiryuu
+3791   - Sayuki Tokihara
+3792   - Mizuha Kiryuu
+3793   - Yuika Koga
+3794   - Mao Nanjou
+3795   - Ayano Fujimoto
+3796   - Koharu Ootori
+3797   - Ranni The Witch
+3798   - Melina
+3799   - Enna Alouette
+3800   - Nina Kosaka
+3801   - Millie Parfait
+3802   - Reimu Endou
+3803   - Kaguya Luna
+3804   - Uto Amatsuka
+3805   - Kuzuha
+3806   - Kazari Uiharu
+3807   - Ruiko Saten
+3808   - Petra Gurin
+3809   - Rosemi Lovelock
+3810   - Amatsuyu Kisaragi
+3811   - Sumireko Sanshokuin
+3812   - Sakura Akino
+3813   - Asaka Mayama
+3814   - Chiharu Youki
+3815   - Aoi Hinata
+3816   - Hina Hanetachi
+3817   - Nozel Silva
+3818   - Fuegoleon Vermillion
+3819   - William Vangeance
+3820   - Charlotte Roselei
+3821   - Dorothy Unsworth
+3822   - Nacht Faust
+3823   - Rill Boismortier
+3824   - Jack the Ripper
+3825   - Sol Marron
+3826   - Leopold Vermillion
+3827   - Sekke Bronzazza
+3828   - Langris Vaude
+3829   - Damnatio Kira
+3830   - Klaus Lunettes
+3831   - Bell
+3832   - Sister Lily
+3833   - Marx Francois
+3834   - Rebecca Scarlet
+3835   - Licita
+3836   - Patri
+3837   - Raia
+3838   - Vetto
+3839   - Fana
+3840   - Mars
+3841   - Franzel Kruger
+3842   - Dominante Code
+3843   - Mariella
+3844   - Loropechika
+3845   - Undine
+3846   - Gaja
+3847   - Dante Zogratis
+3848   - Vanica Zogratis
+3849   - Zenon Zogratis
+3850   - Kiato
+3851   - Kahono
+3852   - Witch Queen
+3853   - Vanguard
+3854   - Helena
+3855   - Musashi
+3856   - Harbin
+3857   - Odin
+3858   - Nelson
+3859   - Hwajin Na
+3860   - Hanrim Lim
+3861   - Gangseok Choi
+3862   - Arthur Leywin
+3863   - Sylvie
+3864   - Tessia Eralith
+3865   - Elijah Knight
+3866   - Jasmine Flamesworth
+3867   - Kathyln Glayder
+3868   - Alice Leywin
+3869   - Reynolds Leywin
+3870   - Eleanor Leywin
+3871   - Murasaki Shikibu
+3872   - Camilla
+3873   - TAR-21
+3874   - Kimihiko Kimizuka
+3875   - Nagisa Natsunagi
+3876   - Siesta
+3877   - Charlotte Arisaka Anderson
+3878   - Yui Saikawa
+3879   - Aki Adagaki
+3880   - Masamune Makabe
+3881   - Neko Fujinomiya
+3882   - Yoshino Koiwai
+3883   - Kojuro Shuri
+3884   - Subaru Konoe
+3885   - Kinjirou Sakamachi
+3886   - Kanade Suzutsuki
+3887   - Nakuru Narumi
+3888   - Kureha Sakamachi
+3889   - Masamune Usami
+3890   - Masamune Izumi
+3891   - Sagiri Izumi
+3892   - Tomoe Takasago
+3893   - Megumi Jinno
+3894   - Kunimitsu Shidou
+3895   - Chris Yamada
+3896   - Ayame Kagurazaka
+3897   - Muramasa Senju
+3898   - Elf Yamada
+3899   - Masamichi Yaga
+3900   - Riko Amanai
+3901   - Kinji Hakari
+3902   - Naoya Zen'in
+3903   - Hajime Kashimo
+3904   - Hiromi Higuruma
+3905   - Reggie Star
+3906   - Ryu Ishigori
+3907   - Takako Uro
+3908   - Hana Kurusu
+3909   - Fumihiko Takaba
+3910   - Alhaitham
+3911   - Astesia
+3912   - Chihaya Ayase
+3913   - Taichi Mashima
+3914   - Arata Wataya
+3915   - Izumi Nase
+3916   - Ai Shindou
+3917   - Ayaka Shindou
+3918   - Tsumiki Miniwa
+3919   - Io Otonashi
+3920   - Shintaro Kisaragi
+3921   - Takane Enomoto
+3922   - Ayano Tateyama
+3923   - Tsubomi Kido
+3924   - Kousuke Seto
+3925   - Shuuya Kano
+3926   - Mari Kozakura
+3927   - Momo Kisaragi
+3928   - Hibiya Amamiya
+3929   - Konoha
+3930   - Hiyori Asahina
+3931   - Haruka Kokonose
+3932   - Kuroha
+3933   - Azami
+3934   - Jahy
+3935   - Druj
+3936   - Kyouko Jinguu
+3937   - Maou
+3938   - Ryo
+3939   - Kokoro Sasaki
+3940   - Saurva
+3941   - Kokoa Hoto
+3942   - Chino Kafuu
+3943   - Sharo Kirima
+3944   - Rize Tedeza
+3945   - Chiya Ujimatsu
+3946   - Midori Aoyama
+3947   - Moko Hoto
+3948   - Maya Jouga
+3949   - Megumi Natsu
+3950   - Tippy
+3951   - Chung Myung
+3952   - Baek Chun
+3953   - Jo Gul
+3954   - Jong Yoon
+3955   - Yu Iseol
+3956   - Sakura Adachi
+3957   - Hougetsu Shimamura
+3958   - Sayu Ogiwara
+3959   - Yoshida
+3960   - Airi Gotou
+3961   - Miko Yotsuya
+3962   - Hana Yurikawa
+3963   - Yuria Niguredou
+3964   - Suzuka Nagami
+3965   - Yuu Nagami
+3966   - Nazuna Nanakusa
+3967   - Kou Yamori
+3968   - Akira Asai
+3969   - Anko Uguisu
+3970   - Shiori Sakurazaka
+3971   - Akari Watanabe
+3972   - Jirou Yakuin
+3973   - Minami Tenjin
+3974   - Ai Hoshino
+3975   - Aquamarine Hoshino
+3976   - Ruby Hoshino
+3977   - Kana Arima
+3978   - Akane Kurokawa
+3979   - Euphyllia Magenta
+3980   - Anisphia Wynn Palletia
+3981   - Jay Jo
+3982   - Minu Yoon
+3983   - Dom Kang
+3984   - Vinny Hong
+3985   - Shelly Scott
+3986   - June
+3987   - Lee Kiyoung
+3988   - Jung Hayan
+3989   - Kim Hyunsung
+3990   - Lee Jihye
+3991   - Sun Heeyoung
+3992   - Cha Heera
+3993   - Park Deokgu
+3994   - Shizuo Heiwajima
+3995   - Masaomi Kida
+3996   - Izaya Orihara
+3997   - Mikado Ryugamine
+3998   - Anri Sonohara
+3999   - Celty Sturluson
+4000   - Celia Claire
+4001   - Latifa
+4002   - Rio
+4003   - Aishia
+4004   - Liselotte Cretia
+4005   - Saito Hiraga
+4006   - Siesta
+4007   - Tiffania Westwood
+4008   - Tabitha
+4009   - Kirche
+4010   - Henrietta
+4011   - Julio Chesare
+4012   - Guiche de Gramont
+4013   - Sheffield
+4014   - Jaehwan
+4015   - Chunghuh
+4016   - Sirwen Armelt
+4017   - Han Mino
+4018   - Jin Runcandel
+4019   - Murakan
+4020   - Gilly McRolan
+4021   - Luna Runcandel
+4022   - Chiron Runcandel
+4023   - Rosa Runcandel
+4024   - Bartholomew Kuma
+4025   - Bartolomeo
+4026   - Bentham
+4027   - Bepo
+4028   - Borsalino
+4029   - Buggy
+4030   - Carrot
+4031   - Charlotte Katakuri
+4032   - Crocodile
+4033   - Doflamingo Donquixote
+4034   - Rosinante Donquixote
+4035   - Dracule Mihawk
+4036   - Enel
+4037   - Gol D. Roger
+4038   - Jewelry Bonney
+4039   - Kozuki Oden
+4040   - Kuzan
+4041   - Marco
+4042   - Monet
+4043   - Monkey D. Dragon
+4044   - Monkey D. Garp
+4045   - Vivi Nefertari
+4046   - Perona
+4047   - Rob Lucci
+4048   - Shanks
+4049   - Silvers Rayleigh
+4050   - Smoker
+4051   - Ulti
+4052   - Reiju Vinsmoke
+4053   - Saori Makishima
+4054   - Nagasumi Michishio
+4055   - Sun Seto
+4056   - Lunar Edomae
+4057   - Masa
+4058   - Maki
+4059   - Mawari Zenigata
+4060   - Independence
+4061   - Janus
+4062   - Juneau
+4063   - Marblehead
+4064   - Yu
+4065   - Ryu Baeksan
+4066   - Jay
+4067   - Dehya
+4068   - Shuten Douji
+4069   - Ibaraki Douji
+4070   - Maple
+4071   - Sally
+4072   - Kanade
+4073   - Kasumi
+4074   - Mii
+4075   - Syrup
+4076   - Kusuo Saiki
+4077   - Shun Kaidou
+4078   - Aren Kuboyasu
+4079   - Riki Nendou
+4080   - Kokomi Teruhashi
+4081   - Midori Imai
+4082   - Aoi Miyamori
+4083   - Shizuka Sakaki
+4084   - Ema Yasuhara
+4085   - Misa Toudou
+4086   - Rinko Ogasawara
+4087   - Erika Yano
+4088   - Tsubaki Andou
+4089   - Ranka Ookami
+4090   - Jin Mazama
+4091   - Hitomi Hino
+4092   - Nagisa Kubo
+4093   - Junta Shiraishi
+4094   - Aliceliese Lou Nebulis IX
+4095   - Iska
+4096   - Modeus
+4097   - Justice
+4098   - Loremaster
+4099   - Lucifer
+4100   - Beelzebub
+4101   - Azazel
+4102   - Malina
+4103   - Pandemonica
+4104   - Daniel Park
+4105   - Euntae Lee
+4106   - Zack Lee
+4107   - Jake Kim
+4108   - Jay Hong
+4109   - Gun Park
+4110   - Cerberus
+4111   - Zdrada
+4112   - Judgement
+4113   - Olivier
+4114   - Springfield
+4115   - Ririchiyo Shirakiin
+4116   - Soushi Miketsukami
+4117   - Karuta Roromiya
+4118   - Zange Natsume
+4119   - Kagerou Shoukiin
+4120   - Sistine Fibel
+4121   - Glenn Radars
+4122   - Rumia Tingel
+4123   - Celica Arfonia
+4124   - Kazuki Kurusu
+4125   - Rei Suwa
+4126   - Miri Unasaka
+4127   - Lilith Bristol
+4128   - Miyabi Hotaka
+4129   - Tooru Kokonoe
+4130   - Julie Sigtuna
+4131   - Tomoe Tachibana
+4132   - Rito Tsukimi
+4133   - Furano Yukihira
+4134   - Chocolat
+4135   - Ouka Yuuouji
+4136   - Kanade Amakusa
+4137   - Utage Douraku
+4138   - Ayame Kajou
+4139   - Anna Nishikinomiya
+4140   - Tanukichi Okuma
+4141   - Kosuri Onigashira
+4142   - Otome Saotome
+4143   - Hyouka Fuwa
+4144   - Yusuke Fujisaki
+4145   - Hime Onizuka
+4146   - Kazuyoshi Usui
+4147   - Tanya Degurechaff
+4148   - Viktoriya Ivanovna Serebryakova
+4149   - Hina
+4150   - Yoshifumi Nitta
+4151   - Anzu
+4152   - Hitomi Mishima
+4153   - Shirou Ashiya
+4154   - Sadao Mao
+4155   - Emi Yusa
+4156   - Suzuno Kamazuki
+4157   - Chiho Sasaki
+4158   - Hanzou Urushihara
+4159   - Aoi Hinami
+4160   - Selim Bradley
+4161   - Lan Fan
+4162   - Van Hohenheim
+4163   - Greed
+4164   - Envy
+4165   - Gluttony
+4166   - Terminus Est
+4167   - Ellis Fahrengart
+4168   - Kamito Kazehaya
+4169   - Rinslet Laurenfrost
+4170   - Fianna Ray Ordesia
+4171   - Claire Rouge
+4172   - Restia Ashdoll
+4173   - Azusa Azuki
+4174   - Tsukiko Tsutsukakushi
+4175   - Tsukushi Tsutsukakushi
+4176   - Youto Yokodera
+4177   - Aria Holmes Kanzaki
+4178   - Shirayuki Hotogi
+4179   - Riko Mine
+4180   - Kinji Toyama
+4181   - Reki
+4182   - Ako Tamaki
+4183   - Hideki Nishimura
+4184   - Akane Segawa
+4185   - Kyou Goshouin
+4186   - Fumiya Tomozaki
+4187   - Yuzu Izumi
+4188   - Minami Nanami
+4189   - Frieren
+4190   - Fern
+4191   - Stark
+4192   - Uvogin
+4193   - Diona
+4194   - Biscuit
+4195   - Rebecca
+4196   - Viola
+4197   - Charlotte Linlin
+4198   - Tiese Shtolienen
+4199   - Chuchu
+4200   - Cyan Hijirikawa
+4201   - Moa
+4202   - Retoree
+4203   - Crow
+4204   - Rom
+4205   - Yaiba
+4206   - Aion
+4207   - Tsukino
+4208   - Citti
+4209   - Rindou Amamiya
+4210   - Kouta Fujiki
+4211   - Alisa Illinichina Amiella
+4212   - Souma Schicksal
+4213   - Sakuya Tachibana
+4214   - Lenka Utsugi
+4215   - Kazane Aoba
+4216   - Nozomi Kaminashi
+4217   - Sayaka Miyata
+4218   - Non Toyoguchi
+4219   - Kotone Fujisaki
+4220   - Hanabi Kawai
+4221   - Mio Kusakai
+4222   - San
+4223   - Ashitaka
+4224   - Eboshi Gozen
+4225   - Moro
+4226   - Yoshiko Hanabatake
+4227   - Akuru Akutsu
+4228   - Sayaka Sumino
+4229   - Fuuki Iinchou
+4230   - Takaki Toono
+4231   - Kanae Sumida
+4232   - Akari Shinohara
+4233   - Shiroe
+4234   - Akatsuki
+4235   - Naotsugu
+4236   - Rayneshia El-Arte Corwen
+4237   - Rundellhous Kode
+4238   - Nyanta
+4239   - Krusty
+4240   - Soujirou Seta
+4241   - Konata Izumi
+4242   - Kagami Hiiragi
+4243   - Tsukasa Hiiragi
+4244   - Miyuki Takara
+4245   - Akira Kogami
+4246   - Hiyori Tamura
+4247   - Misao Kusakabe
+4248   - Minami Iwasaki
+4249   - Minoru Shiraishi
+4250   - Meito Anizawa
+4251   - Chise Hatori
+4252   - Elias Ainsworth
+4253   - Ruth
+4254   - Silky
+4255   - Lindel
+4256   - Cartaphilus
+4257   - Kazuha Tooyama
+4258   - Vermouth
+4259   - Masumi Sera
+4260   - Pozemka
+4261   - Dorothy
+4262   - Altair
+4263   - Yuuya Mirokuji
+4264   - Selesia Upitiria
+4265   - Meteora Osterreich
+4266   - Magane Chikujouin
+4267   - Mamika Kirameki
+4268   - Rui Kanoya
+4269   - Sota Mizushino
+4270   - Blitz Talker
+4271   - Alicetaria February
+4272   - Gran
+4273   - Djeeta
+4274   - Lyria
+4275   - Narmaya
+4276   - Daisuke Kanbe
+4277   - Haru Katou
+4278   - Ryo Hoshino
+4279   - Shinnosuke Kamei
+4280   - Suzue Kanbe
+4281   - Mahoro Saeki
+4282   - Sandalphon
+4283   - Belial
+4284   - Fediel
+4285   - Galleon
+4286   - Katalina
+4287   - Ayato Amagiri
+4288   - Julis-Alexia von Riessfeld
+4289   - Claudia Enfield
+4290   - Saya Sasamiya
+4291   - Kirin Toudou
+4292   - Sylvia Lyyneheym
+4293   - Himiko
+4294   - Ryota Sakamoto
+4295   - Kousuke Kira
+4296   - Chii
+4297   - Hideki Motosuwa
+4298   - Freya
+4299   - Sumomo
+4300   - Gin
+4301   - Hotaru Takegawa
+4302   - Himeko Inaba
+4303   - Yui Kiriyama
+4304   - Iori Nagase
+4305   - Taichi Yaegashi
+4306   - Yoshifumi Aoki
+4307   - Mahiru Inami
+4308   - Jun Sato
+4309   - Kyouko Shirafuji
+4310   - Hiromi Soma
+4311   - Sota Takanashi
+4312   - Popura Taneshima
+4313   - Yachiyo Todoroki
+4314   - Aoi Yamada
+4315   - Maya Matsumoto
+4316   - Katsushika Hokusai
+4317   - Kama
+4318   - Serenity
+4319   - Ethan
+4320   - Adaman
+4321   - Adlet Mayer
+4322   - Hans Humpty
+4323   - Nashetania Loei Piena Augustra
+4324   - Fremy Speeddraw
+4325   - Chamo Rosso
+4326   - Mora Chester
+4327   - Goldov Auora
+4328   - Młynar
+4329   - Sakura
+4330   - Nihilister
+4331   - Kaijuu Shoujo Anosillus
+4332   - Nemu Kurotsuchi
+4333   - Ike Eveland
+4334   - Vox Akuma
+4335   - Mysta Rias
+4336   - Shu Yamino
+4337   - Luca Kaneshiro
+4338   - Scathach Skadi
+4339   - Kouko Kaga
+4340   - Nana Hayashida
+4341   - Banri Tada
+4342   - Mitsuo Yanagisawa
+4343   - Nana
+4344   - Chinami Oka
+4345   - Takaya Satou
+4346   - Grea
+4347   - Female Alear
+4348   - Male Alear
+4349   - Claude von Riegan
+4350   - Edelgard von Hresvelg
+4351   - Dimitri Alexandre Blaiddyd
+4352   - Regina Mercedes
+4353   - Elfine Phillet
+4354   - Riselia Ray Crystalia
+4355   - Sakuya Sieglinde
+4356   - Leonis Death Magnus
+4357   - Shary
+4358   - Veira
+4359   - Yuusuke Makishima
+4360   - Shoukichi Naruko
+4361   - Sakamichi Onoda
+4362   - Shingo Kinjo
+4363   - Shunsuke Imaizumi
+4364   - Jin Tadokoro
+4365   - Yasutomo Arakita
+4366   - Sangaku Manami
+4367   - Akira Midousuji
+4368   - Hayato Shinkai
+4369   - Junta Teshima
+4370   - Jinpachi Toudou
+4371   - Bebin
+4372   - Domas
+4373   - Desha
+4374   - Miranjo
+4375   - Lady Nagant
+4376   - Yuna
+4377   - Fina
+4378   - Noire Foschurose
+4379   - Shia Foschurose
+4380   - Shuri
+4381   - Misana Farrengram
+4382   - Amane Fujimiya
+4383   - Chitose Shirakawa
+4384   - Itsuki Akazawa
+4385   - Yuuta Kadowaki
+4386   - Shihoko Fujimiya
+4387   - Shuuto Fujimiya
+4388   - Naru Kotoishi
+4389   - Sei Handa
+4390   - Tamako Arai
+4391   - Miwa Yamamura
+4392   - Hina Kubota
+4393   - Hiroshi Kido
+4394   - Emi Handa
+4395   - Takao Kawafuji
+4396   - Fuuka Kiryuuin
+4397   - Shirokusa Kachi
+4398   - Sueharu Maru
+4399   - Maria Momosaka
+4400   - Kuroha Shida
+4401   - Rena Asagi
+4402   - You Kasukabe
+4403   - Asuka Kudo
+4404   - Kurousagi
+4405   - Izayoi Sakamaki
+4406   - Leticia Draculea
+4407   - Shiroyasha
+4408   - Ristarte
+4409   - Seiya Ryuuguuin
+4410   - Adenela
+4411   - Ariadoa
+4412   - Hestiaca
+4413   - Chaos Machina
+4414   - Mitis
+4415   - Valkyrie
+4416   - Cthuko
+4417   - Hasuta
+4418   - Nyaruko
+4419   - Mahiro Yasaka
+4420   - Ironmouse
+4421   - Nyatasha Nyanners
+4422   - Projekt Melody
+4423   - Silvervale
+4424   - Veibae
+4425   - Zentreya
+4426   - Apricot
+4427   - Kson
+4428   - Amemiya Nazuna
+4429   - Hime Hajime
+4430   - Haruka Karibu
+4431   - Misha Necron
+4432   - Sasha Necron
+4433   - Anos Voldigoad
+4434   - Lay Glanzudlii
+4435   - Eleanor Bianca
+4436   - Misa Ilioroagu
+4437   - Izabella
+4438   - Lieselotte Riefenstahl
+4439   - Shihono Kobayashi
+4440   - Siegwald Fitzenhagen
+4441   - Aoto Endo
+4442   - Fiene
+4443   - Yuki Kusakabe
+4444   - Kyoko Machi
+4445   - Sakie Satou
+4446   - Tetsuo Takahashi
+4447   - Hikari Takanashi
+4448   - Himari Takanashi
+4449   - Maou
+4450   - Yuusha
+4451   - Maid Ane
+4452   - Maid Chou
+4453   - Maid Imouto
+4454   - Onna Kishi
+4455   - Onna Mahoutsukai
+4456   - Seinen Shounin
+4457   - Shin Wolford
+4458   - Sicily von Claude
+4459   - August von Earlshide
+4460   - Maria von Messina
+4461   - Ai Hinatsuru
+4462   - Yaichi Kuzuryuu
+4463   - Ginko Sora
+4464   - Ai Yashajin
+4465   - Shizuku Mizutani
+4466   - Haru Yoshida
+4467   - Mitsuyoshi Misawa
+4468   - Asako Natsume
+4469   - Chizuru Ooshima
+4470   - Souhei Sasahara
+4471   - Kenji Yamaguchi
+4472   - Yuuzan Yoshida
+4473   - Kotarou Azumi
+4474   - Akane Mizuno
+4475   - Takumi Hira
+4476   - Chinatsu Nishio
+4477   - Takao Akizuki
+4478   - Yukari Yukino
+4479   - Maria Akizuki
+4480   - Shun Aonuma
+4481   - Satoru Asahina
+4482   - Mamoru Itou
+4483   - Saki Watanabe
+4484   - Yuuji Kazami
+4485   - Amane Suou
+4486   - Makina Irisu
+4487   - Sachi Komine
+4488   - Michiru Matsushima
+4489   - Yumiko Sakaki
+4490   - Kazuki Kazami
+4491   - Yuria Harudera
+4492   - Tomoko Kuroki
+4493   - Togame
+4494   - Rinne Higaki
+4495   - Hitei
+4496   - Konayuki Itezora
+4497   - Zanki Kiguchi
+4498   - Houou Maniwa
+4499   - Pengin Maniwa
+4500   - Hakuhei Sabi
+4501   - Ginkaku Uneri
+4502   - Meisai Tsuruga
+4503   - Emonzaemon Souda
+4504   - Nanami Yasuri
+4505   - Shichika Yasuri
+4506   - Tatsumi Oga
+4507   - Kaiser de Emperana Beelzebub IV
+4508   - Aoi Kunieda
+4509   - Hildegard
+4510   - Takayuki Furuichi
+4511   - Hidetora Toujou
+4512   - Yuka Hanazawa
+4513   - Hajime Kanzaki
+4514   - Tatsuya Himekawa
+4515   - Shintarou Natsume
+4516   - Neuro-sama
+4517   - Chibidoki
+4518   - Ars Almal
+4519   - Shiina Yuika
+4520   - Inui Toko
+4521   - Sukoya Kana
+4522   - Rindou Mikoto
+4523   - Hoshikawa Sara
+4524   - Lize Helesta
+4525   - Mika Melatika
+4526   - Ban Hada
+4527   - Hyakumantenbara Salome
+4528   - Nishizono Chigusa
+4529   - Sasaki Saku
+4530   - Ange Katrina
+4531   - Sister Claire
+4532   - Tsukino Mito
+4533   - Fulgur Ovid
+4534   - Uki Violeta
+4535   - Sonny Brisko
+4536   - Meloco Kyoran
+4537   - Scarle Yonaguni
+4538   - Alban Knox
+4539   - Aia Amare
+4540   - Kotoka Torahime
+4541   - Maria Marionette
+4542   - Hex Haywire
+4543   - Doppio Dropscythe
+4544   - Ver Vermillion
+4545   - Aster Arcadia
+4546   - Ren Zotto
+4547   - Suzuhara Lulu
+4548   - Takamiya Rion
+4549   - Debidebi Debiru
+4550   - Ex Albio
+4551   - Yorumi Rena
+4552   - Machita Chima
+4553   - Higuchi Kaede
+4554   - Chihiro Yuki
+4555   - Shizuka Rin
+4556   - Elu
+4557   - Kanae
+4558   - Amamiya Kokoro
+4559   - Maimoto Keisuke
+4560   - Yugo Asuma
+4561   - Eli Conifer
+4562   - Kyo Kaneko
+4563   - Zaion LanZa
+4564   - Miyubi Shishio
+4565   - Meimei
+4566   - Hayase Sou
+4567   - Baizhu
+4568   - Kaveh
+4569   - Mika
+4570   - Leon Fou Bartfort
+4571   - Marie Fou Lafan
+4572   - Olivia
+4573   - Angelica Rapha Redgrave
+4574   - Mylene Rapha Holfort
+4575   - Min JaeHyun
+4576   - Seo Ina
+4577   - Kim Yoojung
+4578   - Hel
+4579   - Yoo Sung-Eun
+4580   - Lee Jaesang
+4581   - Ahn Hoyeon
+4582   - Aya Arisugawa
+4583   - Chitose Kaginoji
+4584   - Aurora
+4585   - Charlotte
+4586   - Asahi Ikusaba
+4587   - Maya Ikusaba
+4588   - Kilmaria
+4589   - Takane Takamine
+4590   - Takashi Shirota
+4591   - Dariel
+4592   - Malika
+4593   - Laidy
+4594   - Zebiantes
+4595   - Bashbarza
+4596   - Tamaki
+4597   - Mifuyu
+4598   - Suzume
+4599   - Maou Tasogare
+4600   - Akuma Shuudoushi
+4601   - Haritoge Majiro
+4602   - Yuusha Akatsuki
+4603   - Red Siberian Kai
+4604   - Poseidon
+4605   - Yomiko Readman
+4606   - Nancy Makuhari
+4607   - Joseph Carpenter
+4608   - Drake Anderson
+4609   - Wendy Earhart
+4610   - Mari Illustrious Makinami
+4611   - Aurora Suya Rhys Kaymin
+4612   - D
+4613   - Dorothy
+4614   - Rei
+4615   - Kirara
+4616   - Serval
+4617   - Fennec
+4618   - Common Raccoon
+4619   - Shoebill
+4620   - Kaban
+4621   - Gray Wolf
+4622   - Tsuchinoko
+4623   - Sakhalin Fox
+4624   - Hululu
+4625   - Silver Fox
+4626   - Nana
+4627   - Bailu
+4628   - Anna Yamada
+4629   - Kyoutarou Ichikawa
+4630   - Giant Panda
+4631   - Red Panda
+4632   - Domestic Dog
+4633   - Capybara
+4634   - Leila Malcal
+4635   - Oldrin Zevon
+4636   - Kiyoshi Fujino
+4637   - Jouji Nezu
+4638   - Shingo Wakamoto
+4639   - Takehito Morokuzu
+4640   - Reiji Andou
+4641   - Meiko Shiraki
+4642   - Hana Midorikawa
+4643   - Chiyo Kurihara
+4644   - Mari Kurihara
+4645   - Kate Takenomiya
+4646   - Anzu Yokoyama
+4647   - Haku
+4648   - Chihiro Ogino
+4649   - Kaonashi
+4650   - Sawako Kuronuma
+4651   - Ryuu Sanada
+4652   - Anzu Hoshino
+4653   - Shouta Kazehaya
+4654   - Junta Hayami
+4655   - Riri
+4656   - Ton
+4657   - Chizuru Yoshida
+4658   - Ayane Yano
+4659   - Ume Kurumizawa
+4660   - Yukana Yame
+4661   - Junichi Hashiba
+4662   - Ranko Honjou
+4663   - Yui Kashii
+4664   - Fudou Aikawa
+4665   - Desumi Magahara
+4666   - Misaki Jinguuji
+4667   - Haru Arisugawa
+4668   - Elle Nishino
+4669   - Claudine Saijou
+4670   - Hikari Kagura
+4671   - Maya Tendou
+4672   - Aruru Otsuki
+4673   - Yuyuko Tanaka
+4674   - Akira Yukishiro
+4675   - Yachiyo Tsuruhime
+4676   - Fumi Yumeoji
+4677   - Tsukasa Ebisu
+4678   - Futaba Isurugi
+4679   - Tamao Tomoe
+4680   - Hisame Honami
+4681   - Suzu Minase
+4682   - Ichie Otonashi
+4683   - Stella Takachiho
+4684   - Junna Hoshimi
+4685   - Shizuha Kocho
+4686   - Kaoruko Hanayagi
+4687   - Karen Aijo
+4688   - Shiro Ogami
+4689   - Koharu Yanagi
+4690   - Shiori Yumeoji
+4691   - Kuina Moriyasu
+4692   - Lalafin Nonomiya
+4693   - Ryoko Kobato
+4694   - Liu Mei Fan
+4695   - Mahiru Tsuyuzaki
+4696   - Rui Akikaze
+4697   - Nana Daiba
+4698   - Michiru Otori
+4699   - Minku Umibe
+4700   - Misora Kano
+4701   - March 7th
+4702   - Dan Heng
+4703   - Kafka
+4704   - Clara
+4705   - Silver Wolf
+4706   - Fugue
+4707   - Himeko
+4708   - Noel Niihashi
+4709   - Macy Baljure
+4710   - Bruno Bangnyfe
+4711   - Balgo Ywain Parks
+4712   - Osushi-chan
+4713   - Ninny Spangcole
+4714   - Admiral Hipper
+4715   - Akashi
+4716   - Cleveland
+4717   - Fubuki
+4718   - Edinburgh
+4719   - Hammann
+4720   - Aura Michibane
+4721   - Bambietta Basterbine
+4722   - Candice Catnipp
+4723   - Aunn Komano
+4724   - Cyan Sung-Sun
+4725   - Emilou Apacci
+4726   - Franceska Mila Rose
+4727   - Haineko
+4728   - Hikone Ubuginu
+4729   - Kirio Hikifune
+4730   - Lisa Yadoumaru
+4731   - Loly Aivirrne
+4732   - Masaki Kurosaki
+4733   - Mashiro Kuna
+4734   - Nanao Ise
+4735   - Senjumaru Shutara
+4736   - Senna
+4737   - Sode no Shirayuki
+4738   - Suzumebachi
+4739   - Tatsuki Arisawa
+4740   - Tobiume
+4741   - Ururu Tsumugiya
+4742   - Momo Hinamori
+4743   - Kiruko
+4744   - Maru
+4745   - Mimihime
+4746   - Kuku
+4747   - Tokio
+4748   - Kona
+4749   - Totori
+4750   - Herta
+4751   - Shiro
+4752   - Fran
+4753   - Shishou
+4754   - Amanda
+4755   - Nell
+4756   - Tashkent
+4757   - Jintsuu
+4758   - Thors
+4759   - Thorkell
+4760   - Canute
+4761   - Bjorn
+4762   - Leif Erikson
+4763   - Einar
+4764   - Arnheid
+4765   - Snake
+4766   - Thorgil
+4767   - Ketil
+4768   - Olmar
+4769   - Fox
+4770   - Pater
+4771   - Ranko Mannen
+4772   - Nagomi Wahira
+4773   - Yasuko Yaegashi
+4774   - Zoya
+4775   - Yumechi
+4776   - Shiipon
+4777   - Okachimachi
+4778   - Nerura
+4779   - Manami
+4780   - FEater
+4781   - Isane Kotetsu
+4782   - Konan
+4783   - Santa Lily
+4784   - Sei Shounagon
+4785   - Blanc
+4786   - Noir
+4787   - Rosanna
+4788   - Komichi Akebi
+4789   - Kao Akebi
+4790   - Erika Kizaki
+4791   - Hotaru Hiraiwa
+4792   - Neko Kamimoku
+4793   - Touko Usagihara
+4794   - Tomono Kojou
+4795   - Mai Togano
+4796   - Cain von Silford
+4797   - Tifana von Ribelt
+4798   - Silk von Santana
+4799   - Telestia Terra Esfort
+4800   - Milly Ashford
+4801   - Kinako Sakurakouji
+4802   - Natsumi Onitsuka
+4803   - Shiki Wakana
+4804   - Mei Yoneme
+4805   - Sagiri Yamada Asaemon
+4806   - Gabimaru
+4807   - Choubei Aza
+4808   - Tao Fa
+4809   - Zhu Jin
+4810   - Mei
+4811   - Yuzuriha
+4812   - Brunhilde
+4813   - Goll
+4814   - Kojirou Sasaki
+4815   - Adam
+4816   - Shiva
+4817   - Poseidon
+4818   - Thor
+4819   - Lu Bu
+4820   - Hermes
+4821   - Loki
+4822   - Odin
+4823   - Buddha
+4824   - Hades
+4825   - Jack the Ripper
+4826   - Heracles
+4827   - Qin Shi Huang
+4828   - Gantetsusai Tamiya
+4829   - Yui
+4830   - Nurugai
+4831   - Alisa Mikhailovna Kujou
+4832   - Masachika Kuze
+4833   - Yuki Suou
+4834   - Maria Mikhailovna Kujou
+4835   - Amyu
+4836   - Seika Lamprogue
+4837   - Yifa
+4838   - Beren
+4839   - Masafumi Akagi
+4840   - Ryouko Kaji
+4841   - Shinichi Katori
+4842   - Yuki Minagawa
+4843   - Chizuru Takano
+4844   - Rokan
+4845   - Odin
+4846   - Toori Aoi
+4847   - Horizon Ariadust
+4848   - Masazumi Honda
+4849   - Kimi Aoi
+4850   - Tomo Asama
+4851   - Tenzou Crossunite
+4852   - Minami Fuyuki
+4853   - Tsubasa Shiki
+4854   - Sayuri Akino
+4855   - Rena Natsukawa
+4856   - Asuka
+4857   - Hina
+4858   - Special Week
+4859   - Silence Suzuka
+4860   - Tokai Teiou
+4861   - Daiwa Scarlet
+4862   - Gold Ship
+4863   - Mejiro McQueen
+4864   - Oguri Cap
+4865   - Seiun Sky
+4866   - Kuro Kiryu
+4867   - Conrad Leto
+4868   - Jester Galandros
+4869   - Princia Funnybunny
+4870   - Edward Aberache
+4871   - Mikoto Yamato
+4872   - Syr Flover
+4873   - Hephaistios
+4874   - Bete Loga
+4875   - Chloe Lolo
+4876   - Asufi Al Andromeda
+4877   - Lefiya Viridis
+4878   - Riveria Ljos Alf
+4879   - Cassandra Ilion
+4880   - Naza Ersuisu
+4881   - Filvis Challia
+4882   - Anakitty Autumn
+4883   - Anya Flomer
+4884   - Myucel Foaran
+4885   - Shinichi Kanou
+4886   - Petralka Anne Eldante III
+4887   - Galious En Koldobar
+4888   - Romilda Garde
+4889   - Elbia Hanaiman
+4890   - Minori Koganuma
+4891   - Juugo
+4892   - Nico
+4893   - Rock
+4894   - Uno
+4895   - Hajime Sugoroku
+4896   - Seitarou Tanabata
+4897   - Samon Gokuu
+4898   - Yamato Godai
+4899   - Momoko Hyakushiki
+4900   - Hitoshi Sugoroku
+4901   - Musashi
+4902   - Tsukumo
+4903   - Villetta Nu
+4904   - Porco Galliard
+4905   - Yuuji Sano
+4906   - Dryad
+4907   - Tina
+4908   - Lisa
+4909   - Steyl
+4910   - Proud Wolf
+4911   - Kirukiru Amou
+4912   - Warabi Hanasaka
+4913   - Tsukuyo Inaba
+4914   - Mary Kikakujou
+4915   - Fudou Nomura
+4916   - Rin Onigawara
+4917   - Satori Tamaba
+4918   - Yoshiki Kishinuma
+4919   - Satoshi Mochida
+4920   - Yuka Mochida
+4921   - Sakutaro Morishige
+4922   - Naomi Nakashima
+4923   - Seiko Shinohara
+4924   - Ayumi Shinozaki
+4925   - Sachiko Shinozaki
+4926   - Yui Shishido
+4927   - Mayu Suzumoto
+4928   - Yuuya Kizami
+4929   - Naho Saenoki
+4930   - Shirahoshi
+4931   - Medusa
+4932   - Kogasa Tatara
+4933   - Kagerou Imaizumi
+4934   - Aoi Sakuraba
+4935   - Kaoru Hanabishi
+4936   - Tina Foster
+4937   - Welt
+4938   - Yanqing
+4939   - Jing Yuan
+4940   - Cloud Strife
+4941   - Sephiroth
+4942   - Tifa Lockhart
+4943   - Aerith Gainsborough
+4944   - Clive Rosfield
+4945   - Yuna
+4946   - Benben Tsukumo
+4947   - America
+4948   - China
+4949   - France
+4950   - Germany
+4951   - Japan
+4952   - North Italy
+4953   - Russia
+4954   - United Kingdom
+4955   - Austria
+4956   - Belarus
+4957   - Canada
+4958   - Chibitalia
+4959   - Estonia
+4960   - Finland
+4961   - Greece
+4962   - Holy Roman Empire
+4963   - Hungary
+4964   - Latvia
+4965   - Liechtenstein
+4966   - Lithuania
+4967   - Poland
+4968   - Prussia
+4969   - Sealand
+4970   - South Italy
+4971   - Spain
+4972   - Sweden
+4973   - Switzerland
+4974   - Ukraine
+4975   - Norway
+4976   - Iceland
+4977   - Denmark
+4978   - Hong Kong
+4979   - South Korea
+4980   - Seychelles
+4981   - Romania
+4982   - Sherry Barnett
+4983   - Miu Fuurinji
+4984   - Kenichi Shirahama
+4985   - Ryuto Asamiya
+4986   - Hayato Fuurinji
+4987   - Apachai Hopachai
+4988   - Akisame Koetsuji
+4989   - Shigure Kousaka
+4990   - Hibiki Kugenin
+4991   - Kensei Ma
+4992   - Renka Ma
+4993   - Kisara Nanjou
+4994   - Haruo Niijima
+4995   - Shio Sakaki
+4996   - Ikki Takeda
+4997   - Natsu Tanimoto
+4998   - Chio Miyamo
+4999   - Manana Nonomura
+5000   - Madoka Kushitori
+5001   - Rafinha Bilford
+5002   - Inglis Eucus
+5003   - Liselotte Arcia
+5004   - Leone Olfa
+5005   - Sistia Rouge
+5006   - Rafael Bilford
+5007   - Leon Olfa
+5008   - Yua
+5009   - Pieyon
+5010   - Najimi Ajimu
+5011   - Claudia Bruford
+5012   - Azuzu Komagome
+5013   - Miyako Muguruma
+5014   - Sonoka Watarai
+5015   - Mio Chibana
+5016   - Shun Hashimoto
+5017   - Eri
+5018   - Sakurako
+5019   - Suzu
+5020   - Touya Mochizuki
+5021   - Yumina Urnea Belfast
+5022   - Linze Silhoueska
+5023   - Elze Silhoueska
+5024   - Leen
+5025   - Yae Kokonoe
+5026   - Ouma Tokita
+5027   - Kazuo Yamashita
+5028   - Kuroki Gensai
+5029   - Cosmo Imai
+5030   - Agito Kanou
+5031   - Karla Kure
+5032   - Raian Kure
+5033   - Gaolang Wongsawat
+5034   - Myne
+5035   - Ferdinand
+5036   - Benno
+5037   - Lutz
+5038   - Tuuli
+5039   - Gunther
+5040   - Eva
+5041   - Delia
+5042   - Hayato Kasukabe
+5043   - Akane Hououji
+5044   - Ouka Makuzawa
+5045   - Shiragiku Ono
+5046   - Riho Tsukishima
+5047   - Ami Tsuruga
+5048   - Mitsumi Iwakura
+5049   - Sousuke Shima
+5050   - Mika Egashira
+5051   - Yuzuki Murashige
+5052   - Nao-chan
+5053   - Kaoru Hanayama
+5054   - Baki Hanma
+5055   - Retsu Kaiou
+5056   - Doppo Orochi
+5057   - Gouki Shibukawa
+5058   - Tamako Kitashirakawa
+5059   - Mochizou Ooji
+5060   - Kanna Makino
+5061   - Dera Mochimazzi
+5062   - Shiori Asagiri
+5063   - Midori Tokiwa
+5064   - Choi Mochimazzi
+5065   - Anko Kitashirakawa
+5066   - Fuchi Yamada Asaemon
+5067   - Senta Yamada Asaemon
+5068   - Shion Yamada Asaemon
+5069   - Tenza Yamada Asaemon
+5070   - Touma Yamada Asaemon
+5071   - Maximilian Calypse
+5072   - Riftan Calypse
+5073   - Ruth Serbel
+5074   - Gabel Lachzion
+5075   - Elliot Charon
+5076   - Hebaron Nirtha
+5077   - Ursuline Ricaydo
+5078   - Twin Turbo
+5079   - Meishou Dotou
+5080   - Agnes Tachyon
+5081   - Ulyseon Rovar
+5082   - Ushio Kofune
+5083   - Shinpei Ajiro
+5084   - Mio Kofune
+5085   - Hizuru Minakata
+5086   - Haine
+5087   - Tokiko Hishigata
+5088   - Sou Hishigata
+5089   - Ryuunosuke Minakata
+5090   - Ginjirou Nezu
+5091   - Shiori Kobayakawa
+5092   - Sharon Holygrail
+5093   - Kisara
+5094   - Shu Ogata
+5095   - Ayano Yuugiri
+5096   - Koyuki Himekawa
+5097   - Kano Sazanami
+5098   - Shizuku Ashuu
+5099   - Nana Habutae
+5100   - Ako Hatoda
+5101   - Tama Inubouzaki
+5102   - Souta Kishibe
+5103   - Sanae Mokuou
+5104   - Cranberry
+5105   - Tsubame Murota
+5106   - Ayana Sakanagi
+5107   - Nemu Sanjou
+5108   - Daniela Wytte
+5109   - Dorian Wytte
+5110   - Angela Wytte
+5111   - Monica
+5112   - Nico
+5113   - Damien Wytte
+5114   - William
+5115   - Mark Evans
+5116   - Alto Goldfilled
+5117   - Lilia Kudelfate
+5118   - Vermeil
+5119   - Elena Kimberlite
+5120   - Chris Westland
+5121   - Charolles Iridescence
+5122   - Marcus Pearlston
+5123   - Akito Yamada
+5124   - Akane Kinoshita
+5125   - Eita Sasaki
+5126   - Runa Sasaki
+5127   - Momoko Maeda
+5128   - Takezo Kamota
+5129   - Yukari Tsubaki
+5130   - Hayan Park
+5131   - Euntae Hwang
+5132   - Vael
+5133   - Yohan Seo
+5134   - Michael
+5135   - Miyabi Itou
+5136   - Toranosuke Miyamura
+5137   - Nene Odagiri
+5138   - Urara Shiraishi
+5139   - Ryuu Yamada
+5140   - Mikoto Asuka
+5141   - Ushio Igarashi
+5142   - Rika Saionji
+5143   - Noa Takigawa
+5144   - Leona Miyamura
+5145   - Meiko Ootsuka
+5146   - Maria Sarushima
+5147   - Daichi Shinagawa
+5148   - Shinichi Tamaki
+5149   - Haruma Yamazaki
+5150   - Mizuto Irido
+5151   - Yume Irido
+5152   - Isana Higashira
+5153   - Akatsuki Minami
+5154   - Kogure Kawanami
+5155   - Dororo
+5156   - Giroro
+5157   - Fuyuki Hinata
+5158   - Natsumi Hinata
+5159   - Keroro
+5160   - Kururu
+5161   - Tamama
+5162   - Aki Hinata
+5163   - Angol Mois
+5164   - Mutsumi Saburo
+5165   - Momoka Nishizawa
+5166   - Ace
+5167   - Boris Airay
+5168   - Blood Dupre
+5169   - Alice Liddell
+5170   - Julius Monrey
+5171   - Vivaldi
+5172   - Peter White
+5173   - Nightmare Gottschalk
+5174   - Mary Gowland
+5175   - Joker
+5176   - Elliot March
+5177   - Tweedle Dee
+5178   - Tweedle Dum
+5179   - Chihiro Furuya
+5180   - Rea Sanka
+5181   - Baabu
+5182   - Mero Furuya
+5183   - Aria Sanka
+5184   - Ranko Saouji
+5185   - Kaori Houjou
+5186   - Yuuya Tenjou
+5187   - Lexia Von Alceria
+5188   - Kaede Kazama
+5189   - Luna
+5190   - Night
+5191   - Yumi Totobami
+5192   - Miyo Inbami
+5193   - Miri Yobami
+5194   - Tsuzura Hanatemari
+5195   - Aoi Mibuomi
+5196   - Sachiko Juraku
+5197   - Yukimi Togakushi
+5198   - Matahachi Honiden
+5199   - Musashi Miyamoto
+5200   - Kojiro Sasaki
+5201   - Otsuu
+5202   - Soho Takuan
+5203   - Jisai Kanemaki
+5204   - Anna Liebert
+5205   - Johan Liebert
+5206   - Kenzou Tenma
+5207   - Dieter
+5208   - Wolfgang Grimmer
+5209   - Eva Heinemann
+5210   - Heinrich Lunge
+5211   - Martin Reest
+5212   - Finn Ames
+5213   - Dot Barrett
+5214   - Mash Burnedead
+5215   - Lance Crown
+5216   - Lemon Irvine
+5217   - Rayne Ames
+5218   - Emerald Sustrai
+5219   - Shimoe Koharu
+5220   - Waraku Chise
+5221   - Nekozuka Hibiki
+5222   - Kawawa Shizuko
+5223   - Wakaba Hinata
+5224   - Kuwakami Kaho
+5225   - Himuro-kun
+5226   - Fuyutsuki-san
+5227   - Komori-san
+5228   - Yukimin
+5229   - Saejima-kun
+5230   - Katori-kun
+5231   - Otonashi-san
+5232   - Mayoi Shigure
+5233   - Shimokura Megu
+5234   - Sunohara Kokona
+5235   - Oono Tsukuyo
+5236   - Ogata Kanna
+5237   - Mika
+5238   - Mizuki Nakahara
+5239   - Majima
+5240   - Fuki Harukawa
+5241   - Sakura Otome
+5242   - Jin
+5243   - Nero
+5244   - Mast
+5245   - Ryushen
+5246   - Ishigami Nozomi
+5247   - Takeo Gouda
+5248   - Makoto Sunakawa
+5249   - Rinko Yamato
+5250   - Makaino Ririmu
+5251   - Ai Sunakawa
+5252   - Mk23
+5253   - Cassin
+5254   - Downes
+5255   - Kurumi Ebisuzawa
+5256   - Yuki Takeya
+5257   - Miki Naoki
+5258   - Yuuri Wakasa
+5259   - Megumi Sakura
+5260   - Ping Hai
+5261   - Ning Hai
+5262   - Noah Wynknight
+5263   - Raeliana McMillan
+5264   - Adam Taylor
+5265   - Heika Demint
+5266   - Justin Shamall
+5267   - Siatrich Newreal Chamos
+5268   - Keith Westernberg
+5269   - Yui Komori
+5270   - Ayato Sakamaki
+5271   - Kanato Sakamaki
+5272   - Laito Sakamaki
+5273   - Reiji Sakamaki
+5274   - Shu Sakamaki
+5275   - Subaru Sakamaki
+5276   - Cordelia
+5277   - Richter
+5278   - Azusa Mukami
+5279   - Kou Mukami
+5280   - Ruki Mukami
+5281   - Yuma Mukami
+5282   - Carla Tsukinami
+5283   - Shin Tsukinami
+5284   - Caiman
+5285   - Ebisu
+5286   - En
+5287   - Fujita
+5288   - Nikaidou
+5289   - Noi
+5290   - Shin
+5291   - Chidaruma
+5292   - Kasukabe
+5293   - Risu
+5294   - Estinien Varlineau
+5295   - G'raha Tia
+5296   - Zenos yae Galvus
+5297   - Y'shtola Rhul
+5298   - Shiori Novella
+5299   - Koseki Bijou
+5300   - Nerissa Ravencroft
+5301   - Fuwawa Abyssgard
+5302   - Mococo Abyssgard
+5303   - Nagihiko Fujisaki
+5304   - Amu Hinamori
+5305   - Utau Hoshina
+5306   - Tadase Hotori
+5307   - Rima Mashiro
+5308   - Miki
+5309   - Ran
+5310   - Kairi Sanjou
+5311   - Kuukai Souma
+5312   - Suu
+5313   - Ikuto Tsukiyomi
+5314   - Yaya Yuiki
+5315   - Diamond
+5316   - Ami Hinamori
+5317   - Yoru
+5318   - Nagisa Ran
+5319   - Hiyori Tomoe
+5320   - Ibara Saegusa
+5321   - Jun Sazanami
+5322   - Souma Kanzaki
+5323   - Hinata Aoi
+5324   - Yuta Aoi
+5325   - Hajime Shino
+5326   - Nazuna Nito
+5327   - Keito Hasumi
+5328   - Midori Takamine
+5329   - Tsumugi Aoba
+5330   - Z46
+5331   - Maille Bréze
+5332   - Lynette
+5333   - Lyney
+5334   - Faruzan
+5335   - Nina Ichihara
+5336   - Shizuka Mogami
+5337   - Thea
+5338   - Lily
+5339   - Grete
+5340   - Erna
+5341   - Monika
+5342   - Annett
+5343   - Sibylla
+5344   - Klaus
+5345   - Sara
+5346   - Nayuta Kani
+5347   - Itsuki Hashima
+5348   - Miyako Shirakawa
+5349   - Chihiro Hashima
+5350   - Ashley Oono
+5351   - Tharja
+5352   - Roy
+5353   - Chrom
+5354   - Tiki
+5355   - Azura
+5356   - Eirika
+5357   - Sothis
+5358   - Rhea
+5359   - Fjorm
+5360   - Xander
+5361   - Lysithea von Ordelia
+5362   - Lyn
+5363   - Myrrh
+5364   - Veronica
+5365   - Bernadetta von Varley
+5366   - Hilda Valentine Goneril
+5367   - Vantacrow Bringer
+5368   - Yu Q. Wilson
+5369   - Vezalius Bandage
+5370   - Luocha
+5371   - Blade
+5372   - Iku Nagae
+5373   - Shion Yorigami
+5374   - Jo'on Yorigami
+5375   - PA-san
+5376   - Seika Ijichi
+5377   - Rice
+5378   - Mousse
+5379   - Peking Duck
+5380   - Anzu Ame
+5381   - Baijiu
+5382   - Biluochun Tea
+5383   - Bouillabaisse
+5384   - Castella
+5385   - Conpoy
+5386   - Dongding Oolong
+5387   - Ubagai
+5388   - Nu Er Hong
+5389   - Financier
+5390   - Candy Cane
+5391   - Gin
+5392   - Hibiscus Tea
+5393   - Longjing Tea
+5394   - Peking Shredded Pork
+5395   - Wensi Tofu
+5396   - Sweet Tofu
+5397   - Salty Tofu
+5398   - Hitohito Tadano
+5399   - Najimi Osana
+5400   - Shousuke Komi
+5401   - Hitomi Tadano
+5402   - Nene Onemine
+5403   - Kaede Otori
+5404   - Ren Yamai
+5405   - Maki Karisu
+5406   - Hishi Mochi
+5407   - Candy Apple
+5408   - Eun-Hyuk Go
+5409   - Dohwa Baek
+5410   - Soo-Ae Shim
+5411   - Gusta
+5412   - Menou Historia
+5413   - AnchoR
+5414   - Marie Bell Breguet
+5415   - Vainney Halter
+5416   - Naoto Miura
+5417   - RyuZU
+5418   - Anchor
+5419   - Mahiro Oyama
+5420   - Mihari Oyama
+5421   - Kaede Hozuki
+5422   - Momiji Hozuki
+5423   - Miyo Murosaki
+5424   - Asahi Ouka
+5425   - Rurushi Ru
+5426   - Hiraku Machio
+5427   - Kuro
+5428   - Tia
+5429   - Hakuren
+5430   - Flora
+5431   - Ria
+5432   - Shino Kuribayashi
+5433   - Bozes Co Palesti
+5434   - Melone
+5435   - Aika Natsukawa
+5436   - Kei Ashida
+5437   - Wataru Sajou
+5438   - Rin Shinomiya
+5439   - Takaaki Sasaki
+5440   - Rena Aizawa
+5441   - Airi Natsukawa
+5442   - Emma Brightness
+5443   - Noir Stalgia
+5444   - Olivia Servant
+5445   - Luna Heela
+5446   - Lola Metrose
+5447   - Elna Stongs
+5448   - Alice Stalgia
+5449   - Sakura Kagamihara
+5450   - Minami Toba
+5451   - Miyo Saimori
+5452   - Kiyoka Kudou
+5453   - Kaya Saimori
+5454   - Kouji Tatsuishi
+5455   - Hazuki Kudou
+5456   - Kazushi Tatsuishi
+5457   - Iruka Umino
+5458   - Yayoi Houzuki
+5459   - Eiko Houzuki
+5460   - Ai Kamiyo
+5461   - Keitarou Gentouga
+5462   - Suzume Iwato
+5463   - Daijin
+5464   - Souta Munakata
+5465   - Tomoya Serizawa
+5466   - Tamaki Iwato
+5467   - Uta
+5468   - Hibiki
+5469   - Sui
+5470   - Fel
+5471   - Tsuyoshi Mukouda
+5472   - Ninrir
+5473   - Erika Amano
+5474   - Sachi Umino
+5475   - Hiro Segawa
+5476   - Nagi Umino
+5477   - Shino Kiryuu
+5478   - Rika Hoshizaki
+5479   - Nagisa Minase
+5480   - Saki Saki
+5481   - Naoya Mukai
+5482   - Kou Sakuragi
+5483   - Naoya Nifuji
+5484   - Hlokk
+5485   - Arc
+5486   - Ariane Glenys Lalatoya
+5487   - Ponta
+5488   - Chiyome
+5489   - Mini Yaemori
+5490   - Shirou Fubuki
+5491   - Mamoru Endou
+5492   - Shuuya Gouenji
+5493   - Yuuto Kidou
+5494   - Hiroto Kiyama
+5495   - Terumi Afuro
+5496   - Ichirouta Kazemaru
+5497   - Akio Fudou
+5498   - Ryuuji Midorikawa
+5499   - Kyousuke Tsurugi
+5500   - Tenma Matsukaze
+5501   - Takuto Shindou
+5502   - Ranmaru Kirino
+5503   - Shizuka Mikazuki
+5504   - Akira Tendou
+5505   - Beatrix Amerhauser
+5506   - Kenichirou Ryuuzaki
+5507   - Mirei Hayasaka
+5508   - Shaw Sho
+5509   - Kiro Kira
+5510   - Lucien Simon
+5511   - Victor Zen
+5512   - Haku
+5513   - Rinku Aimoto
+5514   - Maho Akashi
+5515   - Muni Oonaruto
+5516   - Rei Togetsu
+5517   - Kyouko Yamate
+5518   - Shinobu Inuyose
+5519   - Esora Shimizu
+5520   - Yuka Jennifer Sasago
+5521   - Saki Izumo
+5522   - Ibuki Niijima
+5523   - Noa Fukushima
+5524   - Towa Hanamaki
+5525   - Rika Seto
+5526   - Marika Mizushima
+5527   - Saori Hidaka
+5528   - Dalia Matsuyama
+5529   - Tsubaki Aoyagi
+5530   - Aoi Miyake
+5531   - Nagisa Tsukimiyama
+5532   - Hiiro Yano
+5533   - Miyuu Sakurada
+5534   - Haruna Kasuga
+5535   - Kurumi Shiratori
+5536   - Miiko Takeshita
+5537   - Michiru Kaibara
+5538   - Lumina Ichihoshi
+5539   - Kokoa Shinomiya
+5540   - Hayate Tendou
+5541   - Neo
+5542   - Sophia
+5543   - Weronika
+5544   - Elsie
+5545   - Shano Himegami
+5546   - Airi Amano
+5547   - Mana Kase
+5548   - Toka Takao
+5549   - Kuro Kurenai
+5550   - Wilhelmina Braunschweig Ingenohl Friedeburg
+5551   - Mei Irizaki
+5552   - Akeno Misaki
+5553   - Kouko Nosa
+5554   - Rin Shiretoko
+5555   - Shima Tateishi
+5556   - Mashiro Munetani
+5557   - Moeka China
+5558   - Minami Kaburagi
+5559   - Maron Yanagiwara
+5560   - Gertrud Barkhorn
+5561   - Lynette Bishop
+5562   - Perrine H. Clostermann
+5563   - Erica Hartmann
+5564   - Eila Ilmatar Juutilainen
+5565   - Sanya V. Litvyak
+5566   - Francesca Lucchini
+5567   - Yoshika Miyafuji
+5568   - Mio Sakamoto
+5569   - Minna-Dietlinde Wilcke
+5570   - Charlotte E. Yeager
+5571   - Kodaka Hasegawa
+5572   - Sena Kashiwazaki
+5573   - Yozora Mikazuki
+5574   - Kobato Hasegawa
+5575   - Rika Shiguma
+5576   - Maria Takayama
+5577   - Yukimura Kusunoki
+5578   - Pegasus Kashiwazaki
+5579   - Mashiro Arisaka
+5580   - Masaya Hinata
+5581   - Asuka Kurashina
+5582   - Misaki Tobisawa
+5583   - Rika Ichinose
+5584   - Saki Inui
+5585   - Shirayuki Himeji
+5586   - Sarasa Saionji
+5587   - Hiroto Shinohara
+5588   - Tsumugi Shiina
+5589   - Noa Akizuki
+5590   - Aya Asagiri
+5591   - Tsuyuno Yatsumura
+5592   - Nijimi Anazawa
+5593   - Rina Shioi
+5594   - Kosame Amagai
+5595   - Tanaka
+5596   - Miyano
+5597   - Oota
+5598   - Shiraishi
+5599   - Echizen
+5600   - Rino Tanaka
+5601   - Saya Oota
+5602   - Saionji
+5603   - Sarina Shizukume
+5604   - Rinne Ohara
+5605   - Kuon Ohara
+5606   - Karen Kurutsu
+5607   - Setsuna Sanzenkai
+5608   - Sara Garandou
+5609   - Margaret Mitchell
+5610   - Riku Nanase
+5611   - Iori Izumi
+5612   - Mitsuki Izumi
+5613   - Nagi Rokuya
+5614   - Sougo Ousaka
+5615   - Tamaki Yotsuba
+5616   - Yamato Nikaidou
+5617   - Tenn Kujou
+5618   - Ryuunosuke Tsunashi
+5619   - Gaku Yaotome
+5620   - Momose Sunohara
+5621   - Yukito Orikasa
+5622   - Tsumugi Takanashi
+5623   - Banri Oogami
+5624   - Toyosatomimi no Miko
+5625   - Takuma Ino
+5626   - Grimm
+5627   - Alice Kisaragi
+5628   - Rose
+5629   - Sentouin Roku-gou
+5630   - Snow
+5631   - Heine
+5632   - Astaroth
+5633   - Corticarte Apa Lagranges
+5634   - Phoron Tatara
+5635   - Prinesca Yugiri
+5636   - Perserte Yugiri
+5637   - Tsubasa Kazanari
+5638   - Hibiki Tachibana
+5639   - Chris Yukine
+5640   - Miku Kohinata
+5641   - Kanade Amou
+5642   - Genjuurou Kazanari
+5643   - Miharu Ayase
+5644   - Ruri
+5645   - Sayo
+5646   - Christina Beltrum
+5647   - Flora Beltrum
+5648   - Sara
+5649   - Orphia
+5650   - Alma
+5651   - Charles Arbor
+5652   - Kouma Jinguuji
+5653   - Tsubasa Hayakawa
+5654   - Akira Tachibana
+5655   - Hotaru Aoba
+5656   - Haruto Hizakura
+5657   - Kyouichi Sano
+5658   - Daichi Kurosawa
+5659   - Takashi Mikuni
+5660   - Yuuki Fujishirou
+5661   - Hikari Kageyama
+5662   - Ren Shiratori
+5663   - Nozomi Amano
+5664   - Miki Hoshitsuki
+5665   - Asuha Kusunoki
+5666   - Misaki
+5667   - Haruka Narumi
+5668   - Subaru Wakaba
+5669   - Sadone
+5670   - Anko Tsubuzaki
+5671   - Renge Serizawa
+5672   - Kurumi Tokiwa
+5673   - Urara Hasumi
+5674   - Ojisan
+5675   - Elf
+5676   - Takafumi Takaoka
+5677   - Haruhiro
+5678   - Manato
+5679   - Merry
+5680   - Moguzo
+5681   - Ranta
+5682   - Shihoru
+5683   - Yume
+5684   - Barbara
+5685   - Arisa
+5686   - Liza
+5687   - Lulu
+5688   - Zena Marientail
+5689   - Pochi
+5690   - Ichirou Suzuki
+5691   - Tama
+5692   - Mia
+5693   - Nana
+5694   - William G. Maryblood
+5695   - Mary
+5696   - Meneldor
+5697   - Blood
+5698   - Augustus
+5699   - Gracefeel
+5700   - Robina Goodfellow
+5701   - Tsukasa Mikogami
+5702   - Aoi Ichijou
+5703   - Keine Kanzaki
+5704   - Lyrule
+5705   - Ringo Oohoshi
+5706   - Prince Akatsuki
+5707   - Masato Sanada
+5708   - Shinobu Sarutobi
+5709   - Roux
+5710   - Akira Shiroyanagi
+5711   - Yuuri Amagake
+5712   - Mion
+5713   - Hakua Shiodome
+5714   - Reiko Arisugawa
+5715   - Karen Jinryou
+5716   - Kimito Kagurazaka
+5717   - Aika Tenkuubashi
+5718   - Miyuki Kujou
+5719   - Eri Hanae
+5720   - Mathias Hildesheimer
+5721   - Lurie Aventrot
+5722   - Iris
+5723   - Alma Lepsius
+5724   - Ginny Fin de Salvan
+5725   - Ireena Litz de Olhyde
+5726   - Ard Meteor
+5727   - Olivia vel Vine
+5728   - Kate Hoshimiya
+5729   - Asuta Jimon
+5730   - Gorou Shikabane
+5731   - Itsuka Shikabane
+5732   - Natalia Vasylchenko
+5733   - Renge Komadori
+5734   - Kanami Etou
+5735   - Sayaka Itomi
+5736   - Hiyori Juujou
+5737   - Eren Kohagura
+5738   - Kaoru Mashiko
+5739   - Mai Yanase
+5740   - Yume Tsubakuro
+5741   - Reiji Mukudori
+5742   - Nemesis
+5743   - Akari Akaza
+5744   - Yui Funami
+5745   - Kyouko Toshinou
+5746   - Chinatsu Yoshikawa
+5747   - Ayano Sugiura
+5748   - Yoriichi Tsugikuni
+5749   - Sakurako Oomuro
+5750   - Chitose Ikeda
+5751   - Himawari Furutani
+5752   - Rise Matsumoto
+5753   - Kokushibou
+5754   - Black Rock Shooter
+5755   - Black Gold Saw
+5756   - Dead Master
+5757   - Mato Kuroi
+5758   - Strength
+5759   - Yomi Takanashi
+5760   - Chariot
+5761   - Kagari Izuriha
+5762   - Rokuro Enmadou
+5763   - Benio Adashino
+5764   - Mayura Otomi
+5765   - Seigen Amawaka
+5766   - Shimon Ikaruga
+5767   - Kamui
+5768   - Yuuto Ijika
+5769   - Tenma Unomiya
+5770   - Tatara
+5771   - Arima Tsuchimikado
+5772   - Sae
+5773   - Brawler
+5774   - Courier
+5775   - Cutthroat
+5776   - Doctor
+5777   - Hacker
+5778   - Hoodlum
+5779   - Swindler
+5780   - Execution Division Master
+5781   - Pupil
+5782   - Black Cat
+5783   - Tenna Kisaragi
+5784   - Ayu Tsukimiya
+5785   - Yuuichi Aizawa
+5786   - Makoto Sawatari
+5787   - Nayuki Minase
+5788   - Akiko Minase
+5789   - Mai Kawasumi
+5790   - Sayuri Kurata
+5791   - Shiori Misaka
+5792   - Yumoto Hakone
+5793   - En Yufuin
+5794   - Atsushi Kinugawa
+5795   - Ryuu Zaou
+5796   - Io Naruko
+5797   - Kinshirou Kusatsu
+5798   - Akoya Gero
+5799   - Ibushi Arima
+5800   - Akihiko Beppu
+5801   - Haruhiko Beppu
+5802   - Doubt Doubt
+5803   - Neuvillette
+5804   - Freminet
+5805   - Junta Azumaya
+5806   - Takato Saijou
+5807   - Bronya Rand
+5808   - Natasha
+5809   - Yukong
+5810   - Sampo
+5811   - Fu Xuan
+5812   - Luka
+5813   - Lynx
+5814   - Jingliu
+5815   - Serval
+5816   - Gepard
+5817   - Ayane
+5818   - Marciana
+5819   - Naga
+5820   - Tia
+5821   - Tashigi
+5822   - Wriothesley
+5823   - Jiwoo Seo
+5824   - Subin Lee
+5825   - Kayden Break
+5826   - Wooin
+5827   - Jisuk Yoo
+5828   - Jiyoung Yoo
+5829   - Kanade
+5830   - Tania
+5831   - Rein Shroud
+5832   - Nina
+5833   - Runa
+5834   - Sora
+5835   - Red
+5836   - Rit
+5837   - Ruti Ragnason
+5838   - Mashiro Mitsumine
+5839   - Kobeni Yonomori
+5840   - Hakuya Mitsumine
+5841   - Benio Yonomori
+5842   - Konoha Suetsugi
+5843   - Yuuna Yunohana
+5844   - Kogarashi Fuyuzora
+5845   - Chisaki Miyazaki
+5846   - Sagiri Ameno
+5847   - Yaya Fushiguro
+5848   - Nonko Arahabaki
+5849   - Oboro Shintou
+5850   - Mitama
+5851   - Yukito Urabe
+5852   - Dakini
+5853   - Aruraru
+5854   - Roy
+5855   - Atar
+5856   - Loki
+5857   - Ango Sakaguchi
+5858   - Shuu Iura
+5859   - Haoyi Jiang
+5860   - Xueli Ouyang
+5861   - Zitong Xia
+5862   - Xuan Tang
+5863   - Tata Mei
+5864   - Yuan Lin
+5865   - Mikoto Kibitsu
+5866   - Saltorine Aldike
+5867   - Frau
+5868   - Carrot
+5869   - Kohina Ichimatsu
+5870   - Kokkuri-san
+5871   - Inugami
+5872   - Shigaraki
+5873   - Kashuu Kiyomitsu
+5874   - Yamatonokami Yasusada
+5875   - Mikazuki Munechika
+5876   - Tsurumaru Kuninaga
+5877   - Izuminokami Kanesada
+5878   - Shokudaikiri Mitsutada
+5879   - Yamanbagiri Kunihiro
+5880   - Kogitsunemaru
+5881   - Mutsunokami Yoshiyuki
+5882   - Horikawa Kunihiro
+5883   - Ookurikara
+5884   - Yagen Toushirou
+5885   - Nakigitsune
+5886   - Hotarumaru
+5887   - Heshikiri Hasebe
+5888   - Nikkari Aoe
+5889   - Honebami Toushirou
+5890   - Gokotai
+5891   - Imanotsurugi
+5892   - Doudanuki Masakuni
+5893   - Tsubomi Hanasaki
+5894   - Erika Kurumi
+5895   - Yuri Tsukikage
+5896   - Itsuki Myoudouin
+5897   - Ichika Usami
+5898   - Yukari Kotozume
+5899   - Akira Kenjou
+5900   - Aoi Tategami
+5901   - Rio Kuroki
+5902   - Sora Harewataru
+5903   - Mashiro Nijigaoka
+5904   - Tsubasa Yuunagi
+5905   - Ageha Hijiri
+5906   - Laura Apollodoros Hyginus La Mer
+5907   - Manatsu Natsuumi
+5908   - Sango Suzumura
+5909   - Yayoi Kise
+5910   - Reika Aoki
+5911   - Hana Nono
+5912   - Lala Hagoromo
+5913   - Yuuki Cross
+5914   - Kaname Kuran
+5915   - Zero Kiryuu
+5916   - Hanabusa Aidou
+5917   - Senri Shiki
+5918   - Ichiru Kiryuu
+5919   - Yuu Koito
+5920   - Touko Nanami
+5921   - Sayaka Saeki
+5922   - Hanabi Yasuraoka
+5923   - Mugi Awaya
+5924   - Sanae Ebato
+5925   - Akane Minagawa
+5926   - Misaki Takasaki
+5927   - Ririna Sanada
+5928   - Yuusuke Nisaka
+5929   - Yukari Nejima
+5930   - Shuu Igarashi
+5931   - Izumi Sena
+5932   - Ryouma Ichijou
+5933   - Shougo Sena
+5934   - Rei Sagara
+5935   - Quiry
+5936   - Furina
+5937   - Charlotte
+5938   - Amaimon
+5939   - Ellen Mira Mathers
+5940   - Karen Nora Mathers
+5941   - Rinne Sonogami
+5942   - Rio Sonogami
+5943   - Ren
+5944   - Maria Arusu
+5945   - Marina Arusu
+5946   - Topaz
+5947   - Guinaifen
+5948   - Caelus
+5949   - Stelle
+5950   - Pela
+5951   - Qingque
+5952   - Sushang
+5953   - Asta
+5954   - Arlan
+5955   - Hook
+5956   - Mayuri
+5957   - Kaede Komura
+5958   - Ai Mie
+5959   - Huohuo
+5960   - Sun Kenji
+5961   - Umika Konohoshi
+5962   - Yuu Akeuchi
+5963   - Matataki Raimon
+5964   - Haruno Takaragi
+5965   - Mia Luna Tearmoon
+5966   - Anne Littstein
+5967   - Abel Remno
+5968   - Rafina Orca Belluga
+5969   - Sion Sol Sunkland
+5970   - Hazuki
+5971   - Kouhei Morioka
+5972   - Artemis
+5973   - Totomaru Isshiki
+5974   - Ron Kamonohashi
+5975   - Amamiya
+5976   - Terakomari Gandesblood
+5977   - Villhaze
+5978   - Karen Helvetius
+5979   - Sakuna Memoire
+5980   - Rakurou Hizutome
+5981   - Rei Saiga
+5982   - Towa Amane
+5983   - Emul
+5984   - Migi
+5985   - Dali
+5986   - Ginga Hagane
+5987   - Madoka Amano
+5988   - Ryuuga
+5989   - Kyouya Tategami
+5990   - Kenta Yumiya
+5991   - Tsubasa Ootori
+5992   - Mikoto Mikoshiba
+5993   - Umetarou Nozaki
+5994   - Chiyo Sakura
+5995   - Kashima Yuu
+5996   - Yuzuki Seo
+5997   - Es
+5998   - Haruka Sakurai
+5999   - Yuno Kashiki
+6000   - Fuuta Kajiyama
+6001   - Muu Kusunoki
+6002   - Mahiru Shiina
+6003   - Shidou Kirisaki
+6004   - Kazui Mukuhara
+6005   - Amane Momose
+6006   - Mikoto Kayano
+6007   - Kotoko Yuzuriha
+6008   - Jackalope
+6009   - Yuzuki Tachibana
+6010   - Tamahiko Shima
+6011   - Matara Kan
+6012   - Ann Halford
+6013   - Shall Fen Shall
+6014   - Mythrill Rid Pod
+6015   - Alph Hingley
+6016   - Keith Powell
+6017   - Jonas Anders
+6018   - Tsugaru Shinuchi
+6019   - Aya Rindou
+6020   - Shizuku Hasei
+6021   - Petra Ral
+6022   - Dot Pixis
+6023   - Mike Zacharias
+6024   - Riko Brzenska
+6025   - Nanaba
+6026   - Keith Shadis
+6027   - Carla Yeager
+6028   - Grisha Yeager
+6029   - Zeke
+6030   - Floch Forster
+6031   - Kenny Ackerman
+6032   - Yelena
+6033   - Falco Grice
+6034   - Gabi Braun
+6035   - Onyankopon
+6036   - Nicolo
+6037   - Colt Grice
+6038   - Kanata Yatonokami
+6039   - Nayuta Yatonokami
+6040   - Anne Faulkner
+6041   - Allen Sugasano
+6042   - Hokusai Masaki
+6043   - Ryuu Natsume
+6044   - Iori Suiseki
+6045   - Hajun Yeon
+6046   - Reo Maruyama
+6047   - Youhei Kanbayashi
+6048   - Satsuki Itou
+6049   - Shiki Andou
+6050   - Naoakira Saimon
+6051   - Zen Gahou
+6052   - Ichirou Yamada
+6053   - Jirou Yamada
+6054   - Saburou Yamada
+6055   - Samatoki Aohitsugi
+6056   - Juuto Iruma
+6057   - Riou Mason Busujima
+6058   - Ramuda Amemura
+6059   - Gentarou Yumeno
+6060   - Dice Arisugawa
+6061   - Jakurai Jinguuji
+6062   - Doppo Kannonzaka
+6063   - Hifumi Izanami
+6064   - Kuukou Harai
+6065   - Juushi Aimono
+6066   - Hitoya Amaguni
+6067   - Sasara Nurude
+6068   - Roshou Tsutsujimori
+6069   - Rei Amayado
+6070   - Gabriel
+6071   - Keisuke Hirose
+6072   - Takeuchi
+6073   - Kazuki Shimada
+6074   - Hiodoshi Ao
+6075   - Otonose Kanade
+6076   - Ichijou Ririka
+6077   - Juufuutei Raden
+6078   - Todoroki Hajime
+6079   - Claude Clawmark
+6080   - Kunai Nakasato
+6081   - Victoria Brightshield
+6082   - Lucifer
+6083   - Leviathan
+6084   - Asmodeus
+6085   - Astaroth
+6086   - Satan
+6087   - Belial
+6088   - Belphegor
+6089   - Beelzebub
+6090   - Mammon
+6091   - Maria Totsuka
+6092   - Sariel
+6093   - Michael
+6094   - Metatron
+6095   - Raphael
+6096   - Uriel
+6097   - Gabriel
+6098   - Sandalphon
+6099   - Ao Horie
+6100   - Takumi Kijima
+6101   - Ichirou Inuyashiki
+6102   - Hiro Shishigami
+6103   - Nagisa Momoe
+6104   - Sana Futaba
+6105   - Izumo Kamiki
+6106   - Suchan Jang
+6107   - Huijin Park
+6108   - Dohwa Cheon
+6109   - Hyeseong Cha
+6110   - Keita Suminoe
+6111   - Ako Suminoe
+6112   - Riko Suminoe
+6113   - Yuuzuki Kiryuu
+6114   - Miharu Mikuni
+6115   - Mikazuki Kiryuu
+6116   - Micaiah
+6117   - Eliwood
+6118   - Alm
+6119   - Celica
+6120   - Seele
+6121   - Argenti
+6122   - Hanya
+6123   - Touma Inumaru
+6124   - Torao Midou
+6125   - Haruka Isumi
+6126   - Minami Natsume
+6127   - Red Hood
+6128   - Tove
+6129   - Senti
+6130   - Volo
+6131   - Irida
+6132   - Kaoru Anesagi
+6133   - Owari
+6134   - Raihan
+6135   - Specter
+6136   - Kitasan Black
+6137   - Satono Diamond
+6138   - Ophis
+6139   - Artoria Caster
+6140   - Happy Chaos
+6141   - Mejiro Dober
+6142   - Virtuosa
+6143   - Ferry
+6144   - Abigail Williams
+6145   - Hikaru Kusakabe
+6146   - Rihito Sajou
+6147   - Curren Chan
+6148   - Nice Nature
+6149   - Maomao
+6150   - Jinshi
+6151   - Gyokuyou
+6152   - Lishu
+6153   - Lihua
+6154   - Monarch
+6155   - Riikami
+6156   - Ushio Okazaki
+6157   - Navia
+6158   - Rentarou Aijou
+6159   - Hakari Hanazono
+6160   - Karane Inda
+6161   - Shizuka Yoshimoto
+6162   - Nano Eiai
+6163   - Kusuri Yakuzen
+6164   - Hahari Hanazono
+6165   - Kanna Ogata
+6166   - Daisuke Aurora
+6167   - J
+6168   - Clair Leonelli
+6169   - Kyoko Milchan
+6170   - Pom-Pom
+6171   - Rae Taylor
+6172   - Claire Francois
+6173   - Melascula
+6174   - Estarossa
+6175   - Derieri
+6176   - Monspeet
+6177   - Galand
+6178   - Gloxinia
+6179   - Zeldris
+6180   - Ryuuto Kashima
+6181   - Runa Shirakawa
+6182   - Goldbullet
+6183   - Jurard T Rexford
+6184   - Crimzon Ruze
+6185   - Octavio
+6186   - Beatrix
+6187   - Nu
+6188   - Yukime
+6189   - Victoria
+6190   - Elizabeth
+6191   - Mary
+6192   - Ruan Mei
+6193   - Xueyi
+6194   - Douma
+6195   - Daki
+6196   - Akaza
+6197   - Suma
+6198   - Makio
+6199   - Hinatsuru
+6200   - Mem-Cho
+6201   - Izumi Tachibana
+6202   - Sakuya Sakuma
+6203   - Tenma Sumeragi
+6204   - Banri Settsu
+6205   - Tsumugi Tsukioka
+6206   - Masumi Usui
+6207   - Misumi Ikaruga
+6208   - Yuki Rurikawa
+6209   - Itaru Chigasaki
+6210   - Kazunari Miyoshi
+6211   - Muku Sakisaka
+6212   - Taichi Nanao
+6213   - Azuma Yukishiro
+6214   - Hisoka Mikage
+6215   - Homare Arisugawa
+6216   - Citron
+6217   - Juuza Hyoudou
+6218   - Tsuzuru Minagi
+6219   - Sakyou Furuichi
+6220   - Tasuku Takato
+6221   - Omi Fushimi
+6222   - Makoto Kowata
+6223   - Chinatsu Kuramoto
+6224   - Kei Kuramoto
+6225   - Akane Kowata
+6226   - Chito
+6227   - Gyuutarou
+6228   - Kotoko Iwanaga
+6229   - Kurou Sakuragawa
+6230   - Saki Yumihara
+6231   - Rikka Sakuragawa
+6232   - Marcille Donato
+6233   - Senshi
+6234   - Chilchuck Tims
+6235   - Laios Touden
+6236   - Falin Touden
+6237   - Chevreuse
+6238   - Lucius Oriflamme
+6239   - Kakeru Ashiya
+6240   - Yamato Oohara
+6241   - Yui
+6242   - Okada Izou
+6243   - Manhattan Cafe
+6244   - Neo Universe
+6245   - Ame-chan
+6246   - Latina
+6247   - Dale
+6248   - Beelzebub
+6249   - Myurin
+6250   - Belphegor
+6251   - Dantalion
+6252   - Morrigan
+6253   - Sora Kashiwagi
+6254   - Mii-kun
+6255   - Tazuki Kamiya
+6256   - Conny
+6257   - Isao
+6258   - Alice Swayne
+6259   - Lucy Webster
+6260   - Philomela Sargant
+6261   - Zoe Ivey
+6262   - Henya The Genius
+6263   - Geega
+6264   - Nozomi Gokuraku
+6265   - Himeno Kimihara
+6266   - Manami Mitama
+6267   - Kyouko Naraku
+6268   - Iida Pochi.
+6269   - Dr. Ratio
+6270   - Daichi Tachiaki
+6271   - Asa Motegi
+6272   - Mirai Andou
+6273   - Gekkou Kurenai
+6274   - Taito Kurogane
+6275   - Himea Saito
+6276   - Hinata Kurenai
+6277   - Hyuna
+6278   - Ivan
+6279   - Till
+6280   - Luka
+6281   - Mizi
+6282   - Sua
+6283   - Oliver
+6284   - Flower
+6285   - Lily
+6286   - Yuzuki Yukari
+6287   - Xingchen
+6288   - Juniper Actias
+6289   - Anon Chihaya
+6290   - Raana Kaname
+6291   - Soyo Nagasaki
+6292   - Taki Shiina
+6293   - Tomori Takamatsu
+6294   - Uika Misumi
+6295   - Sakiko Togawa
+6296   - Mutsumi Wakaba
+6297   - Umiri Yahata
+6298   - Nyamu Yuutenji
+6299   - Kyuusaku Yumeno
+6300   - Tatsuhiko Shibusawa
+6301   - Ouchi Fukuchi
+6302   - Saigiku Jouno
+6303   - Teruko Okura
+6304   - Bram Stoker
+6305   - Aya Kouda
+6306   - Hermit Mio
+6307   - Witch Regret
+6308   - Kana Ichikawa
+6309   - Moeko Sekine
+6310   - Chihiro Kobayashi
+6311   - Serina Yoshida
+6312   - Honoka Hara
+6313   - Kenta Kanzaki
+6314   - Shou Adachi
+6315   - Acerola
+6316   - Hex Maniac
+6317   - Despa
+6318   - Ouken
+6319   - Madara Mikejima
+6320   - Shinobu Sengoku
+6321   - Tetora Nagumo
+6322   - Tomoya Mashiro
+6323   - Mitsuru Tenma
+6324   - Xianyun
+6325   - Gaming
+6326   - Riddle Rosehearts
+6327   - Ace Trappola
+6328   - Deuce Spade
+6329   - Cater Diamond
+6330   - Trey Clover
+6331   - Leona Kingscholar
+6332   - Jack Howl
+6333   - Ruggie Bucchi
+6334   - Azul Ashengrotto
+6335   - Jade Leech
+6336   - Floyd Leech
+6337   - Kalim Al-Asim
+6338   - Jamil Viper
+6339   - Vil Schoenheit
+6340   - Epel Felmier
+6341   - Rook Hunt
+6342   - Idia Shroud
+6343   - Ortho Shroud
+6344   - Malleus Draconia
+6345   - Silver
+6346   - Sebek Zigvolt
+6347   - Lilia Vanrouge
+6348   - Unnamed
+6349   - Leona
+6350   - Moran
+6351   - L'arc Berg
+6352   - Therese Alexanderite
+6353   - Kizuna Kazayama
+6354   - Ost Hourai
+6355   - Black Swan
+6356   - Misha
+6357   - Ferid Bathory
+6358   - Crowley Eusford
+6359   - Lacus Welt
+6360   - Sadina
+6361   - Atla
+6362   - Fohl
+6363   - Dokibird
+6364   - Sei Takanashi
+6365   - Yuri Drewes
+6366   - Albert Hawke
+6367   - Jude
+6368   - Johan Valdec
+6369   - Chisei Kuzuryuu
+6370   - Haruomi Shingu
+6371   - Shogo Yamato
+6372   - Toma Hikage
+6373   - Aoi Kureha
+6374   - Kantaro Misuji
+6375   - Dongha Yeon
+6376   - Chungsung Baek
+6377   - Kei Miyama
+6378   - Itsuki
+6379   - Rokuta
+6380   - Yuto Inukai
+6381   - Ryoga Tosa
+6382   - Shion Kaida
+6383   - Kenta Mikoshiba
+6384   - Ani Inaco
+6385   - Narek Ischl de Milidonia
+6386   - Vino von Lomzard
+6387   - Ruze Selen el Phiriazar
+6388   - Mare Selen el Phiriazar
+6389   - La Brava
+6390   - Gentle Criminal
+6391   - Burnin
+6392   - Thirteen
+6393   - Mr. Compress
+6394   - Rosia
+6395   - Holmy
+6396   - Gilili
+6397   - Marimari
+6398   - Pokoe
+6399   - Sumomone
+6400   - Ailane
+6401   - Darudayuu
+6402   - Un
+6403   - Howan
+6404   - Himeko Mashima
+6405   - Delmin
+6406   - Ruhuyu
+6407   - Ragna The Bloodedge
+6408   - Jin Kisaragi
+6409   - Noel Vermillion
+6410   - Rachel Alucard
+6411   - Taokaka
+6412   - Iron Tager
+6413   - Litchi Faye-Ling
+6414   - Arakune
+6415   - Bang Shishigami
+6416   - Carl Clover
+6417   - Hakumen
+6418   - Nu-13
+6419   - Hazama
+6420   - Relius Clover
+6421   - Jubei
+6422   - Lambda-11
+6423   - Kokonoe Mercury
+6424   - Makoto Nanaya
+6425   - Platinum the Trinity
+6426   - Tsubaki Yayoi
+6427   - Naoto Kurogane
+6428   - Elinalise Dragonroad
+6429   - Cliff Grimoire
+6430   - Ariel Anemoi Asura
+6431   - Rinia Dedoldia
+6432   - Pursena Adoldia
+6433   - Shizuka Nanahoshi
+6434   - Sara
+6435   - Soldat Heckler
+6436   - Badigadi
+6437   - Luke Notos Greyrat
+6438   - Zanoba Shirone
+6439   - Juliette
+6440   - Yuki Itose
+6441   - Itsuomi Nagi
+6442   - Rin Fujishiro
+6443   - Kyouya Nagi
+6444   - Oushi Ashioki
+6445   - Emma Nakazono
+6446   - Shin Iryuu
+6447   - Tianyi Luo
+6448   - Otomachi Una
+6449   - SeeU
+6450   - Tatsuta
+6451   - North Ocean Princess
+6452   - Hatsuharu
+6453   - Yamakaze
+6454   - Scamp
+6455   - South Dakota
+6456   - Tenryuu
+6457   - Souna Sitri
+6458   - Sparkle
+6459   - Sachi
+6460   - Livius Orvinus Ifrikia
+6461   - Nike Remercier
+6462   - Neil
+6463   - Bardwin Cecil Ifrikia
+6464   - Lain Iwakura
+6465   - Arisu Mizuki
+6466   - Masami Eiri
+6467   - Yasuo Iwakura
+6468   - Mika Iwakura
+6469   - Hajime Kindaichi
+6470   - Miyuki Nanase
+6471   - Youichi Takatoo
+6472   - Kengo Akechi
+6473   - Yuuki Anzai
+6474   - Tsukasa Taira
+6475   - Johannes Kleemann
+6476   - Cardia Beckford
+6477   - Arsene Lupin
+6478   - Saint-Germain
+6479   - Impey Barbicane
+6480   - Victor Frankenstein
+6481   - Abraham Van Helsing
+6482   - Finis
+6483   - Kenzaki Tsurugi
+6484   - Mikamo Neru
+6485   - Iochi Mari
+6486   - Akiizumi Momiji
+6487   - Aomori Mine
+6488   - Chidori Michiru
+6489   - Utazumi Sakurako
+6490   - Asuma Toki
+6491   - Teto Kasane
+6492   - Fukase
+6493   - Yanhe
+6494   - Utatane Piko
+6495   - Meika Hime
+6496   - Meika Mikoto
+6497   - Mayu
+6498   - Moke Zhiyu
+6499   - Plana
+6500   - Sae Itoshi
+6501   - Michael Kaiser
+6502   - Takeru Sasazuka
+6503   - Mineo Enomoto
+6504   - Kei Okazaki
+6505   - Kageyuki Shiraishi
+6506   - Yuzuru Saeki
+6507   - Aiji Yanagi
+6508   - Ichika Hoshino
+6509   - Yuito Aoi
+6510   - Hitomi Tsukishiro
+6511   - Kohaku Tsukishiro
+6512   - Asagi Kazano
+6513   - Chigusa Fukazawa
+6514   - Kurumi Kawai
+6515   - Shou Yamabuki
+6516   - Ichigo Momomiya
+6517   - Mint Aizawa
+6518   - Zakuro Fujiwara
+6519   - Bu-Ling Huang
+6520   - Lettuce Midorikawa
+6521   - Berry Shirayuki
+6522   - Quiche
+6523   - Himmel
+6524   - Eisen
+6525   - Heiter
+6526   - Flamme
+6527   - Sein
+6528   - Methode
+6529   - Ubel
+6530   - Aura
+6531   - Serie
+6532   - Penny
+6533   - Android 21
+6534   - Usamaro
+6535   - Masane Amaha
+6536   - Rihoko Amaha
+6537   - Maria
+6538   - Aoi
+6539   - Asagi
+6540   - Nora
+6541   - Reina Soho
+6542   - Shiori Tsuzuki
+6543   - Lana
+6544   - Grusha
+6545   - Iono
+6546   - Baby 5
+6547   - Charlotte Smoothie
+6548   - Charlotte Cracker
+6549   - Koala
+6550   - Sakazuki
+6551   - Koby
+6552   - Isshou
+6553   - Charlotte Pudding
+6554   - Utena Hiiragi
+6555   - Kiwi Araga
+6556   - Korisu Morino
+6557   - Haruka Hanabishi
+6558   - Kaoruko Tenkawa
+6559   - Sayo Minakami
+6560   - Matama Akoya
+6561   - Nemo Anemo
+6562   - Sister Gigant
+6563   - Michiko Tanaka
+6564   - Rishe Irmgard Weitzner
+6565   - Arnold Hein
+6566   - Theodore Auguste Hein
+6567   - Oliver Laurenz Friedheim
+6568   - Kyle Morgan Cleverley
+6569   - Michelle Evan
+6570   - Kaine Tully
+6571   - Kiyoshi Adachi
+6572   - Yuuichi Kurosawa
+6573   - Minato Wataya
+6574   - Masato Tsuge
+6575   - Yuuta Rokkaku
+6576   - Ayame Souma
+6577   - Momiji Souma
+6578   - Kagura Souma
+6579   - Shigure Souma
+6580   - Hatori Souma
+6581   - Kisa Souma
+6582   - Isuzu Souma
+6583   - Hiro Souma
+6584   - Ritsu Souma
+6585   - Kureno Souma
+6586   - Akito Souma
+6587   - Arisa Uotani
+6588   - Chiori
+6589   - Chelia Blendy
+6590   - Laboon
+6591   - Yuugi Mutou
+6592   - Yami Yuugi
+6593   - Seto Kaiba
+6594   - Katsuya Jounouchi
+6595   - Anzu Mazaki
+6596   - Hiroto Honda
+6597   - Ryou Bakura
+6598   - Yami Bakura
+6599   - Malik Ishtar
+6600   - Pegasus J. Crawford
+6601   - Mana
+6602   - Juudai Yuuki
+6603   - Asuka Tenjouin
+6604   - Jun Manjoume
+6605   - Ryou Marufuji
+6606   - Edo Phoenix
+6607   - Yuusei Fudou
+6608   - Jack Atlas
+6609   - Crow Hogan
+6610   - Aki Izayoi
+6611   - Yuuma Tsukumo
+6612   - Ryouga Kamishiro
+6613   - Kaito Tenjou
+6614   - Yuusaku Fujiki
+6615   - Ryoken Kogami
+6616   - Senadina
+6617   - Helia
+6618   - Coralie
+6619   - Songque
+6620   - Aang
+6621   - Katara
+6622   - Sokka
+6623   - Toph Beifong
+6624   - Zuko
+6625   - Iroh
+6626   - Suki
+6627   - Princess Yue
+6628   - Appa
+6629   - Momo
+6630   - King Bumi
+6631   - Mai
+6632   - Ty Lee
+6633   - Azula
+6634   - Korra
+6635   - Asuka
+6636   - Hibari
+6637   - Ikaruga
+6638   - Katsuragi
+6639   - Yagyuu
+6640   - Hikage
+6641   - Homura
+6642   - Haruka
+6643   - Daidouji
+6644   - Mirai
+6645   - Yomi
+6646   - Yumi
+6647   - Ryouna
+6648   - Murasaki
+6649   - Ryoubi
+6650   - Shiki
+6651   - Miyabi
+6652   - Yozakura
+6653   - Fubuki
+6654   - Murakumo
+6655   - Maki
+6656   - Yuyaki
+6657   - Senko
+6658   - Reki
+6659   - Chitose
+6660   - Tsubame
+6661   - Fuga
+6662   - Acheron
+6663   - Gallagher
+6664   - Jaguar
+6665   - King Cobra
+6666   - Short-beaked common dolphin
+6667   - Common Vampire Bat
+6668   - Reticulated Giraffe
+6669   - Reindeer
+6670   - Sand Cat
+6671   - Royal Penguin
+6672   - Orca
+6673   - Chinese White Dolphin
+6674   - Axolotl
+6675   - Arctic Wolf
+6676   - Arctic Hare
+6677   - Seiryu
+6678   - Cerberus
+6679   - Red-Eared Slider
+6680   - Golden Tiger
+6681   - Byakko
+6682   - Shiba Inu
+6683   - Tsukuyomi Shinshi
+6684   - Narwhal
+6685   - Japanese Pancake Devilfish
+6686   - African Bush Elephant
+6687   - Koala
+6688   - Nine-tailed Fox
+6689   - Mouflon
+6690   - Dall Sheep
+6691   - Takuto Kira
+6692   - Mitsuki Kouyama
+6693   - Meroko Yui
+6694   - Izumi Rio
+6695   - Mayano Top Gun
+6696   - Elise de Clorance
+6697   - Linden de Romanoff
+6698   - Graham de Fallon
+6699   - Michael de Romanoff
+6700   - Julian de Childe
+6701   - Lenne de Clorance
+6702   - Albert de Childe
+6703   - Chris de Clorance
+6704   - Ivy
+6705   - Sora
+6706   - Ciel
+6707   - Feton
+6708   - Rattloore
+6709   - Ken Usato
+6710   - Suzune Inukami
+6711   - Rose
+6712   - Kazuki Ryuusen
+6713   - Aul
+6714   - Orga Fleur
+6715   - Celia
+6716   - Ururu Fleur
+6717   - Amako
+6718   - Sasaki
+6719   - Pii-chan
+6720   - Otonari-san
+6721   - Shizuka Futari
+6722   - Hoshizaki-san
+6723   - Elsa
+6724   - Magical Pink
+6725   - Yogiri Takatou
+6726   - Tomochika Dannoura
+6727   - Sion
+6728   - Arajin Tomoshibi
+6729   - Senya
+6730   - Matakara Asamine
+6731   - Marito Jin
+6732   - Mahoro Jin
+6733   - Guideau
+6734   - Ashaf
+6735   - Phanora Kristoffel
+6736   - Johan
+6737   - Helga Velvette
+6738   - Matt Cugat
+6739   - Yuuki Wakura
+6740   - Kyouka Uzen
+6741   - Himari Azuma
+6742   - Nei Ookawamura
+6743   - Shushu Suruga
+6744   - Tenka Izumo
+6745   - Yachiho Azuma
+6746   - Aoba Wakura
+6747   - Shikoku
+6748   - Naon Yuno
+6749   - Himari Momochi
+6750   - Aoi Nanamori
+6751   - Yukari
+6752   - Ise
+6753   - Kasha
+6754   - Arlecchino
+6755   - Aventurine
+6756   - Boothill
+6757   - Robin
+6758   - Nitocris
+6759   - Nitocris Alter
+6760   - Elegg
+6761   - Ade
+6762   - A.B.A
+6763   - Ryuunosuke Fujinami
+6764   - Ten
+6765   - Ryouko Mendou
+6766   - Oyuki
+6767   - Kurama
+6768   - Rei
+6769   - Inaba
+6770   - Asuka Mizunokoji
+6771   - Tobimaro Mizunokouji
+6772   - Ado
+6773   - Mafumafu
+6774   - 96neko
+6775   - Soraru
+6776   - Eve
+6777   - nqrse
+6778   - Quinn Benet
+6779   - Mint Fantome
+6780   - Sayu Sincronisity
+6781   - Cassian Floros
+6782   - Lucien Lunaris
+6783   - Gale Galleon
+6784   - Rosco Graves
+6785   - Zander Netherbrand
+6786   - Irene Belserion
+6787   - Black Knight
+6788   - Wadanohara
+6789   - Samekichi
+6790   - Fukami
+6791   - Memoca
+6792   - Dolphi
+6793   - Syakesan
+6794   - Uomihime
+6795   - Mikotsuhime
+6796   - Lobco
+6797   - Chlomaki
+6798   - Cherryblod
+6799   - Tatsumiya
+6800   - Laurentia
+6801   - Vendetto
+6802   - Ver Million
+6803   - Meikai
+6804   - Yonaka Kurai
+6805   - Shinya Kurai
+6806   - Moge-Ko
+6807   - Defect Mogeko
+6808   - Yosafire
+6809   - Froze
+6810   - Macarona
+6811   - Alela Grora
+6812   - Wodahs
+6813   - Etihw
+6814   - Kcalb
+6815   - Rawberry Preserves
+6816   - Raspbel Preserves
+6817   - Emalf
+6818   - Rieta
+6819   - Poemi
+6820   - Ivlis
+6821   - Idate
+6822   - Scor
+6823   - Tsumuri
+6824   - Lanling Wang
+6825   - Charlemagne
+6826   - Asclepius
+6827   - Asvatthāman
+6828   - Takasugi Shinsaku
+6829   - Bay
+6830   - Kiba
+6831   - Toboe
+6832   - Tsume
+6833   - Hige
+6834   - Blue
+6835   - Cheza
+6836   - Lord Darcia the Third
+6837   - Meme
+6838   - Hana-chan
+6839   - Shuu-chan
+6840   - Girl
+6841   - Vincent Brooks
+6842   - Catherine
+6843   - Katherine McBride
+6844   - Rin
+6845   - Erica Anderson
+6846   - Jonathan Ariga
+6847   - Orlando Haddick
+6848   - Tobias Nebbins
+6849   - Trisha
+6850   - Boss
+6851   - Kino
+6852   - Thelema
+6853   - Jack-o'-Lantern
+6854   - Tube-Nosed Bat
+6855   - Fraternal Myotis
+6856   - Honduran White Bat
+6857   - Tetsu Sendagaya
+6858   - Hugh the Dark Algernon III
+6859   - Izuna Nobel
+6860   - The Mother
+6861   - Niccolo Carpediem
+6862   - World End
+6863   - Taishi Touma
+6864   - Gear
+6865   - Yumikage Tsukimitsu
+6866   - Daniel Dickens
+6867   - Edward Mason
+6868   - Catherine Ward
+6869   - Abraham Gray
+6870   - Michi Mochievee
+6871   - Clorinde
+6872   - Sigewinne
+6873   - Sethos
+6874   - Firefly
+6875   - Luke Pearce
+6876   - Artem Wing
+6877   - Vyn Richter
+6878   - Marius von Hagen
+6879   - Laufen
+6880   - Kanne
+6881   - Lawine
+6882   - Sense
+6883   - Jade
+6884   - Cosmo
+6885   - Dacapo
+6886   - Urawa Hanako
+6887   - Shishidou Izumi
+6888   - Kozeki Ui
+6889   - Ikekura Marina
+6890   - Akashi Junko
+6891   - Kazekura Moe
+6892   - Nemugaki Fubuki
+6893   - Himeki Meru
+6894   - Nakamasa Ichika
+6895   - Artemisia Bell Ashcroft
+6896   - White Queen
+6897   - Hibiki Higoromo
+6898   - Panie Ibusaki
+6899   - Nibelcole
+6900   - Saki Hanami
+6901   - Temari Tsukimura
+6902   - Kotone Fujita
+6903   - Rinami Himesaki
+6904   - Sumika Shiun
+6905   - Hiro Shinosawa
+6906   - Lilja Katsuragi
+6907   - China Kuramoto
+6908   - Mao Arimura
+6909   - Juuya Niibashi
+6910   - Izutsumi
+6911   - Noan
+6912   - Esu Sagiri
+6913   - Ibuki Taki
+6914   - Kanna Natsu
+6915   - Fuyume Hanamura
+6916   - Raika Hojo
+6917   - Miko
+6918   - Schwi Dola
+6919   - Riku Dola
+6920   - Couronne Dola
+6921   - Azriel
+6922   - Idunn
+6923   - Peri
+6924   - Veyle
+6925   - Triandra
+6926   - Gullveig
+6927   - Seidr
+6928   - Peony
+6929   - Kirin
+6930   - Blue Dragon
+6931   - Misery
+6932   - Markus
+6933   - Iz
+6934   - Dorazou
+6935   - Oboro
+6936   - Mai
+6937   - Yui
+6938   - Asami Yuuki
+6939   - Yuzuha Mishima
+6940   - Beatrice
+6941   - Kanon
+6942   - Shannon
+6943   - Ange Ushiromiya
+6944   - Battler Ushiromiya
+6945   - George Ushiromiya
+6946   - Jessica Ushiromiya
+6947   - Maria Ushiromiya
+6948   - Frederica Bernkastel
+6949   - Lambdadelta
+6950   - Veronica de Sade
+6951   - Mikhail
+6952   - Nonna
+6953   - Orange Pekoe
+6954   - Anzu Kadotani
+6955   - Kay
+6956   - Alice Shimada
+6957   - Male Rover
+6958   - Female Rover
+6959   - Jiyan
+6960   - Yinlin
+6961   - Encore
+6962   - Calcharo
+6963   - Jianxin
+6964   - Lingyang
+6965   - Verina
+6966   - Aalto
+6967   - Baizhi
+6968   - Chixia
+6969   - Danjin
+6970   - Mortefi
+6971   - Sanhua
+6972   - Taoqi
+6973   - Yangyang
+6974   - Yuanwu
+6975   - Manaka Mukaido
+6976   - Chisaki Hiradaira
+6977   - Miuna Shiodome
+6978   - Sayu Hisanuma
+6979   - Hikari Sakishima
+6980   - Tsumugu Kihara
+6981   - Kaname Isaki
+6982   - Date-chan
+6983   - Bell Bessyo
+6984   - Eimi Azai
+6985   - Shika Shimazu
+6986   - Consort Yu
+6987   - Carmilla
+6988   - Leonardo da Vinci
+6989   - Minamoto no Raikou
+6990   - Dobrynya Nikitich
+6991   - Cleopatra
+6992   - Jacques de Moley
+6993   - Tiamat
+6994   - Kiara Sesshouin
+6995   - Ibuki Douji
+6996   - Tomoe Gozen
+6997   - Oda Nobunaga
+6998   - Euryale
+6999   - Brynhildr
+7000   - Vritra
+7001   - Kiyohime
+7002   - Reno
+7003   - Camila
+7004   - Filian
+7005   - Chisa Akagawa
+7006   - Airi Eniwa
+7007   - Riko Hinakuro
+7008   - Aya Kamuro
+7009   - Shiho Kano
+7010   - Yuzuha Kujou
+7011   - Rie Maruyama
+7012   - Mahoro Miyaji
+7013   - Haruna Mutsuishi
+7014   - Rinne Myoujin
+7015   - Maika Takatori
+7016   - Yuuki Tendou
+7017   - Mei Toomi
+7018   - Honoka Tsukii
+7019   - Satori Utsugi
+7020   - Miharu Yomine
+7021   - Chitose Karasuma
+7022   - Koto Katakura
+7023   - Yae Kugayama
+7024   - Kazuha Shibasaki
+7025   - Momoka Sonou
+7026   - Emilie
+7027   - Yunli
+7028   - Jiaoqiu
+7029   - Lantern
+7030   - Airi Hayashida
+7031   - Nanami Hisami
+7032   - Minami Katayama
+7033   - Kaya Kikuma
+7034   - Yoshino Nanase
+7035   - Miyu Okamoto
+7036   - Mayu Shimada
+7037   - Miu Takigawa
+7038   - Jun Toda
+7039   - Sakura Fujima
+7040   - Ayaka Tachikawa
+7041   - Akane Maruyama
+7042   - Nicole Saitou
+7043   - Reika Satou
+7044   - An Akagi
+7045   - Genki Aoyama
+7046   - Yuuki Aoyama
+7047   - Mikan Kise
+7048   - Roko Kuroki
+7049   - Mana Midorikawa
+7050   - Hatsuri Momoi
+7051   - Kanon Shimura
+7052   - Misaki Shirogane
+7053   - Itsuki Yuge
+7054   - Arie
+7055   - Collet
+7056   - Farun
+7057   - Femiruna
+7058   - Lirie
+7059   - Liris
+7060   - Mana
+7061   - Yuzuha
+7062   - Anne
+7063   - Hanna
+7064   - Lou
+7065   - Miranda
+7066   - Yuuya Kanzaki
+7067   - Aiko Tachibana
+7068   - Koharu Kagami
+7069   - Kaede Misawa
+7070   - Haruka Seri
+7071   - Tiara
+7072   - Rosetta
+7073   - Lavie
+7074   - Ashley
+7075   - Lynette
+7076   - Emilia
+7077   - Chloe
+7078   - Angers
+7079   - Msyu
+7080   - Kimimaro Yoga
+7081   - Souichirou Mikuni
+7082   - Masakaki
+7083   - Q
+7084   - Tsubasa Arihara
+7085   - Tomoe Kawakita
+7086   - Yuuki Nozaki
+7087   - Ryou Shinonome
+7088   - Akane Ukita
+7089   - Favaro Leone
+7090   - Amira
+7091   - Rita
+7092   - Cerberus
+7093   - Nina Drango
+7094   - Bocchi Hitori
+7095   - Nako Sunao
+7096   - Aru Honshou
+7097   - Sotoka Rakita
+7098   - Kai Yawara
+7099   - Tigrevurmud Vorn
+7100   - Eleonora Viltaria
+7101   - Ludmila Lourie
+7102   - Limalisha
+7103   - Momo Otako
+7104   - Yuko Yurei
+7105   - Rin Penrose
+7106   - Pochi Wanmaru
+7107   - Roca Rourin
+7108   - Poko Rakun
+7109   - Coni Confetti
+7110   - Enya Ignis
+7111   - Chikafuji Lisa
+7112   - Akugaki Koa
+7113   - Lalabell Lullaby
+7114   - Taiga Toragami
+7115   - Meica05
+7116   - Lily Sin
+7117   - Nouvelle
+7118   - Miyako Hoshino
+7119   - Hinata Hoshino
+7120   - Noa Himesaka
+7121   - Hana Shirosaki
+7122   - Yuuna Matsumoto
+7123   - Kouko Matsumoto
+7124   - Kanon Konomori
+7125   - Koyori Tanemura
+7126   - Kafka Hibino
+7127   - Reno Ichikawa
+7128   - Kikoru Shinomiya
+7129   - Mina Ashiro
+7130   - Soushirou Hoshina
+7131   - Sentouin D
+7132   - Hibiki Sakurama
+7133   - Yumeko Suzukiri
+7134   - Kanon Hisui
+7135   - Angel Usukubo
+7136   - Sentouin XX
+7137   - Komachi Aizome
+7138   - Yamato Kurusu
+7139   - Sousei Akabane
+7140   - Green Keeper
+7141   - Sesera Sakurama
+7142   - Shougo Aoshima
+7143   - Shinya Kiritani
+7144   - Lloyd de Saloum
+7145   - Grim
+7146   - Sylpha
+7147   - Tao
+7148   - Ren
+7149   - Albert de Saloum
+7150   - Guisarme Rael Valhenvach
+7151   - Jade
+7152   - Taria
+7153   - Babylon
+7154   - Galilei
+7155   - Crow
+7156   - Flio
+7157   - Fenrys
+7158   - Belano
+7159   - Hiya
+7160   - Balirossa
+7161   - Blossom
+7162   - Uliminas
+7163   - Damalynas
+7164   - Elizabeth Klyrode
+7165   - Phufun
+7166   - Mahiru Kouzuki
+7167   - Kano Yamanouchi
+7168   - Kim Anouk Mei Takanashi
+7169   - Kiui Watase
+7170   - JELEE-chan
+7171   - Shizue Baba
+7172   - Mero Setou
+7173   - Momoko Yanagi
+7174   - Pitohui
+7175   - Miyu Shinohara
+7176   - Goushi Asougi
+7177   - Yori Asanagi
+7178   - Himari Kino
+7179   - Shiho Izumi
+7180   - Aki Mizuguchi
+7181   - Kaori Tachibana
+7182   - Momoka Satomiya
+7183   - Mari Tsutsui
+7184   - Miki Mizuguchi
+7185   - Hajime Amasawa
+7186   - Hotaru Hinase
+7187   - Saki Hananoi
+7188   - Tsukiha Shibamura
+7189   - Keigo Kurata
+7190   - Hibiki Asami
+7191   - Souhei Yao
+7192   - Sumireko Ogawa
+7193   - Ren Adashino
+7194   - Oto Adashino
+7195   - Shizuku Hayami
+7196   - Nodoka Ametsuchi
+7197   - Manami Uname
+7198   - Shizuru Chikura
+7199   - Nadeshiko Hoshi
+7200   - Reimi Kuga
+7201   - Akira Shinonome
+7202   - Youka Nakatomi
+7203   - Zenjirou
+7204   - Suu-chan
+7205   - Nina Iseri
+7206   - Momoka Kawaragi
+7207   - Subaru Awa
+7208   - Tomo Ebizuka
+7209   - Rupa
+7210   - Ai
+7211   - Hina
+7212   - Nana
+7213   - Rin
+7214   - Yasumi Utatane
+7215   - Yuuhi Yuugure
+7216   - Mirei Asaka
+7217   - Shintarou Tokumitsu
+7218   - Towa
+7219   - Noeru Izumi
+7220   - Sayuri Kagami
+7221   - Tsumugi Tsutsumi
+7222   - Hisui Tsurumi
+7223   - Mito Yamamoto
+7224   - Ruka Saotome
+7225   - Ren Nikaidou
+7226   - Juri
+7227   - Komori
+7228   - Takara Kagurazaka
+7229   - Zagan
+7230   - Nephelia
+7231   - Barbatos
+7232   - Chastille Lillqvist
+7233   - Valefor
+7234   - Oscar Lyeth Increatos Loz Farsas
+7235   - Tinasha
+7236   - Chito
+7237   - Yuuri
+7238   - Nuko
+7239   - Kanagi Izumi
+7240   - Yuna Kureha
+7241   - Mabayu Aki
+7242   - Iroha Tamaki
+7243   - Karin Misono
+7244   - Felicia Mitsuki
+7245   - Yachiyo Nanami
+7246   - Tsuruno Yui
+7247   - Kaede Akino
+7248   - Mikoto Sena
+7249   - Juri Oba
+7250   - Sudachi Sawa
+7251   - Rena Minami
+7252   - Alina Gray
+7253   - Victorique de Blois
+7254   - Kazuya Kujou
+7255   - Elizabeth Rose Bloodflame
+7256   - Gigi Murin
+7257   - Cecilia Immergreen
+7258   - Raora Panthera
+7259   - Aki Shiina
+7260   - Ayaka Sunohara
+7261   - Nana Sunohara
+7262   - Yuzu Yukimoto
+7263   - Sumire Yamanashi
+7264   - Yuri Kazami
+7265   - Chloe Aubert
+7266   - Tear
+7267   - Eren
+7268   - Alice Rondo
+7269   - Albis
+7270   - Suphia
+7271   - Hiiro
+7272   - Mjurran
+7273   - Kouga
+7274   - Yuuma Toutetsu
+7275   - Hina Kagiyama
+7276   - Mystia Lorelei
+7277   - Chen
+7278   - Nazrin
+7279   - Daiyousei
+7280   - Wakasagihime
+7281   - Wriggle Nightbug
+7282   - Kuromi Serika
+7283   - Lawrence Bluewer
+7284   - Herman Greenhill
+7285   - Edgar Redmond
+7286   - Gregory Violet
+7287   - Joker
+7288   - Beast
+7289   - Jinhsi
+7290   - Changli
+7291   - Wise
+7292   - Belle
+7293   - Ellen Joe
+7294   - Zhu Yuan
+7295   - Von Lycaon
+7296   - Alexandrina Sebastiane
+7297   - Grace Howard
+7298   - Soldier 11
+7299   - Koleda Belobog
+7300   - Nekomiya Mana
+7301   - Anby Demara
+7302   - Nicole Demara
+7303   - Billy Kid
+7304   - Corin Wickes
+7305   - Ben Bigger
+7306   - Soukaku
+7307   - Anton Ivanov
+7308   - Luciana de Montefio
+7309   - Piper Wheel
+7310   - Sayuri Hanayori
+7311   - Shigure Yukimi
+7312   - Mito Juujou
+7313   - Shy
+7314   - Spirits
+7315   - Lady Black
+7316   - Kufufu Kekerakera
+7317   - Iko Koishikawa
+7318   - Meng Long
+7319   - N-Vilio
+7320   - Uni-Lord
+7321   - Yuuna Yuuki
+7322   - Mimori Tougou
+7323   - Karin Miyoshi
+7324   - Itsuki Inubouzaki
+7325   - Fuu Inubouzaki
+7326   - Mongfa Bai
+7327   - Irina Ilyukhina
+7328   - Amelia Irving
+7329   - Karin Istel
+7330   - Aoi Izumisawa
+7331   - Asahi Kashiwagi
+7332   - Saku Fukuzawa
+7333   - Yukichi
+7334   - Rio Nishina
+7335   - Bocchan
+7336   - Alice Lendrott
+7337   - Cuff
+7338   - Daleth
+7339   - Viola
+7340   - Zain
+7341   - Walter
+7342   - Sade
+7343   - Miyuki Sagara
+7344   - Izumiko Suzuhara
+7345   - Manatsu Souda
+7346   - Faputa
+7347   - Zhezhi
+7348   - Xiangli Yao
+7349   - Silver
+7350   - Kinich
+7351   - Mualani
+7352   - Kachina
+7353   - Haru Yuuki
+7354   - Arisu Tachibana
+7355   - Chie Sasaki
+7356   - Momoka Sakurai
+7357   - Kaoru Ryuuzaki
+7358   - Risa Matoba
+7359   - Koharu Koga
+7360   - Ruka Souen
+7361   - Maria Kurenai
+7362   - Takuma Ichijou
+7363   - Kaien Cross
+7364   - Yuniiho
+7365   - Yenkoes
+7366   - Dyarikku
+7367   - Yoclesh
+7368   - Maya Fey
+7369   - Mei Karuma
+7370   - Miles Edgeworth
+7371   - Phoenix Wright
+7372   - Geiru Toneido
+7373   - Dahlia Hawthorne
+7374   - Godot
+7375   - Aura Blackquill
+7376   - Kay Faraday
+7377   - Trucy Wright
+7378   - Larry Butz
+7379   - Dick Gumshoe
+7380   - Mia Fey
+7381   - Heaven
+7382   - Hell
+7383   - Fantaisie Impromptu
+7384   - Kureha Tsubaki
+7385   - Lulu Yurigasaki
+7386   - Ginko Yurishiro
+7387   - Glenn Litbeit
+7388   - Saphentite Neikes
+7389   - Arahnia Taranterra Arachnida
+7390   - Skadi Dragenfelt
+7391   - Lulala Heine
+7392   - Feixiao
+7393   - Lingsha
+7394   - Moze
+7395   - Yuuto Amakawa
+7396   - Lizlet L Chelsie
+7397   - Kuesu Jinguuji
+7398   - Rinko Kuzaki
+7399   - Himari Noihara
+7400   - Shizuku
+7401   - Adam
+7402   - Eve
+7403   - Emil
+7404   - Pascal
+7405   - Kae Serinuma
+7406   - Asuma Mutsumi
+7407   - Nozomu Nanashima
+7408   - Hayato Shinomiya
+7409   - Yuusuke Igarashi
+7410   - Shima Nishina
+7411   - Yuuko Ichihara
+7412   - Kimihiro Watanuki
+7413   - Shizuka Doumeki
+7414   - Himawari Kunogi
+7415   - Mokona Modoki
+7416   - Mokona Modoki
+7417   - Fai D. Flourite
+7418   - Kurogane
+7419   - Sakura
+7420   - Syaoran
+7421   - Andy
+7422   - Fuuko Izumo
+7423   - Shen Xiang
+7424   - Rip Tristan
+7425   - Dokuro Mitsukai
+7426   - Sakura Kusakabe
+7427   - Souji Mitsuka
+7428   - Erina Shindou
+7429   - Aika Tsube
+7430   - Twoearle
+7431   - Mira
+7432   - Amaratte
+7433   - Emera
+7434   - Fricka
+7435   - Kagura
+7436   - Meyrin
+7437   - Touma Hiiragi
+7438   - Akihiko Nirei
+7439   - Haruka Sakura
+7440   - Kyoutarou Sugishita
+7441   - Hayato Suou
+7442   - Hajime Umemiya
+7443   - Kouta Sako
+7444   - Kotoha Tachibana
+7445   - Jou Togame
+7446   - Chouji Tomiyama
+7447   - Qingyi
+7448   - Jane Doe
+7449   - Seth Lowell
+7450   - Zwei
+7451   - Trony
+7452   - Ein
+7453   - Clay
+7454   - Crown
+7455   - Yuuko Yoshida
+7456   - Momo Chiyoda
+7457   - Mikan Hinatsuki
+7458   - Lilith
+7459   - Mei Tachibana
+7460   - Yamato Kurosawa
+7461   - Kai Takemura
+7462   - Aiko Mutou
+7463   - Risa Koizumi
+7464   - Atsushi Ootani
+7465   - Kakeru Naruse
+7466   - Naho Takamiya
+7467   - Hiroto Suwa
+7468   - Saku Hagita
+7469   - Azusa Murasaka
+7470   - Takako Chino
+7471   - Tsukimi Kurashita
+7472   - Kuranosuke Koibuchi
+7473   - Angelise Ikaruga Misurugi
+7474   - Hildegard Schlievogt
+7475   - Salamandine
+7476   - Tusk
+7477   - Salia
+7478   - Vivian
+7479   - Chris
+7480   - Ersha
+7481   - Momoka Oginome
+7482   - Tokaku Azuma
+7483   - Haru Ichinose
+7484   - Nio Hashiri
+7485   - Isuke Inukai
+7486   - Haruki Sagae
+7487   - Mahiru Banba
+7488   - Sumireko Hanabusa
+7489   - Otoya Takechi
+7490   - Gareki
+7491   - Nai
+7492   - Yogi
+7493   - Tsukumo
+7494   - Kukuru Misakino
+7495   - Fuuka Miyazawa
+7496   - Kuuya Yakamashi
+7497   - Tooru Kirishima
+7498   - Yaeka Sakuragi
+7499   - Kei Sugihara
+7500   - Yuuri Mashiro
+7501   - Kabuto Hanadori
+7502   - Seri Koyuki
+7503   - Utsugi Tsukimiya
+7504   - Hibiki Kimiya
+7505   - Kimikage Mogami
+7506   - Shikimi Tokimune
+7507   - Mizuki Hijiri
+7508   - Tomoki Takashima
+7509   - Futaba Mikuriya
+7510   - Yamato Noda
+7511   - Kazuhiro Nakamura
+7512   - Rei Tsukumo
+7513   - Sariphi
+7514   - Leonhart
+7515   - Lanteveldt
+7516   - Anubis
+7517   - Kahoko Hino
+7518   - Len Tsukimori
+7519   - Kazuki Hihara
+7520   - Ryotaro Tsuchiura
+7521   - Keiichi Shimizu
+7522   - Azuma Yunoki
+7523   - Kakeru Daichi
+7524   - Melon
+7525   - Yell
+7526   - Miku
+7527   - Hotaru Mizushina
+7528   - Yuma Okazaki
+7529   - Heroine
+7530   - Orion
+7531   - Ukyou
+7532   - Shin
+7533   - Touma
+7534   - Ikki
+7535   - Kent
+7536   - Ange Yuki
+7537   - Guiltia Brion
+7538   - Eve Louise
+7539   - Robin Laffite
+7540   - Saga Latour
+7541   - Jack Mouton
+7542   - Elizabeth Veuve
+7543   - Mist Flaiv
+7544   - Dimitri Romanee
+7545   - Hyde Jayer
+7546   - Fuwa Minato
+7547   - Char Aznable
+7548   - Amuro Ray
+7549   - Bright Noa
+7550   - Haro
+7551   - Sayla Mass
+7552   - Setsuna F. Seiei
+7553   - Lockon Stratos
+7554   - Tieria Erde
+7555   - Allelujah Haptism
+7556   - Feldt Grace
+7557   - Sumeragi Lee Noriega
+7558   - Ali Al-Saachez
+7559   - Nena Trinity
+7560   - Patrick Colasour
+7561   - Ribbons Almark
+7562   - Marina Ismail
+7563   - Soma Peries
+7564   - Graham Aker
+7565   - Kira Yamato
+7566   - Lacus Clyne
+7567   - Athrun Zala
+7568   - Cagalli Yula Athha
+7569   - Heero Yuy
+7570   - Duo Maxwell
+7571   - Zechs Marquise
+7572   - Trowa Barton
+7573   - Mikazuki Augus
+7574   - Orga Itsuka
+7575   - Kudelia Aina Bernstein
+7576   - Suletta Mercury
+7577   - Miorine Rembran
+7578   - Jusetsu Ryuu
+7579   - Koushun Ka
+7580   - Sei Ei
+7581   - Jiujiu
+7582   - Nezumi
+7583   - Usagi
+7584   - Tora
+7585   - Ushii
+7586   - Inounoshishi
+7587   - Niwatori
+7588   - Sharyuu
+7589   - Tatsumi Kyoudai Ani
+7590   - Tatsumi Kyoudai Otouto
+7591   - Dotsuku
+7592   - Hitsujii
+7593   - Uuma
+7594   - Squigly
+7595   - Cerebella
+7596   - Double
+7597   - Marie
+7598   - Annie
+7599   - Painwheel
+7600   - Minette
+7601   - Valentine
+7602   - Peacock
+7603   - Filia
+7604   - Parasoul
+7605   - Ms Fortune
+7606   - Eliza
+7607   - Umbrella
+7608   - Xilonen
+7609   - Porcelain Maid
+7610   - Tsukatsuki Rio
+7611   - Shiki Miyoshino
+7612   - The Shorekeeper
+7613   - Collette
+7614   - President
+7615   - Subaru Uchimaki
+7616   - Mizuki Usami
+7617   - Yumeko Tachibana
+7618   - Maria Imari
+7619   - Scheherazade
+7620   - La Mer
+7621   - Tritsch Tratsch Polka
+7622   - Fur Elise
+7623   - Daphnis and Chloe
+7624   - Twinkle Star
+7625   - Eine kleine Nachtmusik
+7626   - Winter
+7627   - Autumn
+7628   - Summer
+7629   - Spring
+7630   - Freeshooter
+7631   - The Swan Lake
+7632   - L'Arlesienne
+7633   - Canon
+7634   - Pomp and Circumstance
+7635   - Air on the G String
+7636   - Belkis
+7637   - Moonlight
+7638   - Die Fledermaus
+7639   - Bolero
+7640   - Carmen
+7641   - Walkure
+7642   - Jupiter
+7643   - Zack Fair
+7644   - Noctis Lucis Caelum
+7645   - Prompto Argentum
+7646   - Chidori Yoshino
+7647   - Orange Juice
+7648   - Raindrop Cake
+7649   - Caviar
+7650   - Milt
+7651   - Toso
+7652   - Takowasa
+7653   - Spicy Gluten
+7654   - Durian Pancake
+7655   - American Corn Bread
+7656   - Cappuccino
+7657   - Pizza
+7658   - Nori
+7659   - Tiger Salad
+7660   - Black Truffle
+7661   - Eggnog
+7662   - Lutefisk
+7663   - Mackerel Ichiyaboshi
+7664   - Souffle
+7665   - Caesar King
+7666   - Burnice White
+7667   - Hotaru Shidare
+7668   - Saya Endou
+7669   - Kokonotsu Shikada
+7670   - Tou Endou
+7671   - Ayano Kimishima
+7672   - Nonoa Miyamae
+7673   - Sayaka Taniyama
+7674   - Chisaki Sarashina
+7675   - Touya Kenzaki
+7676   - Noko Shikanoko
+7677   - Torako Koshi
+7678   - Meme Bashame
+7679   - Anko Koshi
+7680   - Neko Nekoyamada
+7681   - Kinu Tanukikouji
+7682   - Chiharu Tsubameya
+7683   - Saki Aoi
+7684   - Makoto Hanaoka
+7685   - Ryuuji Taiga
+7686   - Kazuhiko Nukumizu
+7687   - Anna Yanami
+7688   - Chika Komari
+7689   - Lemon Yakishio
+7690   - Yumeko Shikiya
+7691   - Kaju Nukumizu
+7692   - Tiara Basori
+7693   - Sayo Konuki
+7694   - Koto Tsukinoki
+7695   - Hibari Houkobaru
+7696   - Yuuta Asamura
+7697   - Saki Ayase
+7698   - Shiori Yomiuri
+7699   - Maaya Narasaka
+7700   - Jougorou Kobato
+7701   - Yuki Osanai
+7702   - Eiji Kitahama
+7703   - Rin Nanakura
+7704   - Natsuki Ikaruga
+7705   - Atri
+7706   - Minamo Kamishiro
+7707   - Jun Shirosaki
+7708   - Naori Jinguuji
+7709   - Rumi Jinguuji
+7710   - Masaki Sonoue
+7711   - Live
+7712   - Ichiko
+7713   - Fuu
+7714   - Yuki
+7715   - Tokage
+7716   - Sensei
+7717   - Near
+7718   - Tama
+7719   - Annette
+7720   - Tomoatsu Naoe
+7721   - Erufuda
+7722   - Oga
+7723   - Kuroeda
+7724   - Gonda
+7725   - Satero
+7726   - Raika
+7727   - Mero
+7728   - Kusahanada
+7729   - Honeda
+7730   - Hitome
+7731   - Kobo
+7732   - Tokiyuki Houjou
+7733   - Yorishige Suwa
+7734   - Fubuki
+7735   - Shizuku
+7736   - Kojirou Nezu
+7737   - Ayako Mochizuki
+7738   - Will Serfort
+7739   - Elfaria Albis Serfort
+7740   - Colette Loire
+7741   - Lihanna Owenzaus
+7742   - Rosti Nauman
+7743   - Sion Ulster
+7744   - Kiki
+7745   - Hisashi Ootomo
+7746   - Mao Tsuchiya
+7747   - Rei Inaba
+7748   - Shion Yoshino
+7749   - Giichi Ichikawa
+7750   - Jin Kikuchihara
+7751   - Byakuya Mimori
+7752   - Shun Miller
+7753   - Bellatrix
+7754   - Fomalhaut
+7755   - Hibana Kagari
+7756   - Noor
+7757   - Lynneburg Clays
+7758   - Awayuki Kokorone
+7759   - Mashiro Irodori
+7760   - Shion Kaminari
+7761   - Sei Utsuki
+7762   - Kadode Koyama
+7763   - Ouran Nakagawa
+7764   - Keita Ooba
+7765   - Taiyou Asano
+7766   - Mutsumi Yozakura
+7767   - Kyouichirou Yozakura
+7768   - Kengo Yozakura
+7769   - Futaba Yozakura
+7770   - Shinzou Yozakura
+7771   - Shion Yozakura
+7772   - Nanao Yozakura
+7773   - Touka Mimori
+7774   - Seras Ashrain
+7775   - Masamune Okumura
+7776   - Ririsa Amano
+7777   - Mikari Tachibana
+7778   - Aria Kisaki
+7779   - Noa
+7780   - 753
+7781   - Mayuri Hanyuu
+7782   - Magino
+7783   - Moemi Souya
+7784   - Ririka Chiyoda
+7785   - Hekiru Yoshino
+7786   - Mao Takasaki
+7787   - Valentina Azuma
+7788   - Camellya
+7789   - Harutora Tsuchimikado
+7790   - Natsume Tsuchimikado
+7791   - Suzuka Dairenji
+7792   - Touji Ato
+7793   - Kon
+7794   - Utena Tenjou
+7795   - Anthy Himemiya
+7796   - Juri Arisugawa
+7797   - Nanami Kiryuu
+7798   - Akio Ootori
+7799   - Touga Kiryuu
+7800   - Souji Mikage
+7801   - Miki Kaoru
+7802   - Kozue Kaoru
+7803   - Shiori Takatsuki
+7804   - Kyouichi Saionji
+7805   - Wakaba Shinohara
+7806   - Ruka Tsuchiya
+7807   - Rappa
+7808   - Tsukishiro Yanagi
+7809   - Lighter Lorenz
+7810   - Thirteen
+7811   - Raphael
+7812   - Mephistopheles
+7813   - Tianchen Li
+7814   - Tianxi Li
+7815   - Xiao Liu
+7816   - annytf
+7817   - Miyako Saitou
+7818   - Kafu
+7819   - Skully J. Graves
+7820   - Fellow Honest
+7821   - Chasca
+7822   - Ororon
+7823   - Sunday
+7824   - Colt Walker
+7825   - TPS
+7826   - Destroyer
+7827   - Alchemist
+7828   - SCR
+7829   - CZ75
+7830   - AUG
+7831   - M99
+7832   - TMP
+7833   - Micro Uzi
+7834   - Tokarev
+7835   - G41
+7836   - RO635
+7837   - HK416
+7838   - G11
+7839   - Renner Theiere Chardelon Ryle Vaiself
+7840   - Emilico
+7841   - Kate
+7842   - Barbara
+7843   - Barbie
+7844   - John
+7845   - Shaun
+7846   - Louise
+7847   - Lou
+7848   - Patrick
+7849   - Ricky
+7850   - Edward
+7851   - Rum
+7852   - Shirley
+7853   - Lamia
+7854   - Yuugi Hoshiguma
+7855   - Kisume
+7856   - Rindou Kobayashi
+7857   - Allen Walker
+7858   - Yuu Kanda
+7859   - Lavi
+7860   - Lenalee Lee
+7861   - Tyki Mikk
+7862   - Road Kamelot
+7863   - Cross Marian
+7864   - Millennium Earl
+7865   - Aleister Crowley III
+7866   - Komui Lee
+7867   - Miranda Lotto
+7868   - Debitto
+7869   - Nea D. Campbell
+7870   - Youhu
+7871   - Eiden
+7872   - Aster
+7873   - Morvay
+7874   - Yakumo
+7875   - Edmond
+7876   - Olivine
+7877   - Quincy
+7878   - Kuya
+7879   - Garu
+7880   - Blade
+7881   - Dante
+7882   - Rei
+7883   - Rin
+7884   - Portland
+7885   - Indianapolis
+7886   - Prinz Adalbert
+7887   - U-47
+7888   - Avrora
+7889   - Washington
+7890   - Vampire
+7891   - Graf Zeppelin
+7892   - Noshiro
+7893   - Minneapolis
+7894   - Bache
+7895   - Littorio
+7896   - Chapayev
+7897   - Sovetsky Soyuz
+7898   - Richelieu
+7899   - La Galissonniere
+7900   - Surcouf
+7901   - Kashino
+7902   - San Francisco
+7903   - Le Terrible
+7904   - Elbe
+7905   - Ulrich von Hutten
+7906   - Kronshtadt
+7907   - Elbing
+7908   - Implacable
+7909   - Unzen
+7910   - Golden Hind
+7911   - Mary Celeste
+7912   - Guam
+7913   - Alsace
+7914   - Mogador
+7915   - Friedrich Carl
+7916   - Z47
+7917   - Plymouth
+7918   - Kearsarge
+7919   - Hindenburg
+7920   - Napoli
+7921   - Admiral Nakhimov
+7922   - Marco Polo
+7923   - Fancy
+7924   - Strasbourg
+7925   - Shropshire
+7926   - Guichen
+7927   - Hinomiya Chinatsu
+7928   - Sumi Serina
+7929   - Kasumizawa Miyu
+7930   - Hakari Atsuko
+7931   - Akeboshi Himari
+7932   - Kirifuji Nagisa
+7933   - Kadenokouji Yukari
+7934   - Kiryuu Kikyou
+7935   - Hanuma Makoto
+7936   - Yozakura Kirara
+7937   - Izumimoto Eimi
+7938   - Episode
+7939   - Deathtopia Virtuoso Suicide-Master
+7940   - Seiu Higasa
+7941   - Asaba Harumasa
+7942   - Hoshimi Miyabi
+7943   - Hayato Kamitani
+7944   - Taka Kamitani
+7945   - Kotarou Kashima
+7946   - Ryuuichi Kashima
+7947   - Kirin Kumatsuka
+7948   - Kazuma Mamizuka
+7949   - Takuma Mamizuka
+7950   - Maria Inomata
+7951   - Yoshihito Usaida
+7952   - Midori Sawatari
+7953   - Yayoi Kumatsuka
+7954   - Chuukichi Nezu
+7955   - Masahiro Setagawa
+7956   - Kousuke Ooshiba
+7957   - Asaya Hasekura
+7958   - Kensuke Ooshiba
+7959   - Yabase
+7960   - Ritsu Onodera
+7961   - Masamune Takano
+7962   - Shouta Kisa
+7963   - Kou Yukina
+7964   - Takafumi Yokozawa
+7965   - Yoshiyuki Hatori
+7966   - Yuu Yanase
+7967   - Chiaki Yoshino
+7968   - Misaki Takahashi
+7969   - Akihiko Usami
+7970   - Hiroki Kamijou
+7971   - Nowaki Kusama
+7972   - Shinobu Takatsuki
+7973   - You Miyagi
+7974   - Ritsuka Aoyagi
+7975   - Soubi Agatsuma
+7976   - Natsuo Sagan
+7977   - Youji Sagan
+7978   - Seimei Aoyagi
+7979   - Kio Kaidou
+7980   - Yamato Nakano
+7981   - Kouya Sakagami
+7982   - Yuna
+7983   - Yurine Hanazono
+7984   - Jashin-chan
+7985   - Medusa
+7986   - Minos
+7987   - Pekora
+7988   - Wombat
+7989   - Goura Hakone
+7990   - Kyoutarou Shuzenji
+7991   - Ryouma Kirishima
+7992   - Nanao Wakura
+7993   - Ichirou Dougo
+7994   - Taishi Manza
+7995   - Ata Ibusuki
+7996   - Martha Shirahone
+7997   - Taiju Unazuki
+7998   - Karurusu
+7999   - Furanui
+8000   - Chikage Utsuki
+8001   - Kumon Hyoudou
+8002   - Azami Izumida
+8003   - Guy
+8004   - Towa Ichinoe
+8005   - Ibuki Dozono
+8006   - Keiku Karashina
+8007   - Kureha Nishiki
+8008   - Reni Kamikizaka
+8009   - Haruto Asuka
+8010   - Cerber
+8011   - Petr Petrichor
+8012   - Lumi
+8013   - Sousuke Yamazaki
+8014   - Ikuya Kirishima
+8015   - Asahi Shiina
+8016   - Kisumi Shigino
+8017   - Nao Serizawa
+8018   - Natsuya Kirishima
+8019   - Momotarou Mikoshiba
+8020   - Zundamon
+8021   - Jin Kamurai
+8022   - Edward Hart
+8023   - Taiga Hoshibami
+8024   - Towa Otonashi
+8025   - Rui Mizuki
+8026   - Zenji Kotodama
+8027   - Jiro Kirisaki
+8028   - Leo Kurosagi
+8029   - Isaki Riona
+8030   - Koganei Niko
+8031   - Mizumiya Su
+8032   - Rindo Chihaya
+8033   - Kikirara Vivi
+8034   - Touta Matsuda
+8035   - Teru Mikami
+8036   - Aglaea
+8037   - Phoebe
+8038   - Brant
+8039   - Roccia
+8040   - Zani
+8041   - Carlotta
+8042   - Gina Chamber
+8043   - Billy Alfred
+8044   - Juiz
+8045   - Top Bull Sparx
+8046   - Latla Mirah
+8047   - Mui
+8048   - Mavuika
+8049   - Citlali
+8050   - Marika Shiraishi
+8051   - Mai Niijima
+8052   - Takae Niijima
+8053   - Keisuke Niijima
+8054   - Ken Takakura
+8055   - Momo Ayase
+8056   - Aira Shiratori
+8057   - Seiko Ayase
+8058   - Turbo Granny
+8059   - Rokuro
+8060   - Acrobatic Silky
+8061   - Muko
+8062   - Miko
+8063   - Lanyan
+8064   - Tabito Karasu
+8065   - Eita Otoya
+8066   - You Hiori
+8067   - Ikki Niko
+8068   - Ryuusei Shidou
+8069   - Zantetsu Tsurugi
+8070   - Oliver Aiku
+8071   - Jingo Raichi
+8072   - Kenyuu Yukimiya
+8073   - Juubee Aryuu
+8074   - Jinpachi Ego
+8075   - Wataru Kuon
+8076   - Anri Teieri
+8077   - Aoshi Tokimitsu
+8078   - Howard Phillips Lovecraft
+8079   - Suou
+8080   - Tokiwa
+8081   - Fuji
+8082   - Asagi
+8083   - Kohaku
+8084   - Hagi
+8085   - Akari Amano
+8086   - Elly
+8087   - Hinata Natsuki
+8088   - Sophie Twilight
+8089   - Kei Agemaki
+8090   - Zakuro
+8091   - Susukihotaru
+8092   - Bonbori
+8093   - Hozuki
+8094   - Riken Yoshinokazura
+8095   - Ganryuu Hanakiri
+8096   - Elena Amamiya
+8097   - Hikaru Hoshina
+8098   - Madoka Kaguya
+8099   - Yuni
+8100   - Emiru Aisaki
+8101   - Ruru Amour
+8102   - Homare Kagayaki
+8103   - Saaya Yakushiji
+8104   - Henri Wakamiya
+8105   - Akane Hino
+8106   - Miyuki Hoshizora
+8107   - Nao Midorikawa
+8108   - Candy
+8109   - Joker
+8110   - Minori Ichinose
+8111   - Asuka Takizawa
+8112   - Himari Arisugawa
+8113   - Ciel Kirahoshi
+8114   - Bibury
+8115   - Mana Aida
+8116   - Rikka Hishikawa
+8117   - Makoto Kenzaki
+8118   - Aguri Madoka
+8119   - Alice Yotsuba
+8120   - Regina
+8121   - Elle
+8122   - Battamonda
+8123   - Iroha Inukai
+8124   - Komugi Inukai
+8125   - Mayu Nekoyashiki
+8126   - Yuki Nekoyashiki
+8127   - Daifuku Toyama
+8128   - Satoru Toyama
+8129   - Zakuro
+8130   - Torame
+8131   - Millions Knives
+8132   - Zazie
+8133   - King Halo
+8134   - Rice Shower
+8135   - Matikane Tannhauser
+8136   - Pinecone
+8137   - Liltotto Lamperd
+8138   - Meninas McAllon
+8139   - Giselle Gewelle
+8140   - Nikki
+8141   - Momo
+8142   - Lapis Aoki
+8143   - Astra Yao
+8144   - Senor Pink
+8145   - Karoo
+8146   - Emporio Ivankov
+8147   - Caesar Clown
+8148   - Benn Beckman
+8149   - Gaimon
+8150   - Vegapunk
+8151   - Shaka
+8152   - Lilith
+8153   - Edison
+8154   - Pythagoras
+8155   - Atlas
+8156   - York
+8157   - Nojiko
+8158   - Bellemere
+8159   - Arlong
+8160   - Killer
+8161   - Kinemon
+8162   - Komurasaki
+8163   - Kozuki Momonosuke
+8164   - Black Maria
+8165   - Sengoku
+8166   - Makino
+8167   - Stussy
+8168   - Belo Betty
+8169   - Doll
+8170   - Evelyn Chevalier
+8171   - Crimson
+8172   - Ragna
+8173   - Ultimatia
+8174   - Carla
+8175   - Chimera
+8176   - Glea
+8177   - Hazella
+8178   - Leonica
+8179   - Slime
+8180   - Starlia Leese
+8181   - Izayoi Nonomi
+8182   - Okusora Ayane
+8183   - Kurosaki Koyuki
+8184   - Nanagami Rin
+8185   - Tsukiyuki Miyako
+8186   - Tanga Ibuki
+8187   - Motomiya Chiaki
+8188   - Kyougoku Satsuki
+8189   - Hanaoka Yuzu
+8190   - Ceres
+8191   - Yves
+8192   - Adolphe
+8193   - Ankou
+8194   - Lucas Proust
+8195   - Mathis Claude
+8196   - Scien Brofiise
+8197   - Dahut
+8198   - Lynette Mirror
+8199   - Ryuki F. Keisaiin
+8200   - Allan Melville
+8201   - Gill Lovecraft
+8202   - Raul Aconite
+8203   - Shelby Snail
+8204   - Peter Flage
+8205   - Merenice Levin
+8206   - Taiki Inomata
+8207   - Chinatsu Kano
+8208   - Hina Chouno
+8209   - Kyou Kasahara
+8210   - Kengo Haryuu
+8211   - Hikaru Amatsuga
+8212   - Alma
+8213   - Aki Murasame
+8214   - Jun Kagami
+8215   - Mita
+8216   - Mingfei Lu
+8217   - Mingze Lu
+8218   - Motong Chen
+8219   - Zihang Chu
+8220   - Cesar Gattuso
+8221   - Norma Rohens
+8222   - Mai Sakatoku
+8223   - Zero
+8224   - Finger Von Frings
+8225   - Tribbie
+8226   - Mydei
+8227   - Xavier
+8228   - Sylus
+8229   - Rafayel
+8230   - Zayne
+8231   - Yuna Amagami
+8232   - Yae Amagami
+8233   - Asahi Amagami
+8234   - Uryuu Kamihate
+8235   - Kotarou Kawaii
+8236   - Puniru
+8237   - Mami Kirara
+8238   - Alice Okanega
+8239   - Houdai
+8240   - Yumemizuki Mizuki
+8241   - Mei Terumi
+8242   - Kaguya Ootsutsuki
+8243   - Shizune
+8244   - Kurenai Yuuhi
+8245   - Anko Mitarashi
+8246   - Samui
+8247   - Kushina Uzumaki
+8248   - Karin Uzumaki
+8249   - Asuma Sarutobi
+8250   - Pulchra Fellini
+8251   - Trigger
+8252   - Kunou
+8253   - Kurumi Haraga
+8254   - Mei Meido
+8255   - Iku Sutou
+8256   - Mimimi Utsukushisugi
+8257   - Meme Kakure
+8258   - Castorice  
+8259   - Anaxa  
+8260   - Varesa  
+8261   - Iansan  
+8262   - Cantarella  
+8263   - Umi Matsuzaki  
+8264   - Shun Kazama  
+8265   - Shirou Mizunuma  
+8266   - Sachiko Hirokouji  
+8267   - Vivian  
+8268   - Hugo Vlad  
+8269   - Febri  
+8270   - Last Order  
+8271   - Komoe Tsukuyomi  
+8272   - Frenda Seivelun  
+8273   - Aisa Himegami  
+8274   - Mitori Kouzaku  
+8275   - Oriana Thomson  
+8276   - Shizuri Mugino  
+8277   - Mitsuko Kongou  
+8278   - Seiri Fukiyose  
+8279   - Arisa Meigo  
+8280   - Hyouka Natsume  
+8281   - Hakuo  
+8282   - Chika Ono  
+8283   - Tomoko  
+8284   - Jetavie  
+8285   - Yamato  
+8286   - Killer Bee  
+8287   - Tarou Sakamoto  
+8288   - Shin Asakura  
+8289   - Lu Shaotang  
+8290   - Heisuke Mashimo  
+8291   - Yoichi Nagumo  
+8292   - Osaragi  
+8293   - Shishiba  
+8294   - Cinderella  
+8295   - Grave  
+8296   - Flora  
+8297   - Rouge  
+8298   - Mana  
+8299   - Phantom  
+8300   - Rumani  
+8301   - Trina  
