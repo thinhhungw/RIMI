@@ -2,7 +2,8 @@
 - This is my second project, so there might still be some mistakes.  
 
 ## 🔗 Install C++: https://www.msys2.org/  
-- To run my code, you need to install C++ first.  
+- To run my code, you need to install C++ first.
+- Then put C:\msys64\ucrt64\bin on the PATH
 
 ## 🔍 ADJUSTMENTS REQUIRED  
 - You need to modify a few things to search for character names.  
