@@ -23,6 +23,17 @@ void copyToClipboard(const string& text) {
     }
 }
 
+// Hàm xóa ký tự ẩn (zero-width, khoảng trắng không mong muốn)
+string cleanString(const string &s) {
+    string result;
+    for (char c : s) {
+        if (!isspace(c) && c > 31) { // Loại bỏ ký tự điều khiển và khoảng trắng không mong muốn
+            result += c;
+        }
+    }
+    return result;
+}
+
 // Hàm chuyển đổi mẫu đầu vào thành regex
 string convertToRegex(const string &pattern) {
     string regexPattern = "^";
@@ -44,6 +55,16 @@ int main() {
     
     string pattern;
     getline(cin, pattern);
+    pattern = cleanString(pattern); // Xóa ký tự ẩn trước khi dùng regex
+
+    // Debug: In mã ASCII của input để kiểm tra ký tự lạ
+    cout << "Pattern nhập vào: " << pattern << endl;
+    cout << "Mã ASCII của từng ký tự: ";
+    for (char c : pattern) {
+        cout << int(c) << " ";
+    }
+    cout << endl;
+
     regex regexPattern(convertToRegex(pattern));
     
     string line;
@@ -54,9 +75,9 @@ int main() {
         if (commaPos == string::npos) continue; // Bỏ qua nếu không có dấu phẩy
         
         string word = line.substr(commaPos + 1);
-        word.erase(0, word.find_first_not_of(" \t")); // Loại bỏ khoảng trắng đầu
-        word.erase(word.find_last_not_of(" \t") + 1); // Loại bỏ khoảng trắng cuối
-        
+        word.erase(remove_if(word.begin(), word.end(), ::isspace), word.end()); // Xóa khoảng trắng dư thừa
+        word = cleanString(word); // Xóa ký tự ẩn
+
         if (regex_match(word, regexPattern)) {
             results.push_back(word);
         }
