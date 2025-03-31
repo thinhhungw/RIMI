@@ -29,8 +29,8 @@
 ## 📩 Contact me on Discord:  
 - Username: migu_2008  
 
-## VIDEO WILL HELP YOU SETUP
+## 🎬 VIDEO WILL HELP YOU SETUP
 - https://drive.google.com/file/d/105yjEw5bb6xeg79BgHJfi4Jt3ivvE9tm/view?usp=sharing
 
-## HAVE FUN!
+## 🎉 HAVE FUN!
 - Follow my github profile for more :3
